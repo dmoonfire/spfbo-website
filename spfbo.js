@@ -1,8 +1,17 @@
 function updateCounts() {
 	var visible = $(".book:visible").length;
 	var total = $(".book").length;
+	var percentage = Math.floor(10000 * visible / total) / 100;
 	
 	$("#counts").html(visible.toLocaleString() + "/" + total.toLocaleString());
+	$("#percentage").html(percentage + "%");
+	
+	if (visible === 0)
+	{
+		$("#nothing").show();
+	} else {
+		$("#nothing").hide();
+	}
 }
 
 function appendKeyValue(label, value, parent) {
@@ -235,6 +244,7 @@ function showResults() {
 		var elem = $(item);
 		var classId = item.id.replace("checkbox-", "");
 
+		// Hook up events when the button is toggled.
 		elem.on('click', function() {
 			// Get the toggle state.
 			var checked = elem.prop("checked");
@@ -248,7 +258,11 @@ function showResults() {
 			
 			// Update the count of books.
 			updateCounts();
-		})
+		});
+		
+		// Add in the counts at the end.
+		var number = $("." + classId).length;
+		elem.parent().append(" (" + number + ")");
 	});
 	
 	// Hide the loading box and display the results.

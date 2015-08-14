@@ -14,7 +14,14 @@ body {
 	font-family: 'Source Serif Pro', serif;
 }
 
-#loading { font-size: x-large; }
+#loading, #nothing {
+	font-size: x-large;
+	text-align: center;
+}
+
+#nothing {
+	display: none;
+}
 
 .status-winner-hide,
 .status-finalist-hide,
@@ -62,6 +69,12 @@ h4.panel-title {
 	font-size: xx-large;
 	text-align: center;
 }
+
+#percentage {
+	text-align: center;
+	font-weight: bold;
+	font-size: large;
+}
 		</style>
 	</head>
 	<body>
@@ -90,11 +103,13 @@ h4.panel-title {
 			<div class="row">
 				<div class="col-md-9" id="book-container">
 					<div id="loading">Loading&hellip;</div>
+					<div id="nothing">Nothing&hellip;<br/>An empty list&hellip;<br/>A blank page&hellip;</div>
 				</div>
 				<div class="col-md-3">
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<div id="counts"></div>
+							<div id="percentage"></div>
 						</div>
 					</div>
 
@@ -210,6 +225,22 @@ h4.panel-title {
 							</div>
 						</div>
 					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<h3>Honorable Mentions</h3>
+					
+					<p>Not all the reviewers have explictly called out honorable mentions, which is one reason for this
+					site. Below are the justifications for marking items as honorable mentions.</p>
+					
+					<h3>Categories</h3>
+					
+					<p>Soapbox time. The reason I've included nationality, gender, and race in the selection criteria is
+					because there aren't that many non-cis-gendered white males writing books in general. I want to
+					encourage it, but the hardest point is pointing out that the unbalance exists. So, you can filter
+					on those conditions to see how they balance out across the submissions.
 				</div>
 			</div>
 		</div>
