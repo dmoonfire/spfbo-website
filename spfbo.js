@@ -16,10 +16,11 @@ function onData(textData) {
 		{
 			// Figure out slugs and IDs.
 			var slug = book.title.toLowerCase().replace(/\s+/g, "-").replace("’", "");
-			var status_slug = "status-" + book.status.toLowerCase();
-			var gender_slug = "gender-" + book.gender.toLowerCase();
-			var race_slug = "race-" + book.race.toLowerCase();
-			var nationality_slug = "nationality-" + book.nationality.toLowerCase();
+			var status_slug = "status-" + book.status.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
+			var gender_slug = "gender-" + book.gender.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
+			var race_slug = "race-" + book.race.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
+			var nationality_slug = "nationality-" + book.nationality.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
+			var group_slug = "group-" + reviewer.group.toLowerCase().replace(/\s+/g, "-").replace(/['’]/, "");;
 			
 			// Figure out the panel based on the status.
 			var panelType = "panel-warning";
@@ -37,6 +38,7 @@ function onData(textData) {
 				+ status_slug + " "
 				+ gender_slug + " "
 				+ race_slug + " "
+				+ group_slug + " "
 				+ nationality_slug
 				+ "'></div>");
 			var panelHeading = $(
