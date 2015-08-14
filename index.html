@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>SPFBO</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<style>
+#loading { font-size: x-large; }
+
+.status-winner-hide,
+.status-finalist-hide,
+.status-honorable-hide,
+.status-considering-hide,
+.status-passed-hide,
+.gender-female-hide,
+.gender-male-hide,
+.gender-unknown-hide
+{
+	display: none;
+}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="page-header">
+						<h1>SPFBO</h1>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-9" id="book-container">
+					<div id="loading">Loading&hellip;</div>
+				</div>
+				<div class="col-md-3">
+					<div class="well">
+						<h4>Status</h4>
+						<div class="checkbox">
+							<label><input id="checkbox-status-winner" type="checkbox" checked> Winner</label>
+						</div>
+						<div class="checkbox">
+							<label><input id="checkbox-status-finalist" type="checkbox" checked> Finalists</label>
+						</div>
+						<div class="checkbox">
+							<label><input id="checkbox-status-honorable" type="checkbox" checked> Honorable Mentions</label>
+						</div>
+						<div class="checkbox">
+							<label><input id="checkbox-status-considering" type="checkbox" checked> Still Considering</label>
+						</div>
+						<div class="checkbox">
+							<label><input id="checkbox-status-passed" type="checkbox" checked> Passed Over</label>
+						</div>
+
+						<h4>Gender</h4>
+						<div class="checkbox">
+							<label><input id="checkbox-gender-female" type="checkbox" checked> Female</label>
+						</div>
+						<div class="checkbox">
+							<label><input id="checkbox-gender-male" type="checkbox" checked> Male</label>
+						</div>
+						<div class="checkbox">
+							<label><input id="checkbox-gender-unknown" type="checkbox" checked> Unknown</label>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script src="spfbo.js"></script>
+</html>

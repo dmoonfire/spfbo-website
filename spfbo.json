@@ -1,0 +1,1974 @@
+[{
+		"reviewer" : "Sarah Chorn",
+		"group" : "Bookworm Blues",
+		"books" : [{
+				"author" : "Tony Barrett",
+				"title" : "Stranger’s Descent",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Ben Galley",
+				"title" : "Blood Rush",
+				"status" : "Finalist",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jesse Jack Jones",
+				"title" : "The Darkness Undivided",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Sean Rodden",
+				"title" : "Whispers of War",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Scott Marlowe",
+				"title" : "The Five Elements",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Matt Waldram",
+				"title" : "Monsters of Elsewhere",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Eve Peters",
+				"title" : "Children of the Fallen",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Kip Manley",
+				"title" : "City of Roses: Autumn into Winter",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jeff Haas",
+				"title" : "Searching for Nada",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Paul Kleynhans",
+				"title" : "Dark Legion",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Ioana Visan",
+				"title" : "The Impaler Legacy Omnibus",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jay Flynn",
+				"title" : "The Fivefold Prophecy",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Pauline M Ross",
+				"title" : "The Plains of Kallanash",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Greg Mahan",
+				"title" : "A Touch of Magic",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Matt Karlov",
+				"title" : "The Unbound Man",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Ted Cross",
+				"title" : "The Shard",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "S.M. White",
+				"title" : "The Lonely Man : The Witch’s Price",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Diana Peach",
+				"title" : "The Bone Wall",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Felix Hartmann",
+				"title" : "Dark Age",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Bryan Henderson",
+				"title" : "Tales of Ordegron",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "G. R. Matthews",
+				"title" : "The Stone Road",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jonathan Ashman",
+				"title" : "Black Cross",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Claire Frank",
+				"title" : "To Whatever End",
+				"status" : "Withdrawn",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "M.S Verish",
+				"title" : "Dawning",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Emily McNeely",
+				"title" : "Leaving Bisht",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Luke Matthews",
+				"title" : "Construct",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Patricia Burroughs",
+				"title" : "The Crumbling Pageant",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Holly Blackstone",
+				"title" : "A World Away",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "Steve Diamond",
+		"group" : "Elitist Book Reviews",
+		"books" : [{
+				"author" : "Stephanie Caine",
+				"title" : "Storm Shadow",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "D. Moonfire",
+				"title" : "Sand and Blood",
+				"status" : "Honorable",
+				"gender" : "Male",
+				"race" : "Caucasian",
+				"nationality" : "United States",
+				"words" : 69830,
+				"pov" : "3rd Limited",
+				"tense" : "Past",
+				"keywords" : ["Coming of Age", "Steampunk", "Anime"],
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"rating" : 8,
+							"url" : "http://elitistbookreviews.com/2015/04/14/sand-and-blood/"
+						}
+					],
+					"book" : [{
+							"type" : "landing",
+							"url" : "https://sand-and-blood.fedran.com/"
+						}, {
+							"type" : "amazon",
+							"asin" : "B00KFQ0YCS"
+						}, {
+							"type" : "smashwords",
+							"id" : "439650"
+						}, {
+							"type" : "goodreads",
+							"id" : "22581837-sand-and-blood"
+						}
+					],
+					"author" : [{
+							"type" : "blog",
+							"url" : "https://d.moonfire.us/"
+						}, {
+							"type" : "twitter",
+							"id" : "dmoonfire"
+						}, {
+							"type" : "facebook",
+							"id" : "dmoonfirefans"
+						}, {
+							"type" : "google+",
+							"id" : "110772252513189006556"
+						}, {
+							"type" : "ello",
+							"id" : "dmoonfire"
+						}, {
+							"type" : "reddit",
+							"id" : "dmoonfire"
+						}
+					]
+				}
+			}, {
+				"author" : "Joe Donahue",
+				"title" : "The Final Requiem",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Christopher Kellen",
+				"title" : "The Elements of Sorcery",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Heidi Collotzi",
+				"title" : "The Secret of Avonoa",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Terry Green",
+				"title" : "Shaman, Healer, Heretic",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Tony Healey",
+				"title" : "The Bloody North",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Tom Wright",
+				"title" : "Apex Rising",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Callista Hunter",
+				"title" : "Goddess",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Tristan Gregory",
+				"title" : "The Swordsman of Carn Nebeth",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "JP Lantern",
+				"title" : "Up the Tower",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jeff Morin",
+				"title" : "Fire Hurler",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Sean Froyd",
+				"title" : "Inanis the Hooded",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Melisa McPhail",
+				"title" : "Cephrael’s Hand",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Michael Watson",
+				"title" : "Valkwitch",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Robert Dahlen",
+				"title" : "Of Introductions and Abductiond",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Matt Forbeck",
+				"title" : "Hard Times in Dragon City",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Michael Karner",
+				"title" : "Red Axe, Black Sun",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Timothy Bond",
+				"title" : "The Watcher’s Keep",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Martin Owton",
+				"title" : "The Exile of Darien",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Christopher Hayhurst",
+				"title" : "Metal, Salt, and Sand",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Michael McClung",
+				"title" : "The thief who pulled on trouble’s braids",
+				"status" : "Honorable",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Christian Freed",
+				"title" : "Hammers in the Wind",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jacob Cooper",
+				"title" : "Circle of Reign",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jack Newhouse",
+				"title" : "Journey",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Brian Kramer",
+				"title" : "Godhede",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Salvador Mercer",
+				"title" : "The Black Dragon",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "Mark Aplin",
+		"group" : "Fantasy-Faction",
+		"books" : [{
+				"author" : "Tristan J Tarwater",
+				"title" : "The Self-Made Scoundrel",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Daniel Batt",
+				"title" : "Keaghan in the tales of Dreamside",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Christopher MacDonald",
+				"title" : "The Dreaded",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Dan Hupalo",
+				"title" : "The String Quartet",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Matthew Colville",
+				"title" : "Priest",
+				"status" : "Honorable",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Sever Bronny",
+				"title" : "Arcane",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "D.P Brown",
+				"title" : "A Fairie’s Tear",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Gregory Close",
+				"title" : "In Siege of Daylight",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Landon Portor",
+				"title" : "A girl and her monster",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Tom Wright",
+				"title" : "Blood for Blood",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Elizabeth McCoy",
+				"title" : "Queen of Roses",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Casey Peter",
+				"title" : "After the Burning",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jonathan Moeller",
+				"title" : "Frostborn",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "John Dodds",
+				"title" : "The Mechanikals",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jenn Gott",
+				"title" : "The Lady of Souls",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Sena Bryer",
+				"title" : "Dreambound",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "M. Edward McNally",
+				"title" : "The Sable City",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "James Cormier",
+				"title" : "Exile",
+				"status" : "Honorable",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Mark Gardner",
+				"title" : "Champion Standing",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Thaddeus White",
+				"title" : "Journey to Altmortis",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Shauna Granger",
+				"title" : "World of Ash",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "James Islington",
+				"title" : "The shadow of what was lost",
+				"status" : "Honorable",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Magnus von Black",
+				"title" : "The Song and the Pendant",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Luke Spry",
+				"title" : "This Grave Kingdom",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Davis Ashura",
+				"title" : "The Castes and the Outcastes",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Daniel Eavenson",
+				"title" : "Dave Woke Up",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Joe Bailey",
+				"title" : "Shadow’s Rise",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "Mihir Wanchoo",
+		"group" : "Fantasy Book Critic",
+		"books" : [{
+				"author" : "Corey Bryers",
+				"title" : "Scrapper",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Alex Ziebart",
+				"title" : "Blood and Masks",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Beth Lyons",
+				"title" : "The Soul Thief",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Scott Warren",
+				"title" : "Sorcerous Crimes Division: Devil Bone",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Domino Finn",
+				"title" : "Shade City",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "David Tatum",
+				"title" : "The Kitsune Stratagem",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Charlotte Cyprus",
+				"title" : "Kiss of the Fae",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Scott McGowan",
+				"title" : "Bjorn and Bread",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Greg James",
+				"title" : "Under a colder sun",
+				"status" : "Finalist",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Andy Crawford",
+				"title" : "The Pen is Mightier",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Brian Lynch",
+				"title" : "King Callie",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Christopher Ruz",
+				"title" : "Century of Sand",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Anthony Lowe",
+				"title" : "City of Blades",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Eric Knight",
+				"title" : "Wreckers Gate",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Melissa Porter",
+				"title" : "Purple",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Rachel Bowden",
+				"title" : "Artisan",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Annika Howells",
+				"title" : "How to disappear completely",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Wilf Jones",
+				"title" : "The Best of Men",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Robert Mullin",
+				"title" : "Bid the gods arise",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Sean Moran",
+				"title" : "A Time of Kings",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Rob Donovan",
+				"title" : "Ritual of the Stones",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Randall Fitzgerald",
+				"title" : "No One’s Chosen",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Nat Russo",
+				"title" : "Necromancer Awakening",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "A. Murtagh",
+				"title" : "Soldiers",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jenny Watson",
+				"title" : "Spirit’s Mage",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Ken Lim",
+				"title" : "The Starfall Knight",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Victor Salinas",
+				"title" : "The Sword and its Servant",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "Lynn Williams",
+		"group" : "Lynn's Books",
+		"books" : [{
+				"author" : "Noel Coughlan",
+				"title" : "A Bright Power Rising",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "R.P Rigoli",
+				"title" : "Red",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jennifer Bell",
+				"title" : "A warrior’s legacy: Jamie",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Andrew Rowe",
+				"title" : "Forging Divinity",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Melody Taylor",
+				"title" : "In the Dark",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Tavish Kaeden",
+				"title" : "The Weight of a Crown",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "David Pedersen",
+				"title" : "Angst",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Adam Lee",
+				"title" : "Dark Heart",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Kal S Davian",
+				"title" : "Naming the Bane",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Patrick J Loller",
+				"title" : "Forged by Battle",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "T.C Pearce",
+				"title" : "Into the Aether",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Will Kay",
+				"title" : "Requiem of Innocence",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Benny Hinrichs",
+				"title" : "The Oneironauts",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Neil McGarry & Daniel Ravipinto",
+				"title" : "The Duchess of the Shallows",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Nick Marsden",
+				"title" : "The Light of Theolan",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Janice McKonly",
+				"title" : "Welcome to Mystery Interior",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Steve Thomas",
+				"title" : "Klondaeg the Monster Hunter",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Wayne Miller",
+				"title" : "The Dung Ball Chronicle",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Amanda McCrina",
+				"title" : "His Own Good Sword",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jack Kerr",
+				"title" : "Tommy Black and the Staff of Light",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Scott Decker",
+				"title" : "Gemstone Wyverns",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Terry Simpson",
+				"title" : "Game of Souls",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Cindy Young-Turner",
+				"title" : "Thief of Hope",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Ruairi Cinead Ducantlin",
+				"title" : "Verum – Exercitum ex Nihilo",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jake Scholl",
+				"title" : "Blade of the Broken",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "JR Karlsson",
+				"title" : "Escana",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Maya Michaels",
+				"title" : "Iduna",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "Milo",
+		"group" : "The Fictional Hangout",
+		"books" : [{
+				"author" : "Karen de Lange",
+				"title" : "Beneath Starlight",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "LJ Cohen",
+				"title" : "Time and Tithe",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "SM Barrett",
+				"title" : "The Halloween Host",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Patty Jansen",
+				"title" : "Fire and Ice",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "KJ Tantardini",
+				"title" : "God Striker",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "William Dickstein",
+				"title" : "A Tale of Gems",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jeff Goelz",
+				"title" : "The Rightful Queen",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Daniel Aspden",
+				"title" : "Hero the Killer",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Robert Courtland",
+				"title" : "Jack of Troubles",
+				"status" : "Honorable",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Daniel Quigley",
+				"title" : "Thunder Struck",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Violet Patterson",
+				"title" : "Emerald Seer",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Mary C Moore",
+				"title" : "Angelus",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Milo Woods",
+				"title" : "Rupture",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Seth Lindberg",
+				"title" : "Spawn of Dyscrasia",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Robert Luis Rabello",
+				"title" : "Ceremonies and Celebrations",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "T.O Munro",
+				"title" : "Lady of the Helm",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Brad Carsten",
+				"title" : "Riftwalkers",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jack Thane",
+				"title" : "Forsaken",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jonathan Walles",
+				"title" : "The little girl and the shadow",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Plague Jack",
+				"title" : "Sins of Sovereignty",
+				"status" : "Honorable",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Trip Ellington",
+				"title" : "Game Alive",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Daniel Ionson",
+				"title" : "After Life",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "David Moton",
+				"title" : "Chama",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Peter Fugazzotto",
+				"title" : "Black River",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Ellis L Knox",
+				"title" : "The Garden of Hugo Vuerloz",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "JM McDermott",
+				"title" : "Straggletaggle",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Astra Crompton",
+				"title" : "Firstborn",
+				"status" : "Considering",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "Bob Milne",
+		"group" : "Beauty in Ruins",
+		"books" : [{
+				"author" : "Stoo Goff",
+				"title" : "Knights of Elevar",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Blair MacGregor",
+				"title" : "Sand of Bone",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Rick Chiantaretto",
+				"title" : "Death of the Body",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Steve Muse",
+				"title" : "Heir of Nostalgia",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Lila Lestrange",
+				"title" : "Black Silk",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "VJ Lakshman",
+				"title" : "Mythborn",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "EJ Stevens",
+				"title" : "Burning Bright",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Anthony Stevens",
+				"title" : "Shifter Shadows",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Rob Vitaro",
+				"title" : "By the light of the moons",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Claude Blakhen",
+				"title" : "Osterode",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Andy Grinsfelder",
+				"title" : "Soulraker",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "JL Doty",
+				"title" : "Child of the Sword",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "JD Brink",
+				"title" : "Tarnish",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "William G Saraband",
+				"title" : "Shattered Sands",
+				"status" : "Finalist",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Craig Saunders",
+				"title" : "The Outlaw King",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Kevin Butterfield",
+				"title" : "Stormwalkers",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "James Latimer",
+				"title" : "The Winter Warrior",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Brad Williams",
+				"title" : "Chadwick Yates and the Cannibal Shrine",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "CV Dreesman",
+				"title" : "The Marksmith",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jay Swanson",
+				"title" : "Into the Nanten",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Annie Bellet",
+				"title" : "Avarice",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Kelly Russo",
+				"title" : "Dreamweavers",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "JD Hallowell",
+				"title" : "Dragon Fate",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "James Gawley",
+				"title" : "Legionnaire",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Siana Wineland",
+				"title" : "Emergence",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Greg Dragon",
+				"title" : "Re-wired",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "Ria",
+		"group" : "Bibliotropic",
+		"books" : [{
+				"author" : "A.E Marling",
+				"title" : "Chisel and Frost",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : ". J. Edward Richie",
+				"title" : "Fall from Grace",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Peyton Reynolds",
+				"title" : "The Auguries of Dawn",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "William D Richards",
+				"title" : "The Aggadeh Chronicles",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Shiriluna Nott",
+				"title" : "A Call to Arms",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Barbara Webb",
+				"title" : "City of Burning Shadows",
+				"status" : "Finalist",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Amelia Smith",
+				"title" : "Scrapplings",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Erin Snyder",
+				"title" : "A Court of Five",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Irina Rempt",
+				"title" : "Terms of Service",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "M. Todd Gallowglas",
+				"title" : "Dead Weight",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "TL Morganfield",
+				"title" : "The Bone Flower Queen",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Karen Gellender",
+				"title" : "The Problem With Black Magic",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Vanna Smythe",
+				"title" : "Protector",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Annette Gisby",
+				"title" : "The Chosen",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Sean Hannifin",
+				"title" : "Son of a Dark Wizard",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Robyn Wideman",
+				"title" : "Son of Thoron",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Lori Alden Holuta",
+				"title" : "The flight to Brassbright",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Chris Northern",
+				"title" : "The Last King’s Amulet",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Marc Johnson",
+				"title" : "Catalyst",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "JK  Swift",
+				"title" : "Altdorf",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Randall Boleyn",
+				"title" : "Wave Links to the Gods",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Nathan Boyce",
+				"title" : "Chronicle of Unfortunate Heroes",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Olga Godim",
+				"title" : "Squirrel of Magic",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "GB Wren",
+				"title" : "The Silvering of Loran",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Alan Zendell",
+				"title" : "The Portal",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Mark Tyson",
+				"title" : "Defenders of the Sacred Land",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "Tyson Mauermann",
+		"group" : "The Speculative Book Review",
+		"books" : [{
+				"author" : "AJ Colby",
+				"title" : "Hunted",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Tyler Danann",
+				"title" : "The Way Captain",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Lisa Hayward",
+				"title" : "Blood Work",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Nicholas R Andrews",
+				"title" : "Secrets of the Stonechaser",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Susan D Kalior",
+				"title" : "Warriors in the Mist",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Lianne Miller",
+				"title" : "Nights of Shadow",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Crista McHugh",
+				"title" : "A Soul for Trouble",
+				"status" : "Finalist",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Sara C Roethle",
+				"title" : "Tree of Ages",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jonathan Crocker",
+				"title" : "A Dream of Hope and Sorrow",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Kirby Moore",
+				"title" : "Starfall City",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "CG Garcia",
+				"title" : "Old Souls",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Michele Amitrani",
+				"title" : "Omnilogos",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "NM Sotzek",
+				"title" : "Revealing the Revolution",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Eliza Marie Jones",
+				"title" : "Rynlee’s Song",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Philip R Hall",
+				"title" : "Memories of the Dead",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "SA Hunter",
+				"title" : "Unicorn Bait",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "L Blankenship",
+				"title" : "Disciple",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Mark Maxwell",
+				"title" : "The London Project",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Frances Pauli",
+				"title" : "Blame the Bearer",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "William Dooling",
+				"title" : "Synchronicity",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Clare C Marshall",
+				"title" : "The Violet Fox",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Stephen Roy",
+				"title" : "Black Redneck vs The Space Zombies",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Robert Michael",
+				"title" : "Stone and Blood",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Masha du Toit",
+				"title" : "Crooks and Straights",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Nicholas Mena",
+				"title" : "Cayuye",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Steve S Grant",
+				"title" : "Conqueror’s Law",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}, {
+		"reviewer" : "'The Guys'",
+		"group" : "Fantasy Book Review",
+		"books" : [{
+				"author" : "Nate Jones",
+				"title" : "Undying Heights",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Rinelle Grey",
+				"title" : "Twin Curse",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "TR Goodman",
+				"title" : "My Name is Michael Bishop",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Henry Lion Oldie",
+				"title" : "ShMagic",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Christina Ochs",
+				"title" : "Prophet of Ruin",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Marilyn Peake",
+				"title" : "Shade",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Charlie Ward",
+				"title" : "Frotwoot's Faerie Tales",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Victoria Jeffrey",
+				"title" : "Schisms",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Graham Austin-King",
+				"title" : "Fae - The Wild Hunt",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Kade Derricks",
+				"title" : "Paladin’s Redemption",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Anastasia Marie",
+				"title" : "Binding Power",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Melanie Nilles",
+				"title" : "Spirit Blade",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Ashley Nixon",
+				"title" : "Cutlass",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jack Connor",
+				"title" : "The Atomic Sea",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Kenton Crowther",
+				"title" : "A Prince in Gangland",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "David Benem",
+				"title" : "What Remains of Heroes",
+				"status" : "Finalist",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Nick Moseley",
+				"title" : "Location, Location, Damnation",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Tom Fallwell",
+				"title" : "Dragon Rising",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "SB Jones",
+				"title" : "Skymages and the Gateway of Time",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Jaleta Clegg",
+				"title" : "Dark Dancer",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Michael Ploof",
+				"title" : "The Whill of Agora",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "J Niomi Ay",
+				"title" : "The boy who lit up the sky",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "T Lynne Tolle",
+				"title" : "Hades’ Revenge",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Shawn Wickersheim",
+				"title" : "The Penitent Assassin",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "John Patrick Kennedy",
+				"title" : "The Descended",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "CM Cox",
+				"title" : "Sortilege",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}, {
+				"author" : "Scarlett Dawn",
+				"title" : "Valan Playboys",
+				"status" : "Passed",
+				"gender" : "Unknown",
+				"race" : "Unknown",
+				"nationality" : "Unknown"
+			}
+		]
+	}
+]
