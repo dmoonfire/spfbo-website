@@ -1,6 +1,20 @@
+function updateCounts() {
+	var visible = $(".book:visible").length;
+	var total = $(".book").length;
+	
+	$("#counts").html(visible.toLocaleString() + "/" + total.toLocaleString());
+}
+
 function appendKeyValue(label, value, parent) {
 	if (value)
 	{
+		// Numbers should always be comma-separated.
+		if (typeof(value) == "number")
+		{
+			value = value.toLocaleString();
+		}
+		
+		// Create a line item for it.
 		$("<div class='row'><div class='col-md-2 metadata-key'>" + label + ":</div><div class='col-md-10 metadata-value'>" + value + "</div></div>")
 			.appendTo(parent);
 	}
@@ -13,18 +27,25 @@ function appendKeyUrls(label, urls, parent) {
 		return;
 	}
 	
-	// Create the elements we'll append to.
-	var row = $("<div class='row'></div>");
-	var key = $("<div class='col-md-2 metadata-key'>" + label + "</div>");
-	var values = $("<div class='col-md-10 metadata-value'></div>");
-	
-	row.append(key);
-	row.append(values);
-	parent.append(row);
-
 	// Go through each URL and add the entry.
+	label += ":";
+	
 	for (url of urls)
 	{
+		// Create the elements we'll append to.
+		var row = $("<div class='row'></div>");
+		var key = $("<div class='col-md-2 metadata-key'>" + label + "</div>");
+		var values = $("<div class='col-md-3 metadata-value'></div>");
+		var urlText = $("<div class='col-md-7 metadata-url'></div>");
+		
+		row.append(key);
+		row.append(values);
+		row.append(urlText);
+		parent.append(row);
+		
+		// Reset the label so it doesn't repeat.
+		label = "";
+
 		// Figure out the actual url.
 		var u = url.url;
 		var t = u;
@@ -45,6 +66,7 @@ function appendKeyUrls(label, urls, parent) {
 				var a = "<a href='https://www.amazon.com/dp/" + url.asin + "'>Amazon US</a>";
 				a += " <a href='https://www.amazon.co.uk/dp/" + url.asin + "'>UK</a>";
 				a += "<br/>"
+				urlText.append("<a href='https://www.amazon.com/dp/" + url.asin + "'>https://www.amazon.com/dp/" + url.asin + "</a><br/>");
 				values.append(a);
 				continue;
 				
@@ -80,6 +102,7 @@ function appendKeyUrls(label, urls, parent) {
 		}
 		
 		// Add in the entry.
+		urlText.append("<a href='" + u + "'>" + u + "</a><br/>");
 		values.append("<a href='" + u + "'>" + t + "</a><br/>");
 	}
 }
@@ -114,6 +137,7 @@ function onData(textData) {
 				case "Finalist": panelType = "panel-success"; break;
 				case "Passed": panelType = "panel-default"; break;
 				case "Honorable": panelType = "panel-info"; break;
+				case "Withdrawn": panelType = "panel-danger"; break;
 			}
 			
 			var panel = $(
@@ -124,7 +148,7 @@ function onData(textData) {
 				+ race_slug + " "
 				+ group_slug + " "
 				+ nationality_slug
-				+ "'></div>");
+				+ " book'></div>");
 			var panelHeading = $(
 				"<div class='panel-heading' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
 				+ "<h4 class='panel-title'>"
@@ -138,6 +162,7 @@ function onData(textData) {
 				+ slug + "-title'></div>");
 			var panelBody = $("<div class='panel-body'></div></div>");
 				
+			panel.hide();
 			container.append(panel);
 			panel.append(panelHeading);
 			panel.append(panelBodyContainer);
@@ -148,6 +173,7 @@ function onData(textData) {
 			var cover = $("<div class='col-md-2'></div>");
 			var summary = $("<div class='col-md-10'></div>");
 			
+			panelBody.append("<h3>" + book.title + "</h3>");
 			panelBody.append(summaryRow);
 			summaryRow.append(cover);
 			summaryRow.append(summary);
@@ -179,6 +205,7 @@ function onData(textData) {
 			cover = $("<div class='col-md-2'></div>");
 			summary = $("<div class='col-md-10'></div>");
 			
+			panelBody.append("<h3>" + book.author + "</h3>");
 			panelBody.append(summaryRow);
 			summaryRow.append(cover);
 			summaryRow.append(summary);
@@ -198,22 +225,6 @@ function onData(textData) {
 			{
 				appendKeyUrls("Links", book.urls.author, summary);
 			}
-			/*
-<div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
-      <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Collapsible Group Item #1
-        </a>
-      </h4>
-    </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-      </div>
-    </div>
-  </div>
-  */
 		}
 	}
 }
@@ -234,13 +245,18 @@ function showResults() {
 			} else {
 				$("div." + classId).addClass(classId + "-hide");
 			}
+			
+			// Update the count of books.
+			updateCounts();
 		})
-		//console.log(classId, item);
 	});
-
+	
 	// Hide the loading box and display the results.
 	$("#loading").hide();
-	console.log("Done loading.");
+	$(".book").show();
+
+	// Update the count of books.
+	updateCounts();
 }
 
 $(document).ready(function() {

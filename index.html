@@ -4,11 +4,16 @@
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>SPFBO</title>
+		<title>Self-Published Fantasy Blog-Off</title>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+		<link href='http://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700' rel='stylesheet' type='text/css'>
 		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<style>
+body {
+	font-family: 'Source Serif Pro', serif;
+}
+
 #loading { font-size: x-large; }
 
 .status-winner-hide,
@@ -16,6 +21,7 @@
 .status-honorable-hide,
 .status-considering-hide,
 .status-passed-hide,
+.status-withdrawn-hide,
 .gender-female-hide,
 .gender-male-hide,
 .gender-unknown-hide,
@@ -44,6 +50,18 @@ h4.panel-title {
 .metadata-key {
 	font-weight: bold;
 }
+
+.metadata-url {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+#counts {
+	font-weight: bold;
+	font-size: xx-large;
+	text-align: center;
+}
 		</style>
 	</head>
 	<body>
@@ -51,7 +69,20 @@ h4.panel-title {
 			<div class="row">
 				<div class="col-md-12">
 					<div class="page-header">
-						<h1>SPFBO</h1>
+						<h1>Self-Published Fantasy Blog-Off</h1>
+						
+						<p>In March of 2015, <a href="http://mark---lawrence.blogspot.com/2015/03/the-great-self-published-fantasy-blog.html">Mark Lawrence</a>
+						decided to use his own personal fame to get a bunch of book reviewers to look at a number of self-published fantasy books. During that
+						process, books were chosen as finalists for a second round review with one book being chosen as a winner. <a href="https://d.moonfire.us/">I</a>
+						submitted my book, but I also wanted to give everyone who submitted a little additional bit of discovery for their books. So this is
+						my summary of the books, along with the "honorable mentions", the books reviewers said were good but couldn't be their one choice for
+						the second round.</p>
+						
+						<p>Some of this information may be out of date, it is a volunteer effort but either I will update it or you can submit a pull request
+						on the <a href="https://github.com/dmoonfire/spfbo-website">Github</a> page and changes will be made and updated on this site. If
+						you have questions about this page, please open a issue on the Github site.</p>
+						
+						<p>Clicking on the titles will expand the box with more information.</p>
 					</div>
 				</div>
 			</div>
@@ -61,82 +92,122 @@ h4.panel-title {
 					<div id="loading">Loading&hellip;</div>
 				</div>
 				<div class="col-md-3">
-					<div class="well">
-						<h4>Status</h4>
-						<div class="checkbox">
-							<label><input id="checkbox-status-winner" type="checkbox" checked> Winner</label>
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<div id="counts"></div>
 						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-status-finalist" type="checkbox" checked> Finalists</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-status-honorable" type="checkbox" checked> Honorable Mentions</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-status-considering" type="checkbox" checked> Still Considering</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-status-passed" type="checkbox" checked> Passed Over</label>
-						</div>
+					</div>
 
-						<h4>Reviewers</h4>
-						<div class="checkbox">
-							<label><input id="checkbox-group-bookworm-blues" type="checkbox" checked> Bookworm Blues</label>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Status</h3>
 						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-elitist-book-reviews" type="checkbox" checked> Elitist Book Reviews</label>
+						<div class="panel-body">
+							<div class="checkbox">
+								<label><input id="checkbox-status-winner" type="checkbox" checked> Winner</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-status-finalist" type="checkbox" checked> Finalists</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-status-honorable" type="checkbox" checked> Honorable Mentions</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-status-considering" type="checkbox" checked> Still Considering</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-status-passed" type="checkbox" checked> Passed Over</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-status-withdrawn" type="checkbox" checked> Withdrawn</label>
+							</div>
 						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-fantasy-faction" type="checkbox" checked> Fantasy Faction</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-fantasy-book-critic" type="checkbox" checked> Fantasy Book Critic</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-lynns-books" type="checkbox" checked> Lynn's Books</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-the-fictional-hangout" type="checkbox" checked> The Fictional Hangout</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-beauty-in-ruins" type="checkbox" checked> Beauty in Ruins</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-bibliotropic" type="checkbox" checked> Bibliotropic</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-the-speculative-book-review" type="checkbox" checked> The Speculative Book Review</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-group-fantasy-book-review" type="checkbox" checked> Fantasy Book Review</label>
-						</div>
-						<div class="checkbox">
+					</div>
 
-						<h4>Gender</h4>
-						<div class="checkbox">
-							<label><input id="checkbox-gender-female" type="checkbox" checked> Female</label>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Reviewers</h3>
 						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-gender-male" type="checkbox" checked> Male</label>
-						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-gender-unknown" type="checkbox" checked> Unknown</label>
-						</div>
+						<div class="panel-body">
+							<div class="checkbox">
+								<label><input id="checkbox-group-bookworm-blues" type="checkbox" checked> Bookworm Blues</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-elitist-book-reviews" type="checkbox" checked> Elitist Book Reviews</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-fantasy-faction" type="checkbox" checked> Fantasy Faction</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-fantasy-book-critic" type="checkbox" checked> Fantasy Book Critic</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-lynns-books" type="checkbox" checked> Lynn's Books</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-the-fictional-hangout" type="checkbox" checked> The Fictional Hangout</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-beauty-in-ruins" type="checkbox" checked> Beauty in Ruins</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-bibliotropic" type="checkbox" checked> Bibliotropic</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-the-speculative-book-review" type="checkbox" checked> The Speculative Book Review</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-group-fantasy-book-review" type="checkbox" checked> Fantasy Book Review</label>
+							</div>
 
-						<h4>Race</h4>
-						<div class="checkbox">
-							<label><input id="checkbox-race-caucasian" type="checkbox" checked> Caucasian</label>
 						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-race-unknown" type="checkbox" checked> Unknown</label>
-						</div>
+					</div>
 
-						<h4>Nationality</h4>
-						<div class="checkbox">
-							<label><input id="checkbox-nationality-united-states" type="checkbox" checked> United States</label>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Gender</h3>
 						</div>
-						<div class="checkbox">
-							<label><input id="checkbox-gender-unknown" type="checkbox" checked> Unknown</label>
+						<div class="panel-body">
+							<h4>Gender</h4>
+							<div class="checkbox">
+								<label><input id="checkbox-gender-female" type="checkbox" checked> Female</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-gender-male" type="checkbox" checked> Male</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-gender-unknown" type="checkbox" checked> Unknown</label>
+							</div>
+
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Race</h3>
+						</div>
+						<div class="panel-body">
+							<div class="checkbox">
+								<label><input id="checkbox-race-caucasian" type="checkbox" checked> Caucasian</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-race-unknown" type="checkbox" checked> Unknown</label>
+							</div>
+
+						</div>
+					</div>
+
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Nationality</h3>
+						</div>
+						<div class="panel-body">
+							<div class="checkbox">
+								<label><input id="checkbox-nationality-united-states" type="checkbox" checked> United States</label>
+							</div>
+							<div class="checkbox">
+								<label><input id="checkbox-gender-unknown" type="checkbox" checked> Unknown</label>
+							</div>
 						</div>
 					</div>
 				</div>
