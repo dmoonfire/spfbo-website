@@ -116,9 +116,12 @@ function appendKeyUrls(label, urls, parent) {
 	}
 }
 
-function onData(textData) {
+function onData(data) {
 	// Parse the results as JSON.
-	var data = JSON.parse(textData);
+	if (typeof(textData) === "string")
+	{
+		data = JSON.parse(data);
+	}
 	
 	// Loop through the reviewer and create the results.
 	var container = $("#book-container");
