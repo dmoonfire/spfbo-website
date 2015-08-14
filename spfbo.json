@@ -221,6 +221,7 @@
 				"tense" : "Past",
 				"keywords" : ["Coming of Age", "Steampunk", "Anime"],
 				"urls" : {
+					"cover": "http://sand-and-blood.fedran.com/img/cover-160.jpg",
 					"reviews" : [{
 							"type" : "review",
 							"rating" : 8,
@@ -261,7 +262,8 @@
 							"id" : "dmoonfire"
 						}
 					]
-				}
+				},
+				"summary": "<p>At seventeen, Rutejìmo wanted nothing more than to be the clan's greatest warrior. He dreamed of sprinting across the desert faster than a horse and using sunlight and flame as a weapons against the night. He wanted to be the hero that everyone spoke of over the fires.</p><p>When he and four other teenagers were abandoned in the middle of the desert, it wasn't Rutejìmo who became the warrior, but his rival Chimípu. She was already the fastest and strongest. With her new powers, she became everything Rutejìmo dreamed for himself.</p><p>Plagued by jealousy and desperate to prove himself, Rutejìmo abandoned her to begin the long trek back home. One selfish choice led to another, and soon Rutejìmo's fantasies were stripped away to reveal the man he had become. To redeem himself, he must sacrifice his pride for his clan, survive an warrior looking for blood, and offer his throat to the woman who stole his dreams.</p><p>Sand and Blood is the first of three novels exploring Rutejìmo's life. It is a harrowing tale of self-discovery and his search to find his place among friends, clan, and the brutal world of the Mifuno Desert. It is set in an gritty world where the only way to learn magic is to risk death and survive.</p>"
 			}, {
 				"author" : "Joe Donahue",
 				"title" : "The Final Requiem",

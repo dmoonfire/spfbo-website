@@ -1,8 +1,3 @@
-function toggleFilter(data, data2) {
-	console.log("data", data);
-	console.log("data2", data2);
-}
-
 function onData(textData) {
 	// Parse the results as JSON.
 	var data = JSON.parse(textData);
@@ -21,6 +16,9 @@ function onData(textData) {
 			var race_slug = "race-" + book.race.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
 			var nationality_slug = "nationality-" + book.nationality.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
 			var group_slug = "group-" + reviewer.group.toLowerCase().replace(/\s+/g, "-").replace(/['’]/, "");;
+			
+			if (status_slug === "status-passed") { status_slug += " status-passed-hide"; }
+			if (gender_slug === "gender-unknown") { status_slug += " gender-unknown-hide"; }
 			
 			// Figure out the panel based on the status.
 			var panelType = "panel-warning";
@@ -42,15 +40,43 @@ function onData(textData) {
 				+ nationality_slug
 				+ "'></div>");
 			var panelHeading = $(
-				"<div class='panel-heading'>"
+				"<div class='panel-heading' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
 				+ "<h4 class='panel-title'>"
-				+ "<a role='button'><strong>" + book.title + "</strong></a>"
+				+ "<strong>" + book.title
 				+ " <small>" + book.author + "</small>"
-				+ "</h4>"
+				+ "</a></h4>"
 				+ "</div>");
+			var panelBodyContainer = $(
+				"<div id='" + slug
+				+ "' class='panel-collapse collapse in' aria-labelledby='"
+				+ slug + "-title'></div>");
+			var panelBody = $("<div class='panel-body'></div></div>");
+				
+			container.append(panel);
+			panel.append(panelHeading);
+			panel.append(panelBodyContainer);
+			panelBodyContainer.append(panelBody);
+						
+			// Add in the information about the book.
+			var summaryRow = $("<div class='row'></div>");
+			var cover = $("<div class='col-md-2'></div>");
+			var summary = $("<div class='col-md-10'></div>");
 			
-			panelHeading.appendTo(panel);
-			panel.appendTo(container);
+			panelBody.append(summaryRow);
+			summaryRow.append(cover);
+			summaryRow.append(summary);
+			
+			if (book.urls && book.urls.cover)
+			{
+				$("<img class='img-responsive' src='" + book.urls.cover + "' alt='" + book.title + " cover'/>")
+					.appendTo(cover);
+			}
+			
+			if (book.summary)
+			{
+				$(book.summary).appendTo(summary);
+			}
+			
 
 			/*
 <div class="panel panel-default">
