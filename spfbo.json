@@ -967,6 +967,14 @@
 				"author" : "Amanda McCrina",
 				"title" : "His Own Good Sword",
 				"status" : "Considering",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Lynn's Book",
+							"url" : "https://lynnsbooks.wordpress.com/2015/03/10/his-own-good-sword-by-amanda-mccrina/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1235,7 +1243,15 @@
 			}, {
 				"author" : "Blair MacGregor",
 				"title" : "Sand of Bone",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1249,7 +1265,15 @@
 			}, {
 				"author" : "Steve Muse",
 				"title" : "Heir of Nostalgia",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1263,14 +1287,30 @@
 			}, {
 				"author" : "VJ Lakshman",
 				"title" : "Mythborn",
-				"status" : "Passed",
+				"status" : "Honorable",
 				"gender" : "Unknown",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "EJ Stevens",
 				"title" : "Burning Bright",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1284,7 +1324,15 @@
 			}, {
 				"author" : "Rob Vitaro",
 				"title" : "By the light of the moons",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1333,7 +1381,15 @@
 			}, {
 				"author" : "Kevin Butterfield",
 				"title" : "Stormwalkers",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1347,8 +1403,16 @@
 			}, {
 				"author" : "Brad Williams",
 				"title" : "Chadwick Yates and the Cannibal Shrine",
-				"status" : "Passed",
+				"status" : "Honorable",
 				"gender" : "Unknown",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
@@ -1382,7 +1446,15 @@
 			}, {
 				"author" : "JD Hallowell",
 				"title" : "Dragon Fate",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1402,8 +1474,16 @@
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Greg Dragon",
-				"title" : "Re-wired",
-				"status" : "Passed",
+				"title" : "Re-Wired",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1415,14 +1495,30 @@
 		"books" : [{
 				"author" : "A.E Marling",
 				"title" : "Chisel and Frost",
-				"status" : "Passed",
-				"gender" : "Unknown",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
+                "gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : ". J. Edward Richie",
 				"title" : "Fall from Grace",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1443,7 +1539,15 @@
 			}, {
 				"author" : "Shiriluna Nott",
 				"title" : "A Call to Arms",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1451,13 +1555,29 @@
 				"author" : "Barbara Webb",
 				"title" : "City of Burning Shadows",
 				"status" : "Finalist",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Amelia Smith",
 				"title" : "Scrapplings",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1485,7 +1605,15 @@
 			}, {
 				"author" : "TL Morganfield",
 				"title" : "The Bone Flower Queen",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1499,21 +1627,45 @@
 			}, {
 				"author" : "Vanna Smythe",
 				"title" : "Protector",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Annette Gisby",
 				"title" : "The Chosen",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Sean Hannifin",
 				"title" : "Son of a Dark Wizard",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1534,7 +1686,15 @@
 			}, {
 				"author" : "Chris Northern",
 				"title" : "The Last King's Amulet",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
