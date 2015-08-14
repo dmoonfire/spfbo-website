@@ -211,6 +211,7 @@
 				"nationality" : "Unknown"
 			}, {
 				"author" : "D. Moonfire",
+				"about" : "<p>D. Moonfire is the remarkable result of the intersection of a computer nerd, a scientist, and polymath. Instead of focusing on a single genre, he writes stories and novels in many different settings ranging from fantasy to science fiction. He also throws in the occasional romance or forensics murder mystery to mix things up.</p><p>In addition to having a borderline unhealthy obsession with the written word, he is also a developer who loves to code as much as he loves writing.</p><p>He lives near Cedar Rapids, Iowa with his wife, numerous pet computers, and a pair of highly mobile things of the male variety.</p>",
 				"title" : "Sand and Blood",
 				"status" : "Honorable",
 				"gender" : "Male",
@@ -221,15 +222,18 @@
 				"tense" : "Past",
 				"keywords" : ["Coming of Age", "Steampunk", "Anime"],
 				"urls" : {
+					"avatar" : "https://s.gravatar.com/avatar/297a9bdb0fa420979e43b08a50f5f0a7?s=256&r=g",
 					"cover": "http://sand-and-blood.fedran.com/img/cover-160.jpg",
 					"reviews" : [{
 							"type" : "review",
 							"rating" : 8,
+							"title" : "Elitist Book Reviews",
 							"url" : "http://elitistbookreviews.com/2015/04/14/sand-and-blood/"
 						}
 					],
 					"book" : [{
 							"type" : "landing",
+							"title": "Landing",
 							"url" : "https://sand-and-blood.fedran.com/"
 						}, {
 							"type" : "amazon",
@@ -244,6 +248,7 @@
 					],
 					"author" : [{
 							"type" : "blog",
+							"title" : "Blog",
 							"url" : "https://d.moonfire.us/"
 						}, {
 							"type" : "twitter",
