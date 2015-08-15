@@ -441,6 +441,14 @@
 				"author" : "Michael McClung",
 				"title" : "The thief who pulled on trouble's braids",
 				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Elitist Book Reviews",
+							"url" : "http://elitistbookreviews.com/2015/03/27/the-thief-who-pulled-on-troubles-braids/"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -702,7 +710,15 @@
 			}, {
 				"author" : "Scott Warren",
 				"title" : "Sorcerous Crimes Division: Devil Bone",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Fantasy Book Critic",
+							"url" : "http://fantasybookcritic.blogspot.co.uk/2015/03/the-great-self-published-fantasy-blog.html?m=0"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -896,7 +912,14 @@
 			}, {
 				"author" : "Andrew Rowe",
 				"title" : "Forging Divinity",
-				"status" : "Considering",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/tag/spfbo/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -995,6 +1018,13 @@
 				"author" : "Janice McKonly",
 				"title" : "Welcome to Mystery Interior",
 				"status" : "Passed",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/tag/spfbo/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1044,7 +1074,14 @@
 			}, {
 				"author" : "Scott Decker",
 				"title" : "Gemstone Wyverns",
-				"status" : "Considering",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/tag/spfbo/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1071,6 +1108,10 @@
 						"type" : "review",
 						"title" : "Lynn's Books",
 						"url" : "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+					},{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/tag/spfbo/"
 					}],
                 },
 				"gender" : "Unknown",
@@ -1080,13 +1121,27 @@
 				"author" : "Ruairi Cinead Ducantlin",
 				"title" : "Verum – Exercitum ex Nihilo",
 				"status" : "Passed",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/tag/spfbo/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Jake Scholl",
 				"title" : "Blade of the Broken",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/tag/spfbo/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1321,12 +1376,16 @@
 			}, {
 				"author" : "Blair MacGregor",
 				"title" : "Sand of Bone",
-				"status" : "Mentioned",
+				"status" : "Honorable",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
 							"title" : "Beauty in Ruin",
 							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						},{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.ca/p/great-self-published-fantasy-blog-off.html"
 						}
 					]
                 },
@@ -1446,6 +1505,14 @@
 				"author" : "William G Saraband",
 				"title" : "Shattered Sands",
 				"status" : "Finalist",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.ca/p/great-self-published-fantasy-blog-off.html"
+						}
+					]
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1459,12 +1526,16 @@
 			}, {
 				"author" : "Kevin Butterfield",
 				"title" : "Stormwalkers",
-				"status" : "Mentioned",
+				"status" : "Honorable",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
 							"title" : "Beauty in Ruin",
 							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						},{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.ca/p/great-self-published-fantasy-blog-off.html"
 						}
 					]
                 },
@@ -1530,6 +1601,10 @@
 							"type" : "review",
 							"title" : "Beauty in Ruin",
 							"url" : "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+						},{
+							"type" : "review",
+							"title" : "Beauty in Ruin",
+							"url" : "http://beauty-in-ruins.blogspot.ca/p/great-self-published-fantasy-blog-off.html"
 						}
 					]
                 },
@@ -1735,12 +1810,18 @@
 			}, {
 				"author" : "Sean Hannifin",
 				"title" : "Son of a Dark Wizard",
-				"status" : "Mentioned",
+				"status" : "Honorable",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
 							"title" : "Bibliotropic",
 							"url" : "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+						},
+{
+							"type" : "review",
+                            "rating": 6.5,
+							"title" : "Bibliotropic",
+							"url" : "http://bibliotropic.net/2015/03/27/spfbo-review-son-of-a-dark-wizard-by-sean-patrick-hannifin/"
 						}
 					]
                 },
@@ -1841,6 +1922,13 @@
 				"author" : "AJ Colby",
 				"title" : "Hunted",
 				"status" : "Passed",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Speculative Book Review",
+						"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-1.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1848,6 +1936,13 @@
 				"author" : "Tyler Danann",
 				"title" : "The Way Captain",
 				"status" : "Passed",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Speculative Book Review",
+						"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-1.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1855,13 +1950,27 @@
 				"author" : "Lisa Hayward",
 				"title" : "Blood Work",
 				"status" : "Passed",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Speculative Book Review",
+						"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-1.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Nicholas R Andrews",
 				"title" : "Secrets of the Stonechaser",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Speculative Book Review",
+						"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-1.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1869,6 +1978,13 @@
 				"author" : "Susan D Kalior",
 				"title" : "Warriors in the Mist",
 				"status" : "Passed",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Speculative Book Review",
+						"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-1.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -2069,7 +2185,14 @@
 			}, {
 				"author" : "Charlie Ward",
 				"title" : "Frotwoot's Faerie Tales",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Review",
+						"url" : "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -2090,7 +2213,14 @@
 			}, {
 				"author" : "Kade Derricks",
 				"title" : "Paladin's Redemption",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Review",
+						"url" : "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -2118,7 +2248,14 @@
 			}, {
 				"author" : "Jack Connor",
 				"title" : "The Atomic Sea",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Review",
+						"url" : "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -2133,6 +2270,13 @@
 				"author" : "David Benem",
 				"title" : "What Remains of Heroes",
 				"status" : "Finalist",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Review",
+						"url" : "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -2167,7 +2311,14 @@
 			}, {
 				"author" : "Michael Ploof",
 				"title" : "The Whill of Agora",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Review",
+						"url" : "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -2188,7 +2339,14 @@
 			}, {
 				"author" : "Shawn Wickersheim",
 				"title" : "The Penitent Assassin",
-				"status" : "Passed",
+				"status" : "Honorable",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Review",
+						"url" : "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
