@@ -717,7 +717,11 @@
 							"title" : "Fantasy Book Critic",
 							"url" : "http://fantasybookcritic.blogspot.co.uk/2015/03/the-great-self-published-fantasy-blog.html?m=0"
 						}
-					]
+					,{
+						"type" : "review",
+						"title" : "Fantasy Book Critic",
+						"url" : "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
                 },
 				"gender" : "Unknown",
 				"race" : "Unknown",
@@ -732,14 +736,28 @@
 			}, {
 				"author" : "David Tatum",
 				"title" : "The Kitsune Stratagem",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Critic",
+						"url" : "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Charlotte Cyprus",
 				"title" : "Kiss of the Fae",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Critic",
+						"url" : "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -767,7 +785,14 @@
 			}, {
 				"author" : "Brian Lynch",
 				"title" : "King Callie",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Fantasy Book Critic",
+						"url" : "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1195,6 +1220,10 @@
 						"rating" : 5.9,
 						"title" : "The Fictional Hangout",
 						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/03/fire-ice-by-patty-jansen.html"
+					},{
+						"type" : "review",
+						"title" : "The Fictional Hangout",
+						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
 					}],
                 },
 				"gender" : "Unknown",
@@ -1232,6 +1261,13 @@
 				"author" : "Robert Courtland",
 				"title" : "Jack of Troubles",
 				"status" : "Honorable",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "The Fictional Hangout",
+						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1252,7 +1288,14 @@
 			}, {
 				"author" : "Mary C Moore",
 				"title" : "Angelus",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "The Fictional Hangout",
+						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1309,6 +1352,13 @@
 				"author" : "Plague Jack",
 				"title" : "Sins of Sovereignty",
 				"status" : "Honorable",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "The Fictional Hangout",
+						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1322,7 +1372,14 @@
 			}, {
 				"author" : "Daniel Ionson",
 				"title" : "After Life",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "The Fictional Hangout",
+						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1343,7 +1400,14 @@
 			}, {
 				"author" : "Ellis L Knox",
 				"title" : "The Garden of Hugo Vuerloz",
-				"status" : "Passed",
+				"status" : "Mention",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "The Fictional Hangout",
+						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1357,7 +1421,14 @@
 			}, {
 				"author" : "Astra Crompton",
 				"title" : "Firstborn",
-				"status" : "Considering",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "The Fictional Hangout",
+						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1991,7 +2062,14 @@
 			}, {
 				"author" : "Lianne Miller",
 				"title" : "Nights of Shadow",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Speculative Book Review",
+							"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-2.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1999,34 +2077,69 @@
 				"author" : "Crista McHugh",
 				"title" : "A Soul for Trouble",
 				"status" : "Finalist",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Speculative Book Review",
+							"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-2.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Sara C Roethle",
 				"title" : "Tree of Ages",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Speculative Book Review",
+							"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-2.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Jonathan Crocker",
 				"title" : "A Dream of Hope and Sorrow",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Speculative Book Review",
+							"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-2.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Kirby Moore",
 				"title" : "Starfall City",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Speculative Book Review",
+							"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-2.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "CG Garcia",
 				"title" : "Old Souls",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls" : {
+					"reviews" : [{
+							"type" : "review",
+							"title" : "Speculative Book Review",
+							"url" : "http://speculativebookreview.blogspot.co.uk/2015/04/review-2015-reading-challenge-part-2.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
