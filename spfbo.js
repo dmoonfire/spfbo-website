@@ -131,12 +131,12 @@ function onData(data) {
 		for (var book of reviewer.books)
 		{
 			// Figure out slugs and IDs.
-			var slug = book.title.toLowerCase().replace(/\s+/g, "-").replace("’", "");
-			var status_slug = "status-" + book.status.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
-			var gender_slug = "gender-" + book.gender.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
-			var race_slug = "race-" + book.race.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
-			var nationality_slug = "nationality-" + book.nationality.toLowerCase().replace(/\s+/g, "-").replace("’", "");;
-			var group_slug = "group-" + reviewer.group.toLowerCase().replace(/\s+/g, "-").replace(/['’]/, "");;
+			var slug = book.title.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+			var status_slug = "status-" + book.status.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+			var gender_slug = "gender-" + book.gender.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+			var race_slug = "race-" + book.race.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+			var nationality_slug = "nationality-" + book.nationality.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+			var group_slug = "group-" + reviewer.group.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
 			
 			//if (status_slug === "status-passed") { status_slug += " status-passed-hide"; }
 			//if (gender_slug === "gender-unknown") { status_slug += " gender-unknown-hide"; }
