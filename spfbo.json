@@ -95,21 +95,42 @@
 			}, {
 				"author" : "Greg Mahan",
 				"title" : "A Touch of Magic",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Bookworm Blues",
+						"url" : "http://www.bookwormblues.net/2015/03/13/the-great-self-published-fantasy-blog-off-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Matt Karlov",
 				"title" : "The Unbound Man",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Bookworm Blues",
+						"url" : "http://www.bookwormblues.net/2015/03/13/the-great-self-published-fantasy-blog-off-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Ted Cross",
 				"title" : "The Shard",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Bookworm Blues",
+						"url" : "http://www.bookwormblues.net/2015/03/13/the-great-self-published-fantasy-blog-off-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -144,7 +165,14 @@
 			}, {
 				"author" : "G. R. Matthews",
 				"title" : "The Stone Road",
-				"status" : "Passed",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Bookworm Blues",
+						"url" : "http://www.bookwormblues.net/2015/03/13/the-great-self-published-fantasy-blog-off-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -185,8 +213,15 @@
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Patricia Burroughs",
-				"title" : "The Crumbling Pageant",
-				"status" : "Passed",
+				"title" : "This Crumbling Pageant",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Bookworm Blues",
+						"url" : "http://www.bookwormblues.net/2015/03/13/the-great-self-published-fantasy-blog-off-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -966,7 +1001,7 @@
 			}, {
 				"author" : "Amanda McCrina",
 				"title" : "His Own Good Sword",
-				"status" : "Considering",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1243,7 +1278,7 @@
 			}, {
 				"author" : "Blair MacGregor",
 				"title" : "Sand of Bone",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1265,7 +1300,7 @@
 			}, {
 				"author" : "Steve Muse",
 				"title" : "Heir of Nostalgia",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1287,7 +1322,7 @@
 			}, {
 				"author" : "VJ Lakshman",
 				"title" : "Mythborn",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"gender" : "Unknown",
 				"urls" : {
 					"reviews" : [{
@@ -1302,7 +1337,7 @@
 			}, {
 				"author" : "EJ Stevens",
 				"title" : "Burning Bright",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1324,7 +1359,7 @@
 			}, {
 				"author" : "Rob Vitaro",
 				"title" : "By the light of the moons",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1381,7 +1416,7 @@
 			}, {
 				"author" : "Kevin Butterfield",
 				"title" : "Stormwalkers",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1403,7 +1438,7 @@
 			}, {
 				"author" : "Brad Williams",
 				"title" : "Chadwick Yates and the Cannibal Shrine",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"gender" : "Unknown",
 				"urls" : {
 					"reviews" : [{
@@ -1446,7 +1481,7 @@
 			}, {
 				"author" : "JD Hallowell",
 				"title" : "Dragon Fate",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1475,7 +1510,7 @@
 			}, {
 				"author" : "Greg Dragon",
 				"title" : "Re-Wired",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1495,7 +1530,7 @@
 		"books" : [{
 				"author" : "A.E Marling",
 				"title" : "Chisel and Frost",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1510,7 +1545,7 @@
 			}, {
 				"author" : ". J. Edward Richie",
 				"title" : "Fall from Grace",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1539,7 +1574,7 @@
 			}, {
 				"author" : "Shiriluna Nott",
 				"title" : "A Call to Arms",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1569,7 +1604,7 @@
 			}, {
 				"author" : "Amelia Smith",
 				"title" : "Scrapplings",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1605,7 +1640,7 @@
 			}, {
 				"author" : "TL Morganfield",
 				"title" : "The Bone Flower Queen",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1627,7 +1662,7 @@
 			}, {
 				"author" : "Vanna Smythe",
 				"title" : "Protector",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1642,7 +1677,7 @@
 			}, {
 				"author" : "Annette Gisby",
 				"title" : "The Chosen",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1657,7 +1692,7 @@
 			}, {
 				"author" : "Sean Hannifin",
 				"title" : "Son of a Dark Wizard",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
@@ -1686,7 +1721,7 @@
 			}, {
 				"author" : "Chris Northern",
 				"title" : "The Last King's Amulet",
-				"status" : "Honorable",
+				"status" : "Mentioned",
 				"urls" : {
 					"reviews" : [{
 							"type" : "review",
