@@ -931,7 +931,14 @@
 			}, {
 				"author" : "Kal S Davian",
 				"title" : "Naming the Bane",
-				"status" : "Considering",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -945,7 +952,14 @@
 			}, {
 				"author" : "T.C Pearce",
 				"title" : "Into the Aether",
-				"status" : "Considering",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1016,7 +1030,14 @@
 			}, {
 				"author" : "Jack Kerr",
 				"title" : "Tommy Black and the Staff of Light",
-				"status" : "Considering",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1030,14 +1051,28 @@
 			}, {
 				"author" : "Terry Simpson",
 				"title" : "Game of Souls",
-				"status" : "Considering",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
 			}, {
 				"author" : "Cindy Young-Turner",
 				"title" : "Thief of Hope",
-				"status" : "Considering",
+				"status" : "Mentioned",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"title" : "Lynn's Books",
+						"url" : "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
@@ -1099,6 +1134,14 @@
 				"author" : "Patty Jansen",
 				"title" : "Fire and Ice",
 				"status" : "Passed",
+				"urls": {
+				    "reviews" : [{
+						"type" : "review",
+						"rating" : 5.9,
+						"title" : "The Fictional Hangout",
+						"url" : "http://thefictionalhangout.blogspot.co.uk/2015/03/fire-ice-by-patty-jansen.html"
+					}],
+                },
 				"gender" : "Unknown",
 				"race" : "Unknown",
 				"nationality" : "Unknown"
