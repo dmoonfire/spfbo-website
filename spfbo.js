@@ -271,13 +271,60 @@ function showResults() {
 	// Hide the loading box and display the results.
 	$("#loading").hide();
 	$(".book").show();
+	$("#search-form").show();
+
+	// If there is a hash, then use that.
+	if (window.location.hash)
+	{
+		var hash = decodeURIComponent(window.location.hash)
+			.substring(1)
+			.replace(/\+/g, " ");
+		console.log("hash", hash);
+		$("#search").prop("value", hash);
+		searchBooks();
+	}
 
 	// Update the count of books.
 	updateCounts();
 }
 
+function searchBooks() {
+	// Get the search terms from the box.
+	var filter = $("#search").val();
+	var terms = filter.toLowerCase().split(/[\s,]+/);
+	
+	console.log("searching", terms);
+	
+	// Loop through the book and figure out which one we are showing.
+	$(".book").each(function(){
+		// Get a combined title and text, then search that every token
+		// is inside the token.
+		var name = $(this).find("h4").text().toLowerCase();
+		var valid = true;
+		
+		for (term of terms)
+		{
+			var found = name.search(term) >= 0;
+			
+			if (!found)
+			{
+				valid = false;
+				break;
+			}
+		}
+		
+		// Based on the valid flag, we hide or show it.
+		$(this).toggleClass("search-hide", !valid);
+	});
+	
+	// Update the counts.
+	updateCounts();
+}
+
 $(document).ready(function() {
 	// Retrieve the results and populate them.
-	$.get("spfbo.json", onData)
-		.done(showResults);
+	$.get("spfbo.json", onData).done(showResults);
+
+	// Hoop up the live search.
+	$("#search").keyup(searchBooks);
 });

@@ -36,6 +36,7 @@ body {
 .race-caucasian-hide,
 .race-unknown-hide,
 .nationality-united-states-hide,
+.nationality-british-hide,
 .nationality-unknown-hide,
 .group-bookworm-blues-hide,
 .group-elitist-book-reviews-hide,
@@ -46,7 +47,8 @@ body {
 .group-beauty-in-ruins-hide,
 .group-bibliotropic-hide,
 .group-the-speculative-book-review-hide,
-.group-fantasy-book-review-hide
+.group-fantasy-book-review-hide,
+.search-hide
 {
 	display: none;
 }
@@ -105,6 +107,9 @@ h4.panel-title {
 				<div class="col-md-9" id="book-container">
 					<div id="loading">Loading&hellip;</div>
 					<div id="nothing">Nothing&hellip;<br/>An empty list&hellip;<br/>A blank page&hellip;</div>
+					<div id="search-form" style="display: none; margin-bottom: 1em;">
+					  <input type="text" class="form-control" id="search" placeholder="Search for Title or Author">
+					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="panel panel-default">
@@ -221,6 +226,9 @@ h4.panel-title {
 							<h3 class="panel-title">Nationality</h3>
 						</div>
 						<div class="panel-body">
+							<div class="checkbox">
+								<label><input id="checkbox-nationality-british" type="checkbox" checked> British</label>
+							</div>
 							<div class="checkbox">
 								<label><input id="checkbox-nationality-united-states" type="checkbox" checked> United States</label>
 							</div>
