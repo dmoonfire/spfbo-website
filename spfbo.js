@@ -15,7 +15,7 @@ function updateCounts() {
 }
 
 function appendKeyValue(label, value, parent) {
-	if (value)
+	if (value && value !== "Unknown")
 	{
 		// Numbers should always be comma-separated.
 		if (typeof(value) == "number")
@@ -233,6 +233,10 @@ function onData(data) {
 				$(book.about).appendTo(summary);
 			}
 			
+			appendKeyValue("Gender", book.gender, summary);
+			appendKeyValue("Race", book.race, summary);
+			appendKeyValue("Nationality", book.nationality, summary);
+
 			if (book.urls)
 			{
 				appendKeyUrls("Links", book.urls.author, summary);

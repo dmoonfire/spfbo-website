@@ -399,7 +399,12 @@
                         {
                             "id": "JP_Ashman",
                             "type": "twitter"
-                        }
+                        },
+						{
+							"title": "Goodreads Author",
+							"type": "blog",
+							"url": "https://www.goodreads.com/author/show/12302356.J_P_Ashman"
+						}
                     ],
                     "book": [
                         {
@@ -3759,7 +3764,12 @@
                             "title": "Fantasy Book Review",
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
-                        }
+                        },
+						{
+							"title": "Fantasy Book Review",
+							"type": "review",
+							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+						}
                     ]
                 }
             },
@@ -3792,7 +3802,12 @@
                             "title": "Fantasy Book Review",
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
-                        }
+                        },
+						{
+							"title": "Fantasy Book Review",
+							"type": "review",
+							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+						}
                     ]
                 }
             },
@@ -3864,7 +3879,12 @@
                             "title": "Fantasy Book Review",
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
-                        }
+                        },
+						{
+							"title": "Fantasy Book Review",
+							"type": "review",
+							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+						}
                     ]
                 }
             },
@@ -3913,7 +3933,12 @@
                             "title": "Fantasy Book Review",
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
-                        }
+                        },
+						{
+							"title": "Fantasy Book Review",
+							"type": "review",
+							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+						}
                     ]
                 }
             },
@@ -3935,18 +3960,58 @@
             },
             {
                 "author": "Shawn Wickersheim",
-                "gender": "Unknown",
-                "nationality": "Unknown",
-                "race": "Unknown",
+                "gender": "Male",
+                "nationality": "United States",
+                "race": "Caucasian",
                 "status": "Honorable",
                 "title": "The Penitent Assassin",
+				"about": "<p>I always feel a little odd composing a biography about myself and writing it in the third person. I mean, should I include something like this:</p><p>“Shawn Wickersheim was born in Illinois on a Monday and when he was still little a lady told his mother, ‘It’s good he was born on a Monday, that way if he ever becomes President and they decide to honor his birth date, we’ll get an extra three-day weekend each year…'”</p><p>Talk about pressure!</p>",
+				"summary": "<p>Thirty years ago, when Mallor was a child, he was the sole survivor of genocide. Five years ago, while pursuing his revenge he was ambushed and killed. His goddess offered him a chance to return on the condition he became her assassin. Mallor agreed.</p><p>Now, he is back, in the dank city where it all began hunting down a list of old foes, but thirty-six hours before his revenge would be complete, he learns a couple of things; he has a daughter, she's been kidnapped by a sadistic magic abuser and the price for her release would not only ruin all of his plans but also kill his goddess.</p><p>Mallor is nobody's hero, but can he sacrifice his daughter to save his goddess, or will he forsake his faith and his need for revenge to rescue her instead? In this gritty fantasy novel where nothing is quite what it seems you won't know what Mallor will do until the bitter end.</p>",
                 "urls": {
+					"cover": "http://inkcompetentwriter.files.wordpress.com/2011/08/the-penitent-assassin-cover.jpg",
+					"avatar": "img/shawn-wickersheim.jpg",
+					"author": [
+						{
+							"title": "The Ink-Competent Writer",
+							"type": "blog",
+							"url": "https://inkcompetentwriter.wordpress.com/"
+						},
+                        {
+                            "title": "Amazon Author",
+                            "type": "amazon-author",
+                            "url": "http://www.amazon.com/Shawn-Wickersheim/e/B005JTT8IM"
+                        },
+						{
+							"type": "twitter",
+							"id": "stwick"
+						},
+						{
+							"title": "Goodreads Author",
+							"type": "blog",
+							"url": "https://www.goodreads.com/author/show/5164925.Shawn_Wickersheim"
+						}
+					],
+					"book": [
+						{
+							"type": "amazon",
+							"asin": "B005JKR95U"
+						},
+						{
+							"type": "smashwords",
+							"id": "84281"
+						}
+					],
                     "reviews": [
                         {
                             "title": "Fantasy Book Review",
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
-                        }
+                        },
+						{
+							"title": "Fantasy Book Review",
+							"type": "review",
+							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+						}
                     ]
                 }
             },
