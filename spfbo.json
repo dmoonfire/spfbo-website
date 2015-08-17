@@ -2,23 +2,45 @@
     {
         "books": [
             {
+				"processed": true,
                 "author": "Tony Barrett",
-                "gender": "Unknown",
+                "gender": "Male",
+				"genderJustification": "First name, Twitter image.",
                 "nationality": "Unknown",
-                "race": "Unknown",
+                "race": "Caucasian",
+				"raceJustification": "Guessed from Twitter avatar.",
                 "status": "Mentioned",
                 "title": "Stranger's Descent",
+				"summary": "<p>In a dying world, the man known only as Stranger, returns to his ranch to find his wife has been taken by slavers. He'll stop at nothing to get her back, but with an insane one-eyed General on his trail, will he succeed?</p>",
                 "urls": {
+					"cover": "img/tony-barrett-strangers-descent.jpg",
                     "reviews": [
                         {
                             "title": "Bookworm Blues",
                             "type": "review",
                             "url": "http://www.bookwormblues.net/2015/05/05/the-great-self-published-fantasy-blog-off-mini-reviews-round-2/"
+                        },
+					],
+					"author": [
+                        {
+                            "type": "twitter",
+                            "id": "barrett1987"
+                        },
+                        {
+                            "type": "goodreads-author",
+                            "id": "7951746.Tony_Barrett"
                         }
-                    ]
+					],
+					"book": [
+						{
+							"type": "goodreads",
+							"id": "23966032-stranger-s-descent"
+						}
+					]
                 }
             },
             {
+				"processed": false,
                 "author": "Ben Galley",
                 "gender": "Unknown",
                 "nationality": "Unknown",
@@ -41,8 +63,9 @@
                 }
             },
             {
+				"processed": false,
                 "author": "Jesse Jack Jones",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -58,8 +81,9 @@
                 }
             },
             {
+				"processed": false,
                 "author": "Sean Rodden",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -76,7 +100,7 @@
             },
             {
                 "author": "Scott Marlowe",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -93,7 +117,7 @@
             },
             {
                 "author": "Matt Waldram",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -110,7 +134,7 @@
             },
             {
                 "author": "Eve Peters",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -132,7 +156,7 @@
             },
             {
                 "author": "Kip Manley",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -149,7 +173,7 @@
             },
             {
                 "author": "Jeff Haas",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -166,7 +190,7 @@
             },
             {
                 "author": "Paul Kleynhans",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -183,7 +207,7 @@
             },
             {
                 "author": "Ioana Visan",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -200,7 +224,7 @@
             },
             {
                 "author": "Jay Flynn",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -217,7 +241,7 @@
             },
             {
                 "author": "Pauline M Ross",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -239,7 +263,7 @@
             },
             {
                 "author": "Greg Mahan",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -256,7 +280,7 @@
             },
             {
                 "author": "Matt Karlov",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -278,7 +302,7 @@
             },
             {
                 "author": "Ted Cross",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -295,7 +319,7 @@
             },
             {
                 "author": "S.M. White",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -312,7 +336,7 @@
             },
             {
                 "author": "Diana Peach",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -329,7 +353,7 @@
             },
             {
                 "author": "Felix Hartmann",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -337,7 +361,7 @@
             },
             {
                 "author": "Bryan Henderson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -354,7 +378,7 @@
             },
             {
                 "author": "G. R. Matthews",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -370,11 +394,15 @@
                 }
             },
             {
+				"processed": true,
                 "about": "<p>Born 1981 in Blackpool, England, my parents instilled into me a love of not only nature and wildlife, but of fantasy, history and mystery.</p><p>My imagination, sparked at a young age and projected onto paper through pencil and other tools, was left behind with regards to future careers when I fell in love with motorcycles. From this, I studied motor vehicle maintenance at college, before moving onto electrical and mechanical engineering.</p><p>Never really taking to engineering, I moved through clerical rolls before settling into optics as a technician.</p><p>A decade later and still in optics, I continue to pursue that career, whilst managing (thanks to my wife) to throw myself into my writing.</p><p>Whilst my work may not go hand in hand with my passion for writing fantasy, my past and present experiences in medieval re-enactment, history and gaming certainly do. I finally have the release for the imagination that would never settle, and hope you can enjoy it along with me.</p>",
                 "author": "J.P. Ashman",
                 "gender": "Male",
+				"genderJustification": "Profile image.",
                 "nationality": "British",
+				"nationalityJustification": "'About Me' description.",
                 "race": "Caucasian",
+				"raceJustification": "Twitter image.",
                 "status": "Honorable",
                 "title": "Black Cross",
 				"summary": "<p>Arcane magic can be a ruinous power, despite admirable intentions.</p><p>A mysterious scroll finds its way into Lord Severun’s hands, enabling him to release a dangerous experiment upon Wesson. With Sergeant Falchion unable to forgive himself for aiding the wizard, and desperate factions taking advantage of the devastating aftermath, Falchion embarks on an arduous quest alongside friends and strangers alike. However, even if their attempt to seek aid is successful and the city is saved, they risk revealing a secret that threatens much more than Wesson alone.</p><p>From a fantasy world not too dissimilar to our own dark and bloody histories, the beginning of an epic tale is told. Incredible magic is unleashed, allies become enemies; unlikely friendships are forged, and a foul plot is discovered that will shatter the long lasting peace of Altoln and her allies, plunging them into a gritty, brutal conflict that falls far from the fluffy fairytales of old.</p>",
@@ -401,9 +429,8 @@
                             "type": "twitter"
                         },
 						{
-							"title": "Goodreads Author",
-							"type": "blog",
-							"url": "https://www.goodreads.com/author/show/12302356.J_P_Ashman"
+							"type": "goodreads-author",
+							"url": "12302356.J_P_Ashman"
 						}
                     ],
                     "book": [
@@ -432,7 +459,7 @@
             },
             {
                 "author": "Claire Frank",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Withdrawn",
@@ -440,7 +467,7 @@
             },
             {
                 "author": "M.S Verish",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -457,7 +484,7 @@
             },
             {
                 "author": "Emily McNeely",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -465,7 +492,7 @@
             },
             {
                 "author": "Luke Matthews",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -482,7 +509,7 @@
             },
             {
                 "author": "Patricia Burroughs",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -499,7 +526,7 @@
             },
             {
                 "author": "Holly Blackstone",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -522,7 +549,7 @@
         "books": [
             {
                 "author": "Stephanie Caine",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -538,17 +565,16 @@
                 }
             },
             {
+				"processed": true,
                 "about": "<p>D. Moonfire is the remarkable result of the intersection of a computer nerd, a scientist, and polymath. Instead of focusing on a single genre, he writes stories and novels in many different settings ranging from fantasy to science fiction. He also throws in the occasional romance or forensics murder mystery to mix things up.</p><p>In addition to having a borderline unhealthy obsession with the written word, he is also a developer who loves to code as much as he loves writing.</p><p>He lives near Cedar Rapids, Iowa with his wife, numerous pet computers, and a pair of highly mobile things of the male variety.</p>",
                 "author": "D. Moonfire",
                 "gender": "Male",
-                "keywords": [
-                    "Coming of Age",
-                    "Steampunk",
-                    "Anime"
-                ],
+				"genderJustification": "Provided.",
                 "nationality": "United States",
+				"nationalityJustification": "Provided",
                 "pov": "3rd Limited",
                 "race": "Caucasian",
+				"raceJustification": "Provided",
                 "status": "Honorable",
                 "summary": "<p>At seventeen, Rutej\u00ecmo wanted nothing more than to be the clan's greatest warrior. He dreamed of sprinting across the desert faster than a horse and using sunlight and flame as a weapons against the night. He wanted to be the hero that everyone spoke of over the fires.</p><p>When he and four other teenagers were abandoned in the middle of the desert, it wasn't Rutej\u00ecmo who became the warrior, but his rival Chim\u00edpu. She was already the fastest and strongest. With her new powers, she became everything Rutej\u00ecmo dreamed for himself.</p><p>Plagued by jealousy and desperate to prove himself, Rutej\u00ecmo abandoned her to begin the long trek back home. One selfish choice led to another, and soon Rutej\u00ecmo's fantasies were stripped away to reveal the man he had become. To redeem himself, he must sacrifice his pride for his clan, survive an warrior looking for blood, and offer his throat to the woman who stole his dreams.</p><p>Sand and Blood is the first of three novels exploring Rutej\u00ecmo's life. It is a harrowing tale of self-discovery and his search to find his place among friends, clan, and the brutal world of the Mifuno Desert. It is set in an gritty world where the only way to learn magic is to risk death and survive.</p>",
                 "tense": "Past",
@@ -620,7 +646,7 @@
             },
             {
                 "author": "Joe Donahue",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -637,7 +663,7 @@
             },
             {
                 "author": "Christopher Kellen",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -654,7 +680,7 @@
             },
             {
                 "author": "Heidi Collotzi",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -671,7 +697,7 @@
             },
             {
                 "author": "Terry Green",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -688,7 +714,7 @@
             },
             {
                 "author": "Tony Healey",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -705,7 +731,7 @@
             },
             {
                 "author": "Tom Wright",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -722,7 +748,7 @@
             },
             {
                 "author": "Callista Hunter",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -739,7 +765,7 @@
             },
             {
                 "author": "Tristan Gregory",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -756,7 +782,7 @@
             },
             {
                 "author": "JP Lantern",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -773,7 +799,7 @@
             },
             {
                 "author": "Jeff Morin",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -790,7 +816,7 @@
             },
             {
                 "author": "Sean Froyd",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -807,7 +833,7 @@
             },
             {
                 "author": "Melisa McPhail",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -824,7 +850,7 @@
             },
             {
                 "author": "Michael Watson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -841,7 +867,7 @@
             },
             {
                 "author": "Robert Dahlen",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -858,7 +884,7 @@
             },
             {
                 "author": "Matt Forbeck",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -875,7 +901,7 @@
             },
             {
                 "author": "Michael Karner",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -892,7 +918,7 @@
             },
             {
                 "author": "Timothy Bond",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -909,7 +935,7 @@
             },
             {
                 "author": "Martin Owton",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -926,7 +952,7 @@
             },
             {
                 "author": "Christopher Hayhurst",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -943,7 +969,7 @@
             },
             {
                 "author": "Michael McClung",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -965,7 +991,7 @@
             },
             {
                 "author": "Christian Freed",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -982,7 +1008,7 @@
             },
             {
                 "author": "Jacob Cooper",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -999,7 +1025,7 @@
             },
             {
                 "author": "Jack Newhouse",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1016,7 +1042,7 @@
             },
             {
                 "author": "Brian Kramer",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1033,7 +1059,7 @@
             },
             {
                 "author": "Salvador Mercer",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1056,7 +1082,7 @@
         "books": [
             {
                 "author": "Tristan J Tarwater",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1064,7 +1090,7 @@
             },
             {
                 "author": "Daniel Batt",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1072,7 +1098,7 @@
             },
             {
                 "author": "Christopher MacDonald",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1080,7 +1106,7 @@
             },
             {
                 "author": "Dan Hupalo",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1088,7 +1114,7 @@
             },
             {
                 "author": "Matthew Colville",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -1096,7 +1122,7 @@
             },
             {
                 "author": "Sever Bronny",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1104,7 +1130,7 @@
             },
             {
                 "author": "D.P Brown",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1112,7 +1138,7 @@
             },
             {
                 "author": "Gregory Close",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1120,7 +1146,7 @@
             },
             {
                 "author": "Landon Portor",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1128,7 +1154,7 @@
             },
             {
                 "author": "Tom Wright",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1136,7 +1162,7 @@
             },
             {
                 "author": "Elizabeth McCoy",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1144,7 +1170,7 @@
             },
             {
                 "author": "Casey Peter",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1152,7 +1178,7 @@
             },
             {
                 "author": "Jonathan Moeller",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1160,7 +1186,7 @@
             },
             {
                 "author": "John Dodds",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1168,7 +1194,7 @@
             },
             {
                 "author": "Jenn Gott",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1176,7 +1202,7 @@
             },
             {
                 "author": "Sena Bryer",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1184,7 +1210,7 @@
             },
             {
                 "author": "M. Edward McNally",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1192,7 +1218,7 @@
             },
             {
                 "author": "James Cormier",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -1209,7 +1235,7 @@
             },
             {
                 "author": "Mark Gardner",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1217,7 +1243,7 @@
             },
             {
                 "author": "Thaddeus White",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1225,7 +1251,7 @@
             },
             {
                 "author": "Shauna Granger",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1233,7 +1259,7 @@
             },
             {
                 "author": "James Islington",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -1251,7 +1277,7 @@
             },
             {
                 "author": "Magnus von Black",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1259,7 +1285,7 @@
             },
             {
                 "author": "Luke Spry",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1267,7 +1293,7 @@
             },
             {
                 "author": "Davis Ashura",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1275,7 +1301,7 @@
             },
             {
                 "author": "Daniel Eavenson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1283,7 +1309,7 @@
             },
             {
                 "author": "Joe Bailey",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1297,7 +1323,7 @@
         "books": [
             {
                 "author": "Corey Bryers",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1305,7 +1331,7 @@
             },
             {
                 "author": "Alex Ziebart",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -1322,7 +1348,7 @@
             },
             {
                 "author": "Beth Lyons",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1330,7 +1356,7 @@
             },
             {
                 "author": "Scott Warren",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -1362,7 +1388,7 @@
             },
             {
                 "author": "Domino Finn",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -1379,7 +1405,7 @@
             },
             {
                 "author": "David Tatum",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1401,7 +1427,7 @@
             },
             {
                 "author": "Charlotte Cyprus",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1418,7 +1444,7 @@
             },
             {
                 "author": "Scott McGowan",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1426,7 +1452,7 @@
             },
             {
                 "author": "Greg James",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Finalist",
@@ -1448,7 +1474,7 @@
             },
             {
                 "author": "Andy Crawford",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1456,7 +1482,7 @@
             },
             {
                 "author": "Brian Lynch",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1473,7 +1499,7 @@
             },
             {
                 "author": "Christopher Ruz",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -1495,7 +1521,7 @@
             },
             {
                 "author": "Anthony Lowe",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1503,7 +1529,7 @@
             },
             {
                 "author": "Eric Knight",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1511,7 +1537,7 @@
             },
             {
                 "author": "Melissa Porter",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1519,7 +1545,7 @@
             },
             {
                 "author": "Rachel Bowden",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1527,7 +1553,7 @@
             },
             {
                 "author": "Annika Howells",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1535,7 +1561,7 @@
             },
             {
                 "author": "Wilf Jones",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1543,7 +1569,7 @@
             },
             {
                 "author": "Robert Mullin",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1551,7 +1577,7 @@
             },
             {
                 "author": "Sean Moran",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1559,7 +1585,7 @@
             },
             {
                 "author": "Rob Donovan",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1567,7 +1593,7 @@
             },
             {
                 "author": "Randall Fitzgerald",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1575,7 +1601,7 @@
             },
             {
                 "author": "Nat Russo",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1583,7 +1609,7 @@
             },
             {
                 "author": "A. Murtagh",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1591,7 +1617,7 @@
             },
             {
                 "author": "Jenny Watson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1599,7 +1625,7 @@
             },
             {
                 "author": "Ken Lim",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1607,7 +1633,7 @@
             },
             {
                 "author": "Victor Salinas",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1621,7 +1647,7 @@
         "books": [
             {
                 "author": "Noel Coughlan",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1629,7 +1655,7 @@
             },
             {
                 "author": "R.P Rigoli",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1637,7 +1663,7 @@
             },
             {
                 "author": "Jennifer Bell",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1645,7 +1671,7 @@
             },
             {
                 "author": "Andrew Rowe",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1662,7 +1688,7 @@
             },
             {
                 "author": "Melody Taylor",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1670,7 +1696,7 @@
             },
             {
                 "author": "Tavish Kaeden",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1678,7 +1704,7 @@
             },
             {
                 "author": "David Pedersen",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1686,7 +1712,7 @@
             },
             {
                 "author": "Adam Lee",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1694,7 +1720,7 @@
             },
             {
                 "author": "Kal S Davian",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1716,7 +1742,7 @@
             },
             {
                 "author": "Patrick J Loller",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1724,7 +1750,7 @@
             },
             {
                 "author": "T.C Pearce",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1746,7 +1772,7 @@
             },
             {
                 "author": "Will Kay",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1754,7 +1780,7 @@
             },
             {
                 "author": "Benny Hinrichs",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1762,7 +1788,7 @@
             },
             {
                 "author": "Neil McGarry & Daniel Ravipinto",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1770,7 +1796,7 @@
             },
             {
                 "author": "Nick Marsden",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1778,7 +1804,7 @@
             },
             {
                 "author": "Janice McKonly",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1795,7 +1821,7 @@
             },
             {
                 "author": "Steve Thomas",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1812,7 +1838,7 @@
             },
             {
                 "author": "Wayne Miller",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1829,7 +1855,7 @@
             },
             {
                 "author": "Amanda McCrina",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1851,7 +1877,7 @@
             },
             {
                 "author": "Jack Kerr",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1873,7 +1899,7 @@
             },
             {
                 "author": "Scott Decker",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1890,7 +1916,7 @@
             },
             {
                 "author": "Terry Simpson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1907,7 +1933,7 @@
             },
             {
                 "author": "Cindy Young-Turner",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1929,7 +1955,7 @@
             },
             {
                 "author": "Ruairi Cinead Ducantlin",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -1946,7 +1972,7 @@
             },
             {
                 "author": "Jake Scholl",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -1963,7 +1989,7 @@
             },
             {
                 "author": "JR Karlsson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1971,7 +1997,7 @@
             },
             {
                 "author": "Maya Michaels",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1985,7 +2011,7 @@
         "books": [
             {
                 "author": "Karen de Lange",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -1993,7 +2019,7 @@
             },
             {
                 "author": "LJ Cohen",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2001,7 +2027,7 @@
             },
             {
                 "author": "SM Barrett",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2009,7 +2035,7 @@
             },
             {
                 "author": "Patty Jansen",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -2037,7 +2063,7 @@
             },
             {
                 "author": "KJ Tantardini",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2045,7 +2071,7 @@
             },
             {
                 "author": "William Dickstein",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2053,7 +2079,7 @@
             },
             {
                 "author": "Jeff Goelz",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2061,7 +2087,7 @@
             },
             {
                 "author": "Daniel Aspden",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2069,7 +2095,7 @@
             },
             {
                 "author": "Robert Courtland",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -2091,7 +2117,7 @@
             },
             {
                 "author": "Daniel Quigley",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2108,7 +2134,7 @@
             },
             {
                 "author": "Violet Patterson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2116,7 +2142,7 @@
             },
             {
                 "author": "Mary C Moore",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2138,7 +2164,7 @@
             },
             {
                 "author": "Milo Woods",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2146,7 +2172,7 @@
             },
             {
                 "author": "Seth Lindberg",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2154,7 +2180,7 @@
             },
             {
                 "author": "Robert Luis Rabello",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2162,7 +2188,7 @@
             },
             {
                 "author": "T.O Munro",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2170,7 +2196,7 @@
             },
             {
                 "author": "Brad Carsten",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2178,7 +2204,7 @@
             },
             {
                 "author": "Jack Thane",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2186,7 +2212,7 @@
             },
             {
                 "author": "Jonathan Walles",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2194,7 +2220,7 @@
             },
             {
                 "author": "Plague Jack",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -2221,7 +2247,7 @@
             },
             {
                 "author": "Trip Ellington",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2238,7 +2264,7 @@
             },
             {
                 "author": "Daniel Ionson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -2260,7 +2286,7 @@
             },
             {
                 "author": "David Moton",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2268,7 +2294,7 @@
             },
             {
                 "author": "Peter Fugazzotto",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Considering",
@@ -2276,7 +2302,7 @@
             },
             {
                 "author": "Ellis L Knox",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2298,7 +2324,7 @@
             },
             {
                 "author": "JM McDermott",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2315,7 +2341,7 @@
             },
             {
                 "author": "Astra Crompton",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2338,7 +2364,7 @@
         "books": [
             {
                 "author": "Stoo Goff",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2355,7 +2381,7 @@
             },
             {
                 "author": "Blair MacGregor",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -2387,7 +2413,7 @@
             },
             {
                 "author": "Rick Chiantaretto",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2404,7 +2430,7 @@
             },
             {
                 "author": "Steve Muse",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2426,7 +2452,7 @@
             },
             {
                 "author": "Lila Lestrange",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -2443,7 +2469,7 @@
             },
             {
                 "author": "VJ Lakshman",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2465,7 +2491,7 @@
             },
             {
                 "author": "EJ Stevens",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2487,7 +2513,7 @@
             },
             {
                 "author": "Anthony Stevens",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2504,7 +2530,7 @@
             },
             {
                 "author": "Rob Vitaro",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2526,7 +2552,7 @@
             },
             {
                 "author": "Claude Blakhen",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2543,7 +2569,7 @@
             },
             {
                 "author": "Andy Grinsfelder",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2560,7 +2586,7 @@
             },
             {
                 "author": "JL Doty",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2577,7 +2603,7 @@
             },
             {
                 "author": "JD Brink",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2594,7 +2620,7 @@
             },
             {
                 "author": "William G Saraband",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Finalist",
@@ -2621,7 +2647,7 @@
             },
             {
                 "author": "Craig Saunders",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2638,7 +2664,7 @@
             },
             {
                 "author": "Kevin Butterfield",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -2670,7 +2696,7 @@
             },
             {
                 "author": "James Latimer",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2687,7 +2713,7 @@
             },
             {
                 "author": "Brad Williams",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2709,7 +2735,7 @@
             },
             {
                 "author": "CV Dreesman",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2726,7 +2752,7 @@
             },
             {
                 "author": "Jay Swanson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2743,7 +2769,7 @@
             },
             {
                 "author": "Annie Bellet",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2760,7 +2786,7 @@
             },
             {
                 "author": "Kelly Russo",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2777,7 +2803,7 @@
             },
             {
                 "author": "JD Hallowell",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -2809,7 +2835,7 @@
             },
             {
                 "author": "James Gawley",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2826,7 +2852,7 @@
             },
             {
                 "author": "Siana Wineland",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2843,7 +2869,7 @@
             },
             {
                 "author": "Greg Dragon",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2871,7 +2897,7 @@
         "books": [
             {
                 "author": "A.E Marling",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2888,7 +2914,7 @@
             },
             {
                 "author": ". J. Edward Richie",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2905,7 +2931,7 @@
             },
             {
                 "author": "Peyton Reynolds",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -2922,7 +2948,7 @@
             },
             {
                 "author": "William D Richards",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -2930,7 +2956,7 @@
             },
             {
                 "author": "Shiriluna Nott",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -2947,7 +2973,7 @@
             },
             {
                 "author": "Barbara Webb",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Finalist",
@@ -2979,7 +3005,7 @@
             },
             {
                 "author": "Amelia Smith",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3006,7 +3032,7 @@
             },
             {
                 "author": "Erin Snyder",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3014,7 +3040,7 @@
             },
             {
                 "author": "Irina Rempt",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3022,7 +3048,7 @@
             },
             {
                 "author": "M. Todd Gallowglas",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3030,7 +3056,7 @@
             },
             {
                 "author": "TL Morganfield",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3047,7 +3073,7 @@
             },
             {
                 "author": "Karen Gellender",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3055,7 +3081,7 @@
             },
             {
                 "author": "Vanna Smythe",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3072,7 +3098,7 @@
             },
             {
                 "author": "Annette Gisby",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3089,7 +3115,7 @@
             },
             {
                 "author": "Sean Hannifin",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3112,7 +3138,7 @@
             },
             {
                 "author": "Robyn Wideman",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3120,7 +3146,7 @@
             },
             {
                 "author": "Lori Alden Holuta",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3137,7 +3163,7 @@
             },
             {
                 "author": "Chris Northern",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3159,7 +3185,7 @@
             },
             {
                 "author": "Marc Johnson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3167,7 +3193,7 @@
             },
             {
                 "author": "JK  Swift",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3189,7 +3215,7 @@
             },
             {
                 "author": "Randall Boleyn",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3197,7 +3223,7 @@
             },
             {
                 "author": "Nathan Boyce",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3205,7 +3231,7 @@
             },
             {
                 "author": "Olga Godim",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3213,7 +3239,7 @@
             },
             {
                 "author": "GB Wren",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3221,7 +3247,7 @@
             },
             {
                 "author": "Alan Zendell",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3229,7 +3255,7 @@
             },
             {
                 "author": "Mark Tyson",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3252,7 +3278,7 @@
         "books": [
             {
                 "author": "AJ Colby",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3269,7 +3295,7 @@
             },
             {
                 "author": "Tyler Danann",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3286,7 +3312,7 @@
             },
             {
                 "author": "Lisa Hayward",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3303,7 +3329,7 @@
             },
             {
                 "author": "Nicholas R Andrews",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3320,7 +3346,7 @@
             },
             {
                 "author": "Susan D Kalior",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3337,7 +3363,7 @@
             },
             {
                 "author": "Lianne Miller",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3354,7 +3380,7 @@
             },
             {
                 "author": "Crista McHugh",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Finalist",
@@ -3376,7 +3402,7 @@
             },
             {
                 "author": "Sara C Roethle",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3393,7 +3419,7 @@
             },
             {
                 "author": "Jonathan Crocker",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3410,7 +3436,7 @@
             },
             {
                 "author": "Kirby Moore",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3427,7 +3453,7 @@
             },
             {
                 "author": "CG Garcia",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3444,7 +3470,7 @@
             },
             {
                 "author": "Michele Amitrani",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3461,7 +3487,7 @@
             },
             {
                 "author": "NM Sotzek",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3478,7 +3504,7 @@
             },
             {
                 "author": "Eliza Marie Jones",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3495,7 +3521,7 @@
             },
             {
                 "author": "Philip R Hall",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3512,7 +3538,7 @@
             },
             {
                 "author": "SA Hunter",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3529,7 +3555,7 @@
             },
             {
                 "author": "L Blankenship",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3546,7 +3572,7 @@
             },
             {
                 "author": "Mark Maxwell",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3563,7 +3589,7 @@
             },
             {
                 "author": "Frances Pauli",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3580,7 +3606,7 @@
             },
             {
                 "author": "William Dooling",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3597,7 +3623,7 @@
             },
             {
                 "author": "Clare C Marshall",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3614,7 +3640,7 @@
             },
             {
                 "author": "Stephen Roy",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3631,7 +3657,7 @@
             },
             {
                 "author": "Robert Michael",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3648,7 +3674,7 @@
             },
             {
                 "author": "Masha du Toit",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3665,7 +3691,7 @@
             },
             {
                 "author": "Nicholas Mena",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3682,7 +3708,7 @@
             },
             {
                 "author": "Steve S Grant",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Mentioned",
@@ -3705,7 +3731,7 @@
         "books": [
             {
                 "author": "Nate Jones",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3713,7 +3739,7 @@
             },
             {
                 "author": "Rinelle Grey",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3721,7 +3747,7 @@
             },
             {
                 "author": "TR Goodman",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3729,7 +3755,7 @@
             },
             {
                 "author": "Henry Lion Oldie",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3737,7 +3763,7 @@
             },
             {
                 "author": "Christina Ochs",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3745,7 +3771,7 @@
             },
             {
                 "author": "Marilyn Peake",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3753,7 +3779,7 @@
             },
             {
                 "author": "Charlie Ward",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3775,7 +3801,7 @@
             },
             {
                 "author": "Victoria Jeffrey",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3783,7 +3809,7 @@
             },
             {
                 "author": "Graham Austin-King",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3791,7 +3817,7 @@
             },
             {
                 "author": "Kade Derricks",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3813,7 +3839,7 @@
             },
             {
                 "author": "Anastasia Marie",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3821,7 +3847,7 @@
             },
             {
                 "author": "Melanie Nilles",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3829,7 +3855,7 @@
             },
             {
                 "author": "Ashley Nixon",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3837,7 +3863,7 @@
             },
             {
                 "author": "Jack Connor",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3854,7 +3880,7 @@
             },
             {
                 "author": "Kenton Crowther",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3862,7 +3888,7 @@
             },
             {
                 "author": "David Benem",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Finalist",
@@ -3890,7 +3916,7 @@
             },
             {
                 "author": "Nick Moseley",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3898,7 +3924,7 @@
             },
             {
                 "author": "Tom Fallwell",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3906,7 +3932,7 @@
             },
             {
                 "author": "SB Jones",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3914,7 +3940,7 @@
             },
             {
                 "author": "Jaleta Clegg",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3922,7 +3948,7 @@
             },
             {
                 "author": "Michael Ploof",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Honorable",
@@ -3944,7 +3970,7 @@
             },
             {
                 "author": "J Niomi Ay",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -3952,17 +3978,21 @@
             },
             {
                 "author": "T Lynne Tolle",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Hades' Revenge"
             },
             {
+				"processed": true,
                 "author": "Shawn Wickersheim",
                 "gender": "Male",
+				"genderJustification": "Twitter image, First name.",
                 "nationality": "United States",
+				"nationalityJustification": "About me.",
                 "race": "Caucasian",
+				"raceJustification": "Profile image.",
                 "status": "Honorable",
                 "title": "The Penitent Assassin",
 				"about": "<p>I always feel a little odd composing a biography about myself and writing it in the third person. I mean, should I include something like this:</p><p>“Shawn Wickersheim was born in Illinois on a Monday and when he was still little a lady told his mother, ‘It’s good he was born on a Monday, that way if he ever becomes President and they decide to honor his birth date, we’ll get an extra three-day weekend each year…'”</p><p>Talk about pressure!</p>",
@@ -4017,7 +4047,7 @@
             },
             {
                 "author": "John Patrick Kennedy",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -4025,7 +4055,7 @@
             },
             {
                 "author": "CM Cox",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",
@@ -4033,7 +4063,7 @@
             },
             {
                 "author": "Scarlett Dawn",
-                "gender": "Unknown",
+                "processed": false, "gender": "Unknown",
                 "nationality": "Unknown",
                 "race": "Unknown",
                 "status": "Passed",

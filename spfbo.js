@@ -89,6 +89,11 @@ function appendKeyUrls(label, urls, parent) {
 				t = "Goodreads";
 				break;
 			
+			case "goodreads-author":
+				u = "https://www.goodreads.com/author/show/" + url.id;
+				t = "Goodreads";
+				break;
+			
 			case "facebook":
 				u = "https://facebook.com/" + url.id;
 				t = "Facebook";
