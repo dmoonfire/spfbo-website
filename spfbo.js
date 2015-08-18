@@ -186,7 +186,7 @@ function onData(data) {
 				+ facebook_class + " "
 				+ " book'></div>");
 			var panelHeading = $(
-				"<div class='panel-heading' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
+				"<div class='panel-heading collapsed' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
 				+ "<h4 class='panel-title'>"
 				+ "<strong>" + book.title
 				+ " <small>" + book.author + "</small>"
@@ -326,6 +326,8 @@ function searchBooks() {
 	console.log("searching", terms);
 	
 	// Loop through the book and figure out which one we are showing.
+	var total = 0;
+	
 	$(".book").each(function(){
 		// Get a combined title and text, then search that every token
 		// is inside the token.
@@ -345,10 +347,19 @@ function searchBooks() {
 		
 		// Based on the valid flag, we hide or show it.
 		$(this).toggleClass("search-hide", !valid);
+		
+		if (valid) total++;
 	});
 	
 	// Update the counts.
 	updateCounts();
+	
+	// If we have only a single one, then expand it.
+	if (total == 1)
+	{
+		console.log("Expanding single entry");
+		$(".book:visible div.panel-heading.collapsed").click();
+	}
 }
 
 $(document).ready(function() {
