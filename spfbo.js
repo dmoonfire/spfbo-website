@@ -346,6 +346,8 @@ function searchBooks() {
 		}
 		
 		// Based on the valid flag, we hide or show it.
+		console.log("  found", name);
+		
 		$(this).toggleClass("search-hide", !valid);
 		
 		if (valid) total++;
@@ -355,6 +357,8 @@ function searchBooks() {
 	updateCounts();
 	
 	// If we have only a single one, then expand it.
+	console.log("Found entries: " + total);
+	
 	if (total == 1)
 	{
 		console.log("Expanding single entry");
