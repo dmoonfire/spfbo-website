@@ -2,48 +2,48 @@
     {
         "books": [
             {
-				"processed": true,
                 "author": "Tony Barrett",
                 "gender": "Male",
-				"genderJustification": "First name, Twitter image.",
+                "genderJustification": "First name, Twitter image.",
                 "nationality": "Unknown",
+                "processed": true,
                 "race": "Caucasian",
-				"raceJustification": "Guessed from Twitter avatar.",
+                "raceJustification": "Guessed from Twitter avatar.",
                 "status": "Mentioned",
+                "summary": "<p>In a dying world, the man known only as Stranger, returns to his ranch to find his wife has been taken by slavers. He'll stop at nothing to get her back, but with an insane one-eyed General on his trail, will he succeed?</p>",
                 "title": "Stranger's Descent",
-				"summary": "<p>In a dying world, the man known only as Stranger, returns to his ranch to find his wife has been taken by slavers. He'll stop at nothing to get her back, but with an insane one-eyed General on his trail, will he succeed?</p>",
                 "urls": {
-					"cover": "img/tony-barrett-strangers-descent.jpg",
+                    "author": [
+                        {
+                            "id": "barrett1987",
+                            "type": "twitter"
+                        },
+                        {
+                            "id": "7951746.Tony_Barrett",
+                            "type": "goodreads-author"
+                        }
+                    ],
+                    "book": [
+                        {
+                            "id": "23966032-stranger-s-descent",
+                            "type": "goodreads"
+                        }
+                    ],
+                    "cover": "img/tony-barrett-strangers-descent.jpg",
                     "reviews": [
                         {
                             "title": "Bookworm Blues",
                             "type": "review",
                             "url": "http://www.bookwormblues.net/2015/05/05/the-great-self-published-fantasy-blog-off-mini-reviews-round-2/"
-                        },
-					],
-					"author": [
-                        {
-                            "type": "twitter",
-                            "id": "barrett1987"
-                        },
-                        {
-                            "type": "goodreads-author",
-                            "id": "7951746.Tony_Barrett"
                         }
-					],
-					"book": [
-						{
-							"type": "goodreads",
-							"id": "23966032-stranger-s-descent"
-						}
-					]
+                    ]
                 }
             },
             {
-				"processed": false,
                 "author": "Ben Galley",
                 "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Finalist",
                 "title": "Bloodrush",
@@ -63,10 +63,10 @@
                 }
             },
             {
-				"processed": false,
                 "author": "Jesse Jack Jones",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Darkness Undivided",
@@ -81,10 +81,10 @@
                 }
             },
             {
-				"processed": false,
                 "author": "Sean Rodden",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Whispers of War",
@@ -100,8 +100,9 @@
             },
             {
                 "author": "Scott Marlowe",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Five Elements",
@@ -117,8 +118,9 @@
             },
             {
                 "author": "Matt Waldram",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Monsters of Elsewhere",
@@ -134,8 +136,9 @@
             },
             {
                 "author": "Eve Peters",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Children of the Fallen",
@@ -156,8 +159,9 @@
             },
             {
                 "author": "Kip Manley",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "City of Roses: Autumn into Winter",
@@ -173,8 +177,9 @@
             },
             {
                 "author": "Jeff Haas",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Searching for Nada",
@@ -190,8 +195,9 @@
             },
             {
                 "author": "Paul Kleynhans",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Dark Legion",
@@ -207,8 +213,9 @@
             },
             {
                 "author": "Ioana Visan",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Impaler Legacy Omnibus",
@@ -224,8 +231,9 @@
             },
             {
                 "author": "Jay Flynn",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Fivefold Prophecy",
@@ -241,8 +249,9 @@
             },
             {
                 "author": "Pauline M Ross",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The Plains of Kallanash",
@@ -263,8 +272,9 @@
             },
             {
                 "author": "Greg Mahan",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "A Touch of Magic",
@@ -280,8 +290,9 @@
             },
             {
                 "author": "Matt Karlov",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The Unbound Man",
@@ -302,8 +313,9 @@
             },
             {
                 "author": "Ted Cross",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Shard",
@@ -319,8 +331,9 @@
             },
             {
                 "author": "S.M. White",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Lonely Man : The Witch's Price",
@@ -336,8 +349,9 @@
             },
             {
                 "author": "Diana Peach",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Bone Wall",
@@ -353,16 +367,18 @@
             },
             {
                 "author": "Felix Hartmann",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Dark Age"
             },
             {
                 "author": "Bryan Henderson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Tales of Ordegron",
@@ -378,8 +394,9 @@
             },
             {
                 "author": "G. R. Matthews",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Stone Road",
@@ -394,21 +411,19 @@
                 }
             },
             {
-				"processed": true,
                 "about": "<p>Born 1981 in Blackpool, England, my parents instilled into me a love of not only nature and wildlife, but of fantasy, history and mystery.</p><p>My imagination, sparked at a young age and projected onto paper through pencil and other tools, was left behind with regards to future careers when I fell in love with motorcycles. From this, I studied motor vehicle maintenance at college, before moving onto electrical and mechanical engineering.</p><p>Never really taking to engineering, I moved through clerical rolls before settling into optics as a technician.</p><p>A decade later and still in optics, I continue to pursue that career, whilst managing (thanks to my wife) to throw myself into my writing.</p><p>Whilst my work may not go hand in hand with my passion for writing fantasy, my past and present experiences in medieval re-enactment, history and gaming certainly do. I finally have the release for the imagination that would never settle, and hope you can enjoy it along with me.</p>",
                 "author": "J.P. Ashman",
                 "gender": "Male",
-				"genderJustification": "Profile image.",
+                "genderJustification": "Profile image.",
                 "nationality": "British",
-				"nationalityJustification": "'About Me' description.",
+                "nationalityJustification": "'About Me' description.",
+                "processed": true,
                 "race": "Caucasian",
-				"raceJustification": "Twitter image.",
+                "raceJustification": "Twitter image.",
                 "status": "Honorable",
+                "summary": "<p>Arcane magic can be a ruinous power, despite admirable intentions.</p><p>A mysterious scroll finds its way into Lord Severun\u2019s hands, enabling him to release a dangerous experiment upon Wesson. With Sergeant Falchion unable to forgive himself for aiding the wizard, and desperate factions taking advantage of the devastating aftermath, Falchion embarks on an arduous quest alongside friends and strangers alike. However, even if their attempt to seek aid is successful and the city is saved, they risk revealing a secret that threatens much more than Wesson alone.</p><p>From a fantasy world not too dissimilar to our own dark and bloody histories, the beginning of an epic tale is told. Incredible magic is unleashed, allies become enemies; unlikely friendships are forged, and a foul plot is discovered that will shatter the long lasting peace of Altoln and her allies, plunging them into a gritty, brutal conflict that falls far from the fluffy fairytales of old.</p>",
                 "title": "Black Cross",
-				"summary": "<p>Arcane magic can be a ruinous power, despite admirable intentions.</p><p>A mysterious scroll finds its way into Lord Severun’s hands, enabling him to release a dangerous experiment upon Wesson. With Sergeant Falchion unable to forgive himself for aiding the wizard, and desperate factions taking advantage of the devastating aftermath, Falchion embarks on an arduous quest alongside friends and strangers alike. However, even if their attempt to seek aid is successful and the city is saved, they risk revealing a secret that threatens much more than Wesson alone.</p><p>From a fantasy world not too dissimilar to our own dark and bloody histories, the beginning of an epic tale is told. Incredible magic is unleashed, allies become enemies; unlikely friendships are forged, and a foul plot is discovered that will shatter the long lasting peace of Altoln and her allies, plunging them into a gritty, brutal conflict that falls far from the fluffy fairytales of old.</p>",
                 "urls": {
-					"cover": "img/jp-ashman-black-cross.jpg",
-					"avatar": "img/jp-ashman.jpg",
                     "author": [
                         {
                             "title": "Amazon Author",
@@ -428,11 +443,12 @@
                             "id": "JP_Ashman",
                             "type": "twitter"
                         },
-						{
-							"type": "goodreads-author",
-							"url": "12302356.J_P_Ashman"
-						}
+                        {
+                            "type": "goodreads-author",
+                            "url": "12302356.J_P_Ashman"
+                        }
                     ],
+                    "avatar": "img/jp-ashman.jpg",
                     "book": [
                         {
                             "asin": "B00RH7F3OM",
@@ -443,6 +459,7 @@
                             "type": "goodreads"
                         }
                     ],
+                    "cover": "img/jp-ashman-black-cross.jpg",
                     "reviews": [
                         {
                             "title": "Bookworm Blues",
@@ -459,16 +476,18 @@
             },
             {
                 "author": "Claire Frank",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Withdrawn",
                 "title": "To Whatever End"
             },
             {
                 "author": "M.S Verish",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Dawning",
@@ -484,16 +503,18 @@
             },
             {
                 "author": "Emily McNeely",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Leaving Bisht"
             },
             {
                 "author": "Luke Matthews",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Construct",
@@ -509,8 +530,9 @@
             },
             {
                 "author": "Patricia Burroughs",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "This Crumbling Pageant",
@@ -526,8 +548,9 @@
             },
             {
                 "author": "Holly Blackstone",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "A World Away",
@@ -549,8 +572,9 @@
         "books": [
             {
                 "author": "Stephanie Caine",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Storm Shadow",
@@ -565,16 +589,16 @@
                 }
             },
             {
-				"processed": true,
                 "about": "<p>D. Moonfire is the remarkable result of the intersection of a computer nerd, a scientist, and polymath. Instead of focusing on a single genre, he writes stories and novels in many different settings ranging from fantasy to science fiction. He also throws in the occasional romance or forensics murder mystery to mix things up.</p><p>In addition to having a borderline unhealthy obsession with the written word, he is also a developer who loves to code as much as he loves writing.</p><p>He lives near Cedar Rapids, Iowa with his wife, numerous pet computers, and a pair of highly mobile things of the male variety.</p>",
                 "author": "D. Moonfire",
                 "gender": "Male",
-				"genderJustification": "Provided.",
+                "genderJustification": "Provided.",
                 "nationality": "United States",
-				"nationalityJustification": "Provided",
+                "nationalityJustification": "Provided",
                 "pov": "3rd Limited",
+                "processed": true,
                 "race": "Caucasian",
-				"raceJustification": "Provided",
+                "raceJustification": "Provided",
                 "status": "Honorable",
                 "summary": "<p>At seventeen, Rutej\u00ecmo wanted nothing more than to be the clan's greatest warrior. He dreamed of sprinting across the desert faster than a horse and using sunlight and flame as a weapons against the night. He wanted to be the hero that everyone spoke of over the fires.</p><p>When he and four other teenagers were abandoned in the middle of the desert, it wasn't Rutej\u00ecmo who became the warrior, but his rival Chim\u00edpu. She was already the fastest and strongest. With her new powers, she became everything Rutej\u00ecmo dreamed for himself.</p><p>Plagued by jealousy and desperate to prove himself, Rutej\u00ecmo abandoned her to begin the long trek back home. One selfish choice led to another, and soon Rutej\u00ecmo's fantasies were stripped away to reveal the man he had become. To redeem himself, he must sacrifice his pride for his clan, survive an warrior looking for blood, and offer his throat to the woman who stole his dreams.</p><p>Sand and Blood is the first of three novels exploring Rutej\u00ecmo's life. It is a harrowing tale of self-discovery and his search to find his place among friends, clan, and the brutal world of the Mifuno Desert. It is set in an gritty world where the only way to learn magic is to risk death and survive.</p>",
                 "tense": "Past",
@@ -646,8 +670,9 @@
             },
             {
                 "author": "Joe Donahue",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Final Requiem",
@@ -663,8 +688,9 @@
             },
             {
                 "author": "Christopher Kellen",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Elements of Sorcery",
@@ -680,8 +706,9 @@
             },
             {
                 "author": "Heidi Collotzi",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Secret of Avonoa",
@@ -697,8 +724,9 @@
             },
             {
                 "author": "Terry Green",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Shaman, Healer, Heretic",
@@ -714,8 +742,9 @@
             },
             {
                 "author": "Tony Healey",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Bloody North",
@@ -731,8 +760,9 @@
             },
             {
                 "author": "Tom Wright",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Apex Rising",
@@ -748,8 +778,9 @@
             },
             {
                 "author": "Callista Hunter",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Goddess",
@@ -765,8 +796,9 @@
             },
             {
                 "author": "Tristan Gregory",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Swordsman of Carn Nebeth",
@@ -782,8 +814,9 @@
             },
             {
                 "author": "JP Lantern",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Up the Tower",
@@ -799,8 +832,9 @@
             },
             {
                 "author": "Jeff Morin",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Fire Hurler",
@@ -816,8 +850,9 @@
             },
             {
                 "author": "Sean Froyd",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Inanis the Hooded",
@@ -833,8 +868,9 @@
             },
             {
                 "author": "Melisa McPhail",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Cephrael's Hand",
@@ -850,8 +886,9 @@
             },
             {
                 "author": "Michael Watson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Valkwitch",
@@ -867,8 +904,9 @@
             },
             {
                 "author": "Robert Dahlen",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Of Introductions and Abductiond",
@@ -884,8 +922,9 @@
             },
             {
                 "author": "Matt Forbeck",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Hard Times in Dragon City",
@@ -901,8 +940,9 @@
             },
             {
                 "author": "Michael Karner",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Red Axe, Black Sun",
@@ -918,8 +958,9 @@
             },
             {
                 "author": "Timothy Bond",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Watcher's Keep",
@@ -935,8 +976,9 @@
             },
             {
                 "author": "Martin Owton",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Exile of Darien",
@@ -952,8 +994,9 @@
             },
             {
                 "author": "Christopher Hayhurst",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Metal, Salt, and Sand",
@@ -969,8 +1012,9 @@
             },
             {
                 "author": "Michael McClung",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The thief who pulled on trouble's braids",
@@ -991,8 +1035,9 @@
             },
             {
                 "author": "Christian Freed",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Hammers in the Wind",
@@ -1008,8 +1053,9 @@
             },
             {
                 "author": "Jacob Cooper",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Circle of Reign",
@@ -1025,8 +1071,9 @@
             },
             {
                 "author": "Jack Newhouse",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Journey",
@@ -1042,8 +1089,9 @@
             },
             {
                 "author": "Brian Kramer",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Godhede",
@@ -1059,8 +1107,9 @@
             },
             {
                 "author": "Salvador Mercer",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Black Dragon",
@@ -1082,182 +1131,199 @@
         "books": [
             {
                 "author": "Tristan J Tarwater",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Self-Made Scoundrel"
             },
             {
                 "author": "Daniel Batt",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Keaghan in the tales of Dreamside"
             },
             {
                 "author": "Christopher MacDonald",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Dreaded"
             },
             {
                 "author": "Dan Hupalo",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The String Quartet"
             },
             {
                 "author": "Matthew Colville",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Priest"
             },
             {
                 "author": "Sever Bronny",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Arcane"
             },
             {
                 "author": "D.P Brown",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "A Fairie's Tear"
             },
             {
                 "author": "Gregory Close",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "In Siege of Daylight"
             },
             {
                 "author": "Landon Portor",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "A girl and her monster"
             },
             {
                 "author": "Tom Wright",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Blood for Blood"
             },
             {
                 "author": "Elizabeth McCoy",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Queen of Roses"
             },
             {
                 "author": "Casey Peter",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "After the Burning"
             },
             {
                 "author": "Jonathan Moeller",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Frostborn"
             },
             {
                 "author": "John Dodds",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Mechanikals"
             },
             {
                 "author": "Jenn Gott",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Lady of Souls"
             },
             {
                 "author": "Sena Bryer",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Dreambound"
             },
             {
                 "author": "M. Edward McNally",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Sable City"
             },
             {
-                "processed": true,
-				"author": "James Cormier",
+                "about": "<p>James Cormier went to law school and spent years as a practicing attorney before realizing that what he really wanted to do with his life was sit around and write stories about imaginary places. Which is why you're reading this now. He lives in Massachusetts with his wife, his son, and the requisite two cats that every writer of fantasy and science fiction is presented with upon the publication of their first novel.</p>",
+                "author": "James Cormier",
                 "gender": "Male",
-				"genderJustification": "Twitter profile image",
+                "genderJustification": "Twitter profile image",
                 "nationality": "United States",
-				"nationalityJustification": "Content of writing, employment in about page",
+                "nationalityJustification": "Content of writing, employment in about page",
+                "processed": true,
                 "race": "Caucasian",
-				"raceJustification": "Twitter profile image",
-				"about": "<p>James Cormier went to law school and spent years as a practicing attorney before realizing that what he really wanted to do with his life was sit around and write stories about imaginary places. Which is why you're reading this now. He lives in Massachusetts with his wife, his son, and the requisite two cats that every writer of fantasy and science fiction is presented with upon the publication of their first novel.</p>",
-				"summary": "<p>Centuries after the Fall, the United States has been wiped away. The crumbling remains of the great American empire are home now only to savage, lawless tribes and packs of ravening Damned—the twisted children of the apocalypse. Most of those few who survived humanity’s destruction spend their short lives in a violent struggle for survival. But some light still flickers in the darkness: the Blessed of Bountiful live in seclusion, relying on walls both physical and spiritual to protect them from the Desolation that their world has become. Among them are the Saints, those few men and women born with superhuman abilities that the Blessed see as gifts from God.</p><p>The violent apostate tribes of the Northeast Kingdom have always been a danger, but up until recently its small size and the vigilance of its people have made Bountiful an unappealing target. As attacks on the community grow harsher and more frequent, however, even the steadfast Blessed are forced to start preparing for the worst.</p><p>With her home’s very existence threatened, seventeen year old Ever Oaks, a Saint with the power to heal, is forced to make a difficult choice, one that may come to define her people’s future…</p>",
+                "raceJustification": "Twitter profile image",
                 "status": "Honorable",
+                "summary": "<p>Centuries after the Fall, the United States has been wiped away. The crumbling remains of the great American empire are home now only to savage, lawless tribes and packs of ravening Damned\u2014the twisted children of the apocalypse. Most of those few who survived humanity\u2019s destruction spend their short lives in a violent struggle for survival. But some light still flickers in the darkness: the Blessed of Bountiful live in seclusion, relying on walls both physical and spiritual to protect them from the Desolation that their world has become. Among them are the Saints, those few men and women born with superhuman abilities that the Blessed see as gifts from God.</p><p>The violent apostate tribes of the Northeast Kingdom have always been a danger, but up until recently its small size and the vigilance of its people have made Bountiful an unappealing target. As attacks on the community grow harsher and more frequent, however, even the steadfast Blessed are forced to start preparing for the worst.</p><p>With her home\u2019s very existence threatened, seventeen year old Ever Oaks, a Saint with the power to heal, is forced to make a difficult choice, one that may come to define her people\u2019s future\u2026</p>",
                 "title": "Exile",
                 "urls": {
-					"avatar": "https://jamesdcormier.files.wordpress.com/2014/06/photo-on-5-2-13-at-3-49-pm.jpg?w=300&h=200",
-					"cover": "https://jamesdcormier.files.wordpress.com/2014/07/exile-amzn-epub1.jpg?w=187&h=300",
-					"book": [
-						{
-							"type": "landing",
-							"title": "Exile: The Book of Ever (Volume 1)",
-							"url": "http://jamesdcormier.com/exile-by-james-cormier/"
-						},
-						{
-							"type": "amazon",
-							"asin": "099059632X"
-						},
-						{
-							"type": "goodreads",
-							"id": "22961594-exile"
-						}
-					],
-					"author": [
-						{
-							"type": "blog",
-							"title": "James Cormier",
-							"url": "http://jamesdcormier.com/"
-						},
-						{
-							"type": "goodreads-author",
-							"id": "8449296.James_Cormier"
-						}
-					],
+                    "author": [
+                        {
+                            "title": "James Cormier",
+                            "type": "blog",
+                            "url": "http://jamesdcormier.com/"
+                        },
+                        {
+                            "id": "8449296.James_Cormier",
+                            "type": "goodreads-author"
+                        }
+                    ],
+                    "avatar": "https://jamesdcormier.files.wordpress.com/2014/06/photo-on-5-2-13-at-3-49-pm.jpg?w=300&h=200",
+                    "book": [
+                        {
+                            "title": "Exile: The Book of Ever (Volume 1)",
+                            "type": "landing",
+                            "url": "http://jamesdcormier.com/exile-by-james-cormier/"
+                        },
+                        {
+                            "asin": "099059632X",
+                            "type": "amazon"
+                        },
+                        {
+                            "id": "22961594-exile",
+                            "type": "goodreads"
+                        }
+                    ],
+                    "cover": "https://jamesdcormier.files.wordpress.com/2014/07/exile-amzn-epub1.jpg?w=187&h=300",
                     "reviews": [
                         {
                             "title": "Fantasy Faction",
@@ -1269,32 +1335,36 @@
             },
             {
                 "author": "Mark Gardner",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Champion Standing"
             },
             {
                 "author": "Thaddeus White",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Journey to Altmortis"
             },
             {
                 "author": "Shauna Granger",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "World of Ash"
             },
             {
                 "author": "James Islington",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The shadow of what was lost",
@@ -1311,40 +1381,45 @@
             },
             {
                 "author": "Magnus von Black",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Song and the Pendant"
             },
             {
                 "author": "Luke Spry",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "This Grave Kingdom"
             },
             {
                 "author": "Davis Ashura",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Castes and the Outcastes"
             },
             {
                 "author": "Daniel Eavenson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Dave Woke Up"
             },
             {
                 "author": "Joe Bailey",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Shadow's Rise"
@@ -1357,16 +1432,18 @@
         "books": [
             {
                 "author": "Corey Bryers",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Scrapper"
             },
             {
                 "author": "Alex Ziebart",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Blood and Masks",
@@ -1382,16 +1459,18 @@
             },
             {
                 "author": "Beth Lyons",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Soul Thief"
             },
             {
                 "author": "Scott Warren",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Sorcerous Crimes Division: Devil Bone",
@@ -1422,8 +1501,9 @@
             },
             {
                 "author": "Domino Finn",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Shade City",
@@ -1439,8 +1519,9 @@
             },
             {
                 "author": "David Tatum",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Kitsune Stratagem",
@@ -1461,8 +1542,9 @@
             },
             {
                 "author": "Charlotte Cyprus",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Kiss of the Fae",
@@ -1478,16 +1560,18 @@
             },
             {
                 "author": "Scott McGowan",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Bjorn and Bread"
             },
             {
                 "author": "Greg James",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Finalist",
                 "title": "Under a Colder Sun",
@@ -1508,16 +1592,18 @@
             },
             {
                 "author": "Andy Crawford",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Pen is Mightier"
             },
             {
                 "author": "Brian Lynch",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "King Callie",
@@ -1533,8 +1619,9 @@
             },
             {
                 "author": "Christopher Ruz",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Century of Sand",
@@ -1555,120 +1642,135 @@
             },
             {
                 "author": "Anthony Lowe",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "City of Blades"
             },
             {
                 "author": "Eric Knight",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Wreckers Gate"
             },
             {
                 "author": "Melissa Porter",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Purple"
             },
             {
                 "author": "Rachel Bowden",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Artisan"
             },
             {
                 "author": "Annika Howells",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "How to disappear completely"
             },
             {
                 "author": "Wilf Jones",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Best of Men"
             },
             {
                 "author": "Robert Mullin",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Bid the gods arise"
             },
             {
                 "author": "Sean Moran",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "A Time of Kings"
             },
             {
                 "author": "Rob Donovan",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Ritual of the Stones"
             },
             {
                 "author": "Randall Fitzgerald",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "No One's Chosen"
             },
             {
                 "author": "Nat Russo",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Necromancer Awakening"
             },
             {
                 "author": "A. Murtagh",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Soldiers"
             },
             {
                 "author": "Jenny Watson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Spirit's Mage"
             },
             {
                 "author": "Ken Lim",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Starfall Knight"
             },
             {
                 "author": "Victor Salinas",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Sword and its Servant"
@@ -1681,32 +1783,36 @@
         "books": [
             {
                 "author": "Noel Coughlan",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "A Bright Power Rising"
             },
             {
                 "author": "R.P Rigoli",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Red"
             },
             {
                 "author": "Jennifer Bell",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "A warrior's legacy: Jamie"
             },
             {
                 "author": "Andrew Rowe",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Forging Divinity",
@@ -1722,40 +1828,45 @@
             },
             {
                 "author": "Melody Taylor",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "In the Dark"
             },
             {
                 "author": "Tavish Kaeden",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "The Weight of a Crown"
             },
             {
                 "author": "David Pedersen",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Angst"
             },
             {
                 "author": "Adam Lee",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Dark Heart"
             },
             {
                 "author": "Kal S Davian",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Naming the Bane",
@@ -1776,16 +1887,18 @@
             },
             {
                 "author": "Patrick J Loller",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Forged by Battle"
             },
             {
                 "author": "T.C Pearce",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Into the Aether",
@@ -1806,40 +1919,45 @@
             },
             {
                 "author": "Will Kay",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Requiem of Innocence"
             },
             {
                 "author": "Benny Hinrichs",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "The Oneironauts"
             },
             {
                 "author": "Neil McGarry & Daniel Ravipinto",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "The Duchess of the Shallows"
             },
             {
                 "author": "Nick Marsden",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "The Light of Theolan"
             },
             {
                 "author": "Janice McKonly",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Welcome to Mystery Interior",
@@ -1855,8 +1973,9 @@
             },
             {
                 "author": "Steve Thomas",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Klondaeg the Monster Hunter",
@@ -1872,8 +1991,9 @@
             },
             {
                 "author": "Wayne Miller",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Dung Ball Chronicle",
@@ -1889,8 +2009,9 @@
             },
             {
                 "author": "Amanda McCrina",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "His Own Good Sword",
@@ -1911,8 +2032,9 @@
             },
             {
                 "author": "Jack Kerr",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Tommy Black and the Staff of Light",
@@ -1933,8 +2055,9 @@
             },
             {
                 "author": "Scott Decker",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Gemstone Wyverns",
@@ -1950,8 +2073,9 @@
             },
             {
                 "author": "Terry Simpson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Game of Souls",
@@ -1967,8 +2091,9 @@
             },
             {
                 "author": "Cindy Young-Turner",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Thief of Hope",
@@ -1989,8 +2114,9 @@
             },
             {
                 "author": "Ruairi Cinead Ducantlin",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Verum \u2013 Exercitum ex Nihilo",
@@ -2006,8 +2132,9 @@
             },
             {
                 "author": "Jake Scholl",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Blade of the Broken",
@@ -2023,16 +2150,18 @@
             },
             {
                 "author": "JR Karlsson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Escana"
             },
             {
                 "author": "Maya Michaels",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Iduna"
@@ -2045,32 +2174,36 @@
         "books": [
             {
                 "author": "Karen de Lange",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Beneath Starlight"
             },
             {
                 "author": "LJ Cohen",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Time and Tithe"
             },
             {
                 "author": "SM Barrett",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "The Halloween Host"
             },
             {
                 "author": "Patty Jansen",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Fire and Ice",
@@ -2097,40 +2230,45 @@
             },
             {
                 "author": "KJ Tantardini",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "God Striker"
             },
             {
                 "author": "William Dickstein",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "A Tale of Gems"
             },
             {
                 "author": "Jeff Goelz",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "The Rightful Queen"
             },
             {
                 "author": "Daniel Aspden",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Hero the Killer"
             },
             {
                 "author": "Robert Courtland",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Jack of Troubles",
@@ -2151,8 +2289,9 @@
             },
             {
                 "author": "Daniel Quigley",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Thunder Struck",
@@ -2168,16 +2307,18 @@
             },
             {
                 "author": "Violet Patterson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Emerald Seer"
             },
             {
                 "author": "Mary C Moore",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Angelus",
@@ -2198,64 +2339,72 @@
             },
             {
                 "author": "Milo Woods",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Rupture"
             },
             {
                 "author": "Seth Lindberg",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Spawn of Dyscrasia"
             },
             {
                 "author": "Robert Luis Rabello",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Ceremonies and Celebrations"
             },
             {
                 "author": "T.O Munro",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Lady of the Helm"
             },
             {
                 "author": "Brad Carsten",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Riftwalkers"
             },
             {
                 "author": "Jack Thane",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Forsaken"
             },
             {
                 "author": "Jonathan Walles",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "The little girl and the shadow"
             },
             {
                 "author": "Plague Jack",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Sins of Sovereignty",
@@ -2281,8 +2430,9 @@
             },
             {
                 "author": "Trip Ellington",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Game Alive",
@@ -2298,8 +2448,9 @@
             },
             {
                 "author": "Daniel Ionson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "After Life",
@@ -2320,24 +2471,27 @@
             },
             {
                 "author": "David Moton",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Chama"
             },
             {
                 "author": "Peter Fugazzotto",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Considering",
                 "title": "Black River"
             },
             {
                 "author": "Ellis L Knox",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Garden of Hugo Vuerloz",
@@ -2358,8 +2512,9 @@
             },
             {
                 "author": "JM McDermott",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Straggletaggle",
@@ -2375,8 +2530,9 @@
             },
             {
                 "author": "Astra Crompton",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Firstborn",
@@ -2398,8 +2554,9 @@
         "books": [
             {
                 "author": "Stoo Goff",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Knights of Elevar",
@@ -2415,8 +2572,9 @@
             },
             {
                 "author": "Blair MacGregor",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Sand of Bone",
@@ -2447,8 +2605,9 @@
             },
             {
                 "author": "Rick Chiantaretto",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Death of the Body",
@@ -2464,8 +2623,9 @@
             },
             {
                 "author": "Steve Muse",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Heir of Nostalgia",
@@ -2486,8 +2646,9 @@
             },
             {
                 "author": "Lila Lestrange",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Black Silk",
@@ -2503,8 +2664,9 @@
             },
             {
                 "author": "VJ Lakshman",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Mythborn",
@@ -2525,8 +2687,9 @@
             },
             {
                 "author": "EJ Stevens",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Burning Bright",
@@ -2547,8 +2710,9 @@
             },
             {
                 "author": "Anthony Stevens",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Shifter Shadows",
@@ -2564,8 +2728,9 @@
             },
             {
                 "author": "Rob Vitaro",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "By the light of the moons",
@@ -2586,8 +2751,9 @@
             },
             {
                 "author": "Claude Blakhen",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Osterode",
@@ -2603,8 +2769,9 @@
             },
             {
                 "author": "Andy Grinsfelder",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Soulraker",
@@ -2620,8 +2787,9 @@
             },
             {
                 "author": "JL Doty",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Child of the Sword",
@@ -2637,8 +2805,9 @@
             },
             {
                 "author": "JD Brink",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Tarnish",
@@ -2654,8 +2823,9 @@
             },
             {
                 "author": "William G Saraband",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Finalist",
                 "title": "Shattered Sands",
@@ -2681,8 +2851,9 @@
             },
             {
                 "author": "Craig Saunders",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Outlaw King",
@@ -2698,8 +2869,9 @@
             },
             {
                 "author": "Kevin Butterfield",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Stormwalkers",
@@ -2730,8 +2902,9 @@
             },
             {
                 "author": "James Latimer",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Winter Warrior",
@@ -2747,8 +2920,9 @@
             },
             {
                 "author": "Brad Williams",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Chadwick Yates and the Cannibal Shrine",
@@ -2769,8 +2943,9 @@
             },
             {
                 "author": "CV Dreesman",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Marksmith",
@@ -2786,8 +2961,9 @@
             },
             {
                 "author": "Jay Swanson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Into the Nanten",
@@ -2803,8 +2979,9 @@
             },
             {
                 "author": "Annie Bellet",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Avarice",
@@ -2820,8 +2997,9 @@
             },
             {
                 "author": "Kelly Russo",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Dreamweavers",
@@ -2837,8 +3015,9 @@
             },
             {
                 "author": "JD Hallowell",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Dragon Fate",
@@ -2869,8 +3048,9 @@
             },
             {
                 "author": "James Gawley",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Legionnaire",
@@ -2886,8 +3066,9 @@
             },
             {
                 "author": "Siana Wineland",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Emergence",
@@ -2903,8 +3084,9 @@
             },
             {
                 "author": "Greg Dragon",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Re-Wired",
@@ -2931,8 +3113,9 @@
         "books": [
             {
                 "author": "A.E Marling",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Chisel and Frost",
@@ -2948,8 +3131,9 @@
             },
             {
                 "author": ". J. Edward Richie",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Fall from Grace",
@@ -2965,8 +3149,9 @@
             },
             {
                 "author": "Peyton Reynolds",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The Auguries of Dawn",
@@ -2982,16 +3167,18 @@
             },
             {
                 "author": "William D Richards",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Aggadeh Chronicles"
             },
             {
                 "author": "Shiriluna Nott",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "A Call to Arms",
@@ -3007,8 +3194,9 @@
             },
             {
                 "author": "Barbara Webb",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Finalist",
                 "title": "City of Burning Shadows",
@@ -3039,8 +3227,9 @@
             },
             {
                 "author": "Amelia Smith",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Scrapplings",
@@ -3066,32 +3255,36 @@
             },
             {
                 "author": "Erin Snyder",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "A Court of Five"
             },
             {
                 "author": "Irina Rempt",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Terms of Service"
             },
             {
                 "author": "M. Todd Gallowglas",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Dead Weight"
             },
             {
                 "author": "TL Morganfield",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Bone Flower Queen",
@@ -3107,16 +3300,18 @@
             },
             {
                 "author": "Karen Gellender",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Problem With Black Magic"
             },
             {
                 "author": "Vanna Smythe",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Protector",
@@ -3132,8 +3327,9 @@
             },
             {
                 "author": "Annette Gisby",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Chosen",
@@ -3149,8 +3345,9 @@
             },
             {
                 "author": "Sean Hannifin",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Son of a Dark Wizard",
@@ -3172,16 +3369,18 @@
             },
             {
                 "author": "Robyn Wideman",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Son of Thoron"
             },
             {
                 "author": "Lori Alden Holuta",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The flight to Brassbright",
@@ -3197,8 +3396,9 @@
             },
             {
                 "author": "Chris Northern",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The Last King's Amulet",
@@ -3219,16 +3419,18 @@
             },
             {
                 "author": "Marc Johnson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Catalyst"
             },
             {
                 "author": "JK  Swift",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Altdorf",
@@ -3249,48 +3451,54 @@
             },
             {
                 "author": "Randall Boleyn",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Wave Links to the Gods"
             },
             {
                 "author": "Nathan Boyce",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Chronicle of Unfortunate Heroes"
             },
             {
                 "author": "Olga Godim",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Squirrel of Magic"
             },
             {
                 "author": "GB Wren",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Silvering of Loran"
             },
             {
                 "author": "Alan Zendell",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Portal"
             },
             {
                 "author": "Mark Tyson",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Defenders of the Sacred Land",
@@ -3312,8 +3520,9 @@
         "books": [
             {
                 "author": "AJ Colby",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Hunted",
@@ -3329,8 +3538,9 @@
             },
             {
                 "author": "Tyler Danann",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Way Captain",
@@ -3346,8 +3556,9 @@
             },
             {
                 "author": "Lisa Hayward",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Blood Work",
@@ -3363,8 +3574,9 @@
             },
             {
                 "author": "Nicholas R Andrews",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Secrets of the Stonechaser",
@@ -3380,8 +3592,9 @@
             },
             {
                 "author": "Susan D Kalior",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Warriors in the Mist",
@@ -3397,8 +3610,9 @@
             },
             {
                 "author": "Lianne Miller",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Nights of Shadow",
@@ -3414,8 +3628,9 @@
             },
             {
                 "author": "Crista McHugh",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Finalist",
                 "title": "A Soul for Trouble",
@@ -3436,8 +3651,9 @@
             },
             {
                 "author": "Sara C Roethle",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Tree of Ages",
@@ -3453,8 +3669,9 @@
             },
             {
                 "author": "Jonathan Crocker",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "A Dream of Hope and Sorrow",
@@ -3470,8 +3687,9 @@
             },
             {
                 "author": "Kirby Moore",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Starfall City",
@@ -3487,8 +3705,9 @@
             },
             {
                 "author": "CG Garcia",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Old Souls",
@@ -3504,8 +3723,9 @@
             },
             {
                 "author": "Michele Amitrani",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Omnilogos",
@@ -3521,8 +3741,9 @@
             },
             {
                 "author": "NM Sotzek",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Revealing the Revolution",
@@ -3538,8 +3759,9 @@
             },
             {
                 "author": "Eliza Marie Jones",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Rynlee's Song",
@@ -3555,8 +3777,9 @@
             },
             {
                 "author": "Philip R Hall",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Memories of the Dead",
@@ -3572,8 +3795,9 @@
             },
             {
                 "author": "SA Hunter",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Unicorn Bait",
@@ -3589,8 +3813,9 @@
             },
             {
                 "author": "L Blankenship",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Disciple",
@@ -3606,8 +3831,9 @@
             },
             {
                 "author": "Mark Maxwell",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The London Project",
@@ -3623,8 +3849,9 @@
             },
             {
                 "author": "Frances Pauli",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Blame the Bearer",
@@ -3640,8 +3867,9 @@
             },
             {
                 "author": "William Dooling",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Synchronicity",
@@ -3657,8 +3885,9 @@
             },
             {
                 "author": "Clare C Marshall",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "The Violet Fox",
@@ -3674,8 +3903,9 @@
             },
             {
                 "author": "Stephen Roy",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Black Redneck vs The Space Zombies",
@@ -3691,8 +3921,9 @@
             },
             {
                 "author": "Robert Michael",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Stone and Blood",
@@ -3708,8 +3939,9 @@
             },
             {
                 "author": "Masha du Toit",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Crooks and Straights",
@@ -3725,8 +3957,9 @@
             },
             {
                 "author": "Nicholas Mena",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Cauyuye",
@@ -3742,8 +3975,9 @@
             },
             {
                 "author": "Steve S Grant",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Mentioned",
                 "title": "Conqueror's Law",
@@ -3765,56 +3999,63 @@
         "books": [
             {
                 "author": "Nate Jones",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Undying Heights"
             },
             {
                 "author": "Rinelle Grey",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Twin Curse"
             },
             {
                 "author": "TR Goodman",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "My Name is Michael Bishop"
             },
             {
                 "author": "Henry Lion Oldie",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "ShMagic"
             },
             {
                 "author": "Christina Ochs",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Prophet of Ruin"
             },
             {
                 "author": "Marilyn Peake",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Shade"
             },
             {
                 "author": "Charlie Ward",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Frotwoot's Faerie Tales",
@@ -3825,34 +4066,37 @@
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
                         },
-						{
-							"title": "Fantasy Book Review",
-							"type": "review",
-							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
-						}
+                        {
+                            "title": "Fantasy Book Review",
+                            "type": "review",
+                            "url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+                        }
                     ]
                 }
             },
             {
                 "author": "Victoria Jeffrey",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Schisms"
             },
             {
                 "author": "Graham Austin-King",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Fae - The Wild Hunt"
             },
             {
                 "author": "Kade Derricks",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "Paladin's Redemption",
@@ -3863,42 +4107,46 @@
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
                         },
-						{
-							"title": "Fantasy Book Review",
-							"type": "review",
-							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
-						}
+                        {
+                            "title": "Fantasy Book Review",
+                            "type": "review",
+                            "url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+                        }
                     ]
                 }
             },
             {
                 "author": "Anastasia Marie",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Binding Power"
             },
             {
                 "author": "Melanie Nilles",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Spirit Blade"
             },
             {
                 "author": "Ashley Nixon",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Cutlass"
             },
             {
                 "author": "Jack Connor",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The Atomic Sea",
@@ -3914,16 +4162,18 @@
             },
             {
                 "author": "Kenton Crowther",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "A Prince in Gangland"
             },
             {
                 "author": "David Benem",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Finalist",
                 "title": "What Remains of Heroes",
@@ -3940,50 +4190,55 @@
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
                         },
-						{
-							"title": "Fantasy Book Review",
-							"type": "review",
-							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
-						}
+                        {
+                            "title": "Fantasy Book Review",
+                            "type": "review",
+                            "url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+                        }
                     ]
                 }
             },
             {
                 "author": "Nick Moseley",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Location, Location, Damnation"
             },
             {
                 "author": "Tom Fallwell",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Dragon Rising"
             },
             {
                 "author": "SB Jones",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Skymages and the Gateway of Time"
             },
             {
                 "author": "Jaleta Clegg",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Dark Dancer"
             },
             {
                 "author": "Michael Ploof",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Honorable",
                 "title": "The Whill of Agora",
@@ -3994,111 +4249,116 @@
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
                         },
-						{
-							"title": "Fantasy Book Review",
-							"type": "review",
-							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
-						}
+                        {
+                            "title": "Fantasy Book Review",
+                            "type": "review",
+                            "url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+                        }
                     ]
                 }
             },
             {
                 "author": "J Niomi Ay",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The boy who lit up the sky"
             },
             {
                 "author": "T Lynne Tolle",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Hades' Revenge"
             },
             {
-				"processed": true,
+                "about": "<p>I always feel a little odd composing a biography about myself and writing it in the third person. I mean, should I include something like this:</p><p>\u201cShawn Wickersheim was born in Illinois on a Monday and when he was still little a lady told his mother, \u2018It\u2019s good he was born on a Monday, that way if he ever becomes President and they decide to honor his birth date, we\u2019ll get an extra three-day weekend each year\u2026'\u201d</p><p>Talk about pressure!</p>",
                 "author": "Shawn Wickersheim",
                 "gender": "Male",
-				"genderJustification": "Twitter image, First name.",
+                "genderJustification": "Twitter image, First name.",
                 "nationality": "United States",
-				"nationalityJustification": "About me.",
+                "nationalityJustification": "About me.",
+                "processed": true,
                 "race": "Caucasian",
-				"raceJustification": "Profile image.",
+                "raceJustification": "Profile image.",
                 "status": "Honorable",
+                "summary": "<p>Thirty years ago, when Mallor was a child, he was the sole survivor of genocide. Five years ago, while pursuing his revenge he was ambushed and killed. His goddess offered him a chance to return on the condition he became her assassin. Mallor agreed.</p><p>Now, he is back, in the dank city where it all began hunting down a list of old foes, but thirty-six hours before his revenge would be complete, he learns a couple of things; he has a daughter, she's been kidnapped by a sadistic magic abuser and the price for her release would not only ruin all of his plans but also kill his goddess.</p><p>Mallor is nobody's hero, but can he sacrifice his daughter to save his goddess, or will he forsake his faith and his need for revenge to rescue her instead? In this gritty fantasy novel where nothing is quite what it seems you won't know what Mallor will do until the bitter end.</p>",
                 "title": "The Penitent Assassin",
-				"about": "<p>I always feel a little odd composing a biography about myself and writing it in the third person. I mean, should I include something like this:</p><p>“Shawn Wickersheim was born in Illinois on a Monday and when he was still little a lady told his mother, ‘It’s good he was born on a Monday, that way if he ever becomes President and they decide to honor his birth date, we’ll get an extra three-day weekend each year…'”</p><p>Talk about pressure!</p>",
-				"summary": "<p>Thirty years ago, when Mallor was a child, he was the sole survivor of genocide. Five years ago, while pursuing his revenge he was ambushed and killed. His goddess offered him a chance to return on the condition he became her assassin. Mallor agreed.</p><p>Now, he is back, in the dank city where it all began hunting down a list of old foes, but thirty-six hours before his revenge would be complete, he learns a couple of things; he has a daughter, she's been kidnapped by a sadistic magic abuser and the price for her release would not only ruin all of his plans but also kill his goddess.</p><p>Mallor is nobody's hero, but can he sacrifice his daughter to save his goddess, or will he forsake his faith and his need for revenge to rescue her instead? In this gritty fantasy novel where nothing is quite what it seems you won't know what Mallor will do until the bitter end.</p>",
                 "urls": {
-					"cover": "http://inkcompetentwriter.files.wordpress.com/2011/08/the-penitent-assassin-cover.jpg",
-					"avatar": "img/shawn-wickersheim.jpg",
-					"author": [
-						{
-							"title": "The Ink-Competent Writer",
-							"type": "blog",
-							"url": "https://inkcompetentwriter.wordpress.com/"
-						},
+                    "author": [
+                        {
+                            "title": "The Ink-Competent Writer",
+                            "type": "blog",
+                            "url": "https://inkcompetentwriter.wordpress.com/"
+                        },
                         {
                             "title": "Amazon Author",
                             "type": "amazon-author",
                             "url": "http://www.amazon.com/Shawn-Wickersheim/e/B005JTT8IM"
                         },
-						{
-							"type": "twitter",
-							"id": "stwick"
-						},
-						{
-							"title": "Goodreads Author",
-							"type": "blog",
-							"url": "https://www.goodreads.com/author/show/5164925.Shawn_Wickersheim"
-						}
-					],
-					"book": [
-						{
-							"type": "amazon",
-							"asin": "B005JKR95U"
-						},
-						{
-							"type": "smashwords",
-							"id": "84281"
-						}
-					],
+                        {
+                            "id": "stwick",
+                            "type": "twitter"
+                        },
+                        {
+                            "title": "Goodreads Author",
+                            "type": "blog",
+                            "url": "https://www.goodreads.com/author/show/5164925.Shawn_Wickersheim"
+                        }
+                    ],
+                    "avatar": "img/shawn-wickersheim.jpg",
+                    "book": [
+                        {
+                            "asin": "B005JKR95U",
+                            "type": "amazon"
+                        },
+                        {
+                            "id": "84281",
+                            "type": "smashwords"
+                        }
+                    ],
+                    "cover": "http://inkcompetentwriter.files.wordpress.com/2011/08/the-penitent-assassin-cover.jpg",
                     "reviews": [
                         {
                             "title": "Fantasy Book Review",
                             "type": "review",
                             "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
                         },
-						{
-							"title": "Fantasy Book Review",
-							"type": "review",
-							"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
-						}
+                        {
+                            "title": "Fantasy Book Review",
+                            "type": "review",
+                            "url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+                        }
                     ]
                 }
             },
             {
                 "author": "John Patrick Kennedy",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "The Descended"
             },
             {
                 "author": "CM Cox",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Sortilege"
             },
             {
                 "author": "Scarlett Dawn",
-                "processed": false, "gender": "Unknown",
+                "gender": "Unknown",
                 "nationality": "Unknown",
+                "processed": false,
                 "race": "Unknown",
                 "status": "Passed",
                 "title": "Valan Playboys"
