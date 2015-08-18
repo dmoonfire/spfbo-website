@@ -12,6 +12,7 @@
 		<style>
 body {
 	font-family: 'Source Serif Pro', serif;
+	padding-bottom: 2em;
 }
 
 #loading, #nothing {
@@ -48,6 +49,8 @@ body {
 .group-bibliotropic-hide,
 .group-the-speculative-book-review-hide,
 .group-fantasy-book-review-hide,
+.twitter-yes-hide, .twitter-no-hide,
+.facebook-yes-hide, .facebook-no-hide,
 .search-hide
 {
 	display: none;
@@ -234,6 +237,34 @@ h4.panel-title {
 							</div>
 							<div class="checkbox">
 								<label><input id="checkbox-gender-unknown" type="checkbox" checked> Unknown</label>
+							</div>
+						</div>
+					</div>
+					
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Social Networks</h3>
+						</div>
+						<div class="panel-body">
+							<div class="row">
+								<div class="col-xs-3">
+									Twitter
+								</div>
+								<div class="col-xs-9">
+									<label class="radio-inline"><input name="radio-twitter" value="all" type="radio" checked>All</input></label>
+									<label class="radio-inline"><input name="radio-twitter" value="yes" type="radio">Yes</input></label>
+									<label class="radio-inline"><input name="radio-twitter" value="no" type="radio">No</input></label>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-3 button-label">
+									Facebook
+								</div>
+								<div class="col-xs-9">
+									<label class="radio-inline"><input name="radio-facebook" value="all" type="radio" checked>All</input></label>
+									<label class="radio-inline"><input name="radio-facebook" value="yes" type="radio">Yes</input></label>
+									<label class="radio-inline"><input name="radio-facebook" value="no" type="radio">No</input></label>
+								</div>
 							</div>
 						</div>
 					</div>

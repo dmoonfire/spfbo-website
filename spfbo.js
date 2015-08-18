@@ -123,9 +123,10 @@ function appendKeyUrls(label, urls, parent) {
 
 function onData(data) {
 	// Parse the results as JSON.
-	if (typeof(textData) === "string")
+	if (typeof(data) === "string")
 	{
 		data = JSON.parse(data);
+		console.log("Switching from string to JSON object");
 	}
 	
 	// Loop through the reviewer and create the results.
@@ -142,6 +143,22 @@ function onData(data) {
 			var race_slug = "race-" + book.race.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
 			var nationality_slug = "nationality-" + book.nationality.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
 			var group_slug = "group-" + reviewer.group.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+			
+			// Figure out which social networks we have.
+			var has_twitter = false;
+			var has_facebook = false;
+			
+			if (book.urls && book.urls.author)
+			{
+				for (author of book.urls.author)
+				{
+					if (author.type === "twitter") { has_twitter = true; }
+					if (author.type === "facebook") { has_facebook = true; }
+				}
+			}
+			
+			var twitter_class = "twitter-" + (has_twitter ? "yes" : "no");
+			var facebook_class = "facebook-" + (has_facebook ? "yes" : "no");
 			
 			//if (status_slug === "status-passed") { status_slug += " status-passed-hide"; }
 			//if (gender_slug === "gender-unknown") { status_slug += " gender-unknown-hide"; }
@@ -164,7 +181,9 @@ function onData(data) {
 				+ gender_slug + " "
 				+ race_slug + " "
 				+ group_slug + " "
-				+ nationality_slug
+				+ nationality_slug + " "
+				+ twitter_class + " "
+				+ facebook_class + " "
 				+ " book'></div>");
 			var panelHeading = $(
 				"<div class='panel-heading' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
@@ -258,23 +277,25 @@ function showResults() {
 
 		// Hook up events when the button is toggled.
 		elem.on('click', function() {
-			// Get the toggle state.
 			var checked = elem.prop("checked");
-			console.log("toggle", classId, checked);
-			
-			if (checked) {
-				$("div." + classId).removeClass(classId + "-hide");
-			} else {
-				$("div." + classId).addClass(classId + "-hide");
-			}
-			
-			// Update the count of books.
+			$("div." + classId).toggleClass(classId + "-hide", !checked);
 			updateCounts();
 		});
 		
 		// Add in the counts at the end.
 		var number = $("." + classId).length;
 		elem.parent().append(" (" + number + ")");
+	});
+	$("label.radio-inline input").each(function(index, item) {
+		var elem = $(item);
+		var classId = item.name.replace("radio-", "");
+		var value = item.value;
+		
+		elem.on('click', function() {
+			$("div." + classId + "-yes").toggleClass(classId + "-yes-hide", value == "no");
+			$("div." + classId + "-no").toggleClass(classId + "-no-hide", value == "yes");
+			updateCounts();
+		});
 	});
 	
 	// Hide the loading box and display the results.
