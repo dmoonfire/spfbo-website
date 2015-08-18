@@ -70,12 +70,22 @@ function appendKeyUrls(label, urls, parent) {
 				u = "https://twitter.com/" + url.id;
 				t = "Twitter";
 				break;
+
+			case "kobo":
+				u = "https://store.kobobooks.com/en-US/ebook/" + url.id;
+				t = "Kobo";
+				break;
+				
+			case "wattpad":
+				u = "https://www.wattpad.com/story/" + url.id;
+				t = "Wattpad";
+				break;
 				
 			case "amazon":
-				var a = "<a href='https://www.amazon.com/dp/" + url.asin + "'>Amazon US</a>";
-				a += " <a href='https://www.amazon.co.uk/dp/" + url.asin + "'>UK</a>";
+				var a = "<a href='https://www.amazon.com/dp/" + url.id + "'>Amazon US</a>";
+				a += " <a href='https://www.amazon.co.uk/dp/" + url.id + "'>UK</a>";
 				a += "<br/>"
-				urlText.append("<a href='https://www.amazon.com/dp/" + url.asin + "'>https://www.amazon.com/dp/" + url.asin + "</a><br/>");
+				urlText.append("<a href='https://www.amazon.com/dp/" + url.id + "'>https://www.amazon.com/dp/" + url.id + "</a><br/>");
 				values.append(a);
 				continue;
 				
