@@ -198,13 +198,28 @@ function onBookData(book) {
 
 		// Figure out the panel based on the status.
 		var panelType = "panel-warning";
+		var badge = "";
 
 		switch (book.status)
 		{
-			case "Finalist": panelType = "panel-success"; break;
-			case "Passed": panelType = "panel-default"; break;
-			case "Honorable": panelType = "panel-info"; break;
-			case "Withdrawn": panelType = "panel-danger"; break;
+			case "Winner":
+				panelType = "panel-primary";
+				badge = '<strong>Winner</strong>&nbsp;<span class="glyphicon glyphicon-star" aria-hidden="true"></span>';
+				break;
+			case "Finalist":
+				panelType = "panel-success";
+				badge = 'Finalist&nbsp;<span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>';
+				break;
+			case "Passed":
+				panelType = "panel-default";
+				break;
+			case "Honorable":
+				panelType = "panel-info";
+				badge = 'Honorable Mention&nbsp;<span class="glyphicon glyphicon-heart-empty" aria-hidden="true"></span>';
+				break;
+			case "Withdrawn":
+				panelType = "panel-danger";
+				break;
 		}
 
 		var panel = $(
@@ -220,7 +235,9 @@ function onBookData(book) {
 			+ " book'></div>");
 		var panelHeading = $(
 			"<div class='panel-heading collapsed' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
-			+ "<h4 class='panel-title'>"
+			+ "<div class='pull-right'>"
+			+ badge
+			+ "</div><h4 class='panel-title'>"
 			+ "<strong>" + book.title
 			+ " <small>" + book.author + "</small>"
 			+ "</a></h4>"
