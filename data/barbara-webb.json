@@ -1,34 +1,72 @@
 {
-	"reviewer": "Bibliotropic",
-	"author": "Barbara Webb",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Finalist",
-	"title": "City of Burning Shadows",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
-			},
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
-			},
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/04/29/spfbo-review-city-of-burning-shadows-by-barbara-j-webb/"
-			},
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/07/17/spfbo-round-1-winner/"
-			}
-		]
-	}
+    "about": "<p>Growing up in a house that included a library of thousands of science fiction and fantasy books, Barbara J. Webb had no choice but to become a writer herself.</p><p>A midwesterner at heart, Barbara has lived in Missouri, Kansas, and Arkansas, but finally settled in only two blocks away from the house in which she was born. She enjoys her small-town life with her husband and her cat, and occasionally dreams of keeping horses. Or even better, unicorns.</p>",
+    "author": "Barbara Webb",
+    "gender": "Female",
+    "genderJustification": "Avatar image",
+    "natioanlityJustification": "About from home page",
+    "nationality": "United States",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustification": "Image from home page, best guess.",
+    "reviewer": "Bibliotropic",
+    "status": "Finalist",
+    "summary": "<p>Joshua \u201cAsh\u201d Drake is a man in hiding.</p><p>Hiding from the past, from the horror of his life as a priest after the gods disappeared.</p><p>Hiding from his emotions, denying both the nightmares that haunt his sleep and the anger that fuels his days.</p><p>Most of all, hiding from the truth\u2014that no matter how much he keeps his head down, no matter how he clings to the echoes of everyday life, his city\u2014his world\u2014is dying.</p><p>When a new technology offers salvation to his desperate city, Ash must reach out to people he left behind and step back into the world that almost killed him. But coming out of hiding now could be the worst mistake Ash has ever made.</p><p>Because there are monsters in the darkness, feeding the chaos, watching the city burn. And once those monsters know his name, Ash will never be able to hide again.</p>",
+    "title": "City of Burning Shadows",
+    "urls": {
+        "author": [
+            {
+                "title": "Barbara J. Webb",
+                "type": "blog",
+                "url": "http://www.barbarajwebb.com/"
+            },
+            {
+                "id": "33604.Barbara_J_Webb",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Barbara-J.-Webb/e/B0083UU4E6/ref=dp_byline_cont_ebooks_1"
+            }
+        ],
+        "avatar": "http://www.barbarajwebb.com/wp-content/uploads/2013/11/barbara-140x186.jpg",
+        "book": [
+            {
+                "title": "Landing",
+                "type": "landing",
+                "url": "http://www.barbarajwebb.com/novel/apocrypha-book/"
+            },
+            {
+                "id": "B00IUQ901Q",
+                "type": "amazon"
+            },
+            {
+                "id": "21458730-city-of-burning-shadows",
+                "type": "goodreads"
+            }
+        ],
+        "cover": "http://www.barbarajwebb.com/wp-content/uploads/2014/03/barbarajwebb_cityofburningshadows_ebook_final-663x1024.jpg",
+        "reviews": [
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+            },
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
+            },
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/04/29/spfbo-review-city-of-burning-shadows-by-barbara-j-webb/"
+            },
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/07/17/spfbo-round-1-winner/"
+            }
+        ]
+    }
 }

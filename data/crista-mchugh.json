@@ -17,7 +17,7 @@
 		"book": [
 			{
 				"type": "amazon",
-				"asin": "B007QYEPYK"
+				"id": "B007QYEPYK"
 			},
 			{
 				"type": "goodreads",
