@@ -131,151 +131,191 @@ function appendKeyUrls(label, urls, parent) {
 	}
 }
 
-function onData(data) {
+var totalBooks = 0;
+var loadedBooks = 0;
+
+function updateLoading() {
+	$("#loading").text("Loading " + loadedBooks + " of " + totalBooks);
+}
+
+function onIndexData(data) {
 	// Parse the results as JSON.
 	if (typeof(data) === "string")
 	{
 		data = JSON.parse(data);
-		console.log("Switching from string to JSON object");
+		console.log("Switching index from string to JSON object");
 	}
-	
-	// Loop through the reviewer and create the results.
-	var container = $("#book-container");
-	
-	for (var reviewer of data)
+
+	// Update the loading screen.
+	totalBooks = data.length;
+	updateLoading();
+
+	// Go through the sequence and pull out the names.
+	for (var entry of data)
 	{
-		for (var book of reviewer.books)
+		// Retrieve the results and populate them.
+		console.log("Loading", entry);
+		$.get("data/" + entry + ".json", onBookData).done(onBookEnd);
+	}
+}
+
+function onBookData(book) {
+	try {
+		// Parse the results as JSON.
+		if (typeof(book) === "string")
 		{
-			// Figure out slugs and IDs.
-			var slug = book.title.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
-			var status_slug = "status-" + book.status.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
-			var gender_slug = "gender-" + book.gender.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
-			var race_slug = "race-" + book.race.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
-			var nationality_slug = "nationality-" + book.nationality.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
-			var group_slug = "group-" + reviewer.group.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
-			
-			// Figure out which social networks we have.
-			var has_twitter = false;
-			var has_facebook = false;
-			
-			if (book.urls && book.urls.author)
-			{
-				for (author of book.urls.author)
-				{
-					if (author.type === "twitter") { has_twitter = true; }
-					if (author.type === "facebook") { has_facebook = true; }
-				}
-			}
-			
-			var twitter_class = "twitter-" + (has_twitter ? "yes" : "no");
-			var facebook_class = "facebook-" + (has_facebook ? "yes" : "no");
-			
-			//if (status_slug === "status-passed") { status_slug += " status-passed-hide"; }
-			//if (gender_slug === "gender-unknown") { status_slug += " gender-unknown-hide"; }
-			
-			// Figure out the panel based on the status.
-			var panelType = "panel-warning";
-			
-			switch (book.status)
-			{
-				case "Finalist": panelType = "panel-success"; break;
-				case "Passed": panelType = "panel-default"; break;
-				case "Honorable": panelType = "panel-info"; break;
-				case "Withdrawn": panelType = "panel-danger"; break;
-			}
-			
-			var panel = $(
-				"<div class='panel "
-				+ panelType + " "
-				+ status_slug + " "
-				+ gender_slug + " "
-				+ race_slug + " "
-				+ group_slug + " "
-				+ nationality_slug + " "
-				+ twitter_class + " "
-				+ facebook_class + " "
-				+ " book'></div>");
-			var panelHeading = $(
-				"<div class='panel-heading collapsed' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
-				+ "<h4 class='panel-title'>"
-				+ "<strong>" + book.title
-				+ " <small>" + book.author + "</small>"
-				+ "</a></h4>"
-				+ "</div>");
-			var panelBodyContainer = $(
-				"<div id='" + slug
-				+ "' class='panel-collapse collapse out' aria-labelledby='"
-				+ slug + "-title'></div>");
-			var panelBody = $("<div class='panel-body'></div></div>");
-				
-			panel.hide();
-			container.append(panel);
-			panel.append(panelHeading);
-			panel.append(panelBodyContainer);
-			panelBodyContainer.append(panelBody);
-						
-			// Add in the information about the book.
-			var summaryRow = $("<div class='row'></div>");
-			var cover = $("<div class='col-md-2'></div>");
-			var summary = $("<div class='col-md-10'></div>");
-			
-			panelBody.append("<h3>" + book.title + "</h3>");
-			panelBody.append(summaryRow);
-			summaryRow.append(cover);
-			summaryRow.append(summary);
-			
-			if (book.urls && book.urls.cover)
-			{
-				$("<img class='img-responsive' src='" + book.urls.cover + "' alt='" + book.title + " cover'/>")
-					.appendTo(cover);
-			}
-			
-			if (book.summary)
-			{
-				$(book.summary).appendTo(summary);
-			}
+			book = JSON.parse(book);
+			console.log("Switching from string to JSON object");
+		}
 
-			// Add in the metadata
-			appendKeyValue("Words", book.words, summary);
-			appendKeyValue("POV", book.pov, summary);
-			appendKeyValue("Tense", book.tense, summary);
-			
-			if (book.urls)
-			{
-				appendKeyUrls("Reviews", book.urls.reviews, summary);
-				appendKeyUrls("Links", book.urls.book, summary);
-			}
-			
-			// Add in the author information.
-			summaryRow = $("<div class='row'></div>");
-			cover = $("<div class='col-md-2'></div>");
-			summary = $("<div class='col-md-10'></div>");
-			
-			panelBody.append("<h3>" + book.author + "</h3>");
-			panelBody.append(summaryRow);
-			summaryRow.append(cover);
-			summaryRow.append(summary);
-			
-			if (book.urls && book.urls.avatar)
-			{
-				$("<img class='img-responsive' src='" + book.urls.avatar + "' alt='" + book.author + " picture'/>")
-					.appendTo(cover);
-			}
-			
-			if (book.about)
-			{
-				$(book.about).appendTo(summary);
-			}
-			
-			appendKeyValue("Gender", book.gender, summary);
-			appendKeyValue("Race", book.race, summary);
-			appendKeyValue("Nationality", book.nationality, summary);
+		// Get the element we'll be adding to.
+		var container = $("#book-container");
 
-			if (book.urls)
+		// Figure out slugs and IDs.
+		var slug = book.title.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+		var status_slug = "status-" + book.status.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+		var gender_slug = "gender-" + book.gender.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+		var race_slug = "race-" + book.race.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+		var nationality_slug = "nationality-" + book.nationality.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+		var group_slug = "group-" + book.reviewer.toLowerCase().replace(/['’:]/, "").replace(/\s+/g, "-");
+
+		// Figure out which social networks we have.
+		var has_twitter = false;
+		var has_facebook = false;
+
+		if (book.urls && book.urls.author)
+		{
+			for (author of book.urls.author)
 			{
-				appendKeyUrls("Links", book.urls.author, summary);
+				if (author.type === "twitter") { has_twitter = true; }
+				if (author.type === "facebook") { has_facebook = true; }
 			}
 		}
+
+		var twitter_class = "twitter-" + (has_twitter ? "yes" : "no");
+		var facebook_class = "facebook-" + (has_facebook ? "yes" : "no");
+
+		//if (status_slug === "status-passed") { status_slug += " status-passed-hide"; }
+		//if (gender_slug === "gender-unknown") { status_slug += " gender-unknown-hide"; }
+
+		// Figure out the panel based on the status.
+		var panelType = "panel-warning";
+
+		switch (book.status)
+		{
+			case "Finalist": panelType = "panel-success"; break;
+			case "Passed": panelType = "panel-default"; break;
+			case "Honorable": panelType = "panel-info"; break;
+			case "Withdrawn": panelType = "panel-danger"; break;
+		}
+
+		var panel = $(
+			"<div class='panel "
+			+ panelType + " "
+			+ status_slug + " "
+			+ gender_slug + " "
+			+ race_slug + " "
+			+ group_slug + " "
+			+ nationality_slug + " "
+			+ twitter_class + " "
+			+ facebook_class + " "
+			+ " book'></div>");
+		var panelHeading = $(
+			"<div class='panel-heading collapsed' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
+			+ "<h4 class='panel-title'>"
+			+ "<strong>" + book.title
+			+ " <small>" + book.author + "</small>"
+			+ "</a></h4>"
+			+ "</div>");
+		var panelBodyContainer = $(
+			"<div id='" + slug
+			+ "' class='panel-collapse collapse out' aria-labelledby='"
+			+ slug + "-title'></div>");
+		var panelBody = $("<div class='panel-body'></div></div>");
+			
+		panel.hide();
+		container.append(panel);
+		panel.append(panelHeading);
+		panel.append(panelBodyContainer);
+		panelBodyContainer.append(panelBody);
+					
+		// Add in the information about the book.
+		var summaryRow = $("<div class='row'></div>");
+		var cover = $("<div class='col-md-2'></div>");
+		var summary = $("<div class='col-md-10'></div>");
+
+		panelBody.append("<h3>" + book.title + "</h3>");
+		panelBody.append(summaryRow);
+		summaryRow.append(cover);
+		summaryRow.append(summary);
+
+		if (book.urls && book.urls.cover)
+		{
+			$("<img class='img-responsive' src='" + book.urls.cover + "' alt='" + book.title + " cover'/>")
+				.appendTo(cover);
+		}
+
+		if (book.summary)
+		{
+			$(book.summary).appendTo(summary);
+		}
+
+		// Add in the metadata
+		appendKeyValue("Words", book.words, summary);
+		appendKeyValue("POV", book.pov, summary);
+		appendKeyValue("Tense", book.tense, summary);
+
+		if (book.urls)
+		{
+			appendKeyUrls("Reviews", book.urls.reviews, summary);
+			appendKeyUrls("Links", book.urls.book, summary);
+		}
+
+		// Add in the author information.
+		summaryRow = $("<div class='row'></div>");
+		cover = $("<div class='col-md-2'></div>");
+		summary = $("<div class='col-md-10'></div>");
+
+		panelBody.append("<h3>" + book.author + "</h3>");
+		panelBody.append(summaryRow);
+		summaryRow.append(cover);
+		summaryRow.append(summary);
+
+		if (book.urls && book.urls.avatar)
+		{
+			$("<img class='img-responsive' src='" + book.urls.avatar + "' alt='" + book.author + " picture'/>")
+				.appendTo(cover);
+		}
+
+		if (book.about)
+		{
+			$(book.about).appendTo(summary);
+		}
+
+		appendKeyValue("Gender", book.gender, summary);
+		appendKeyValue("Race", book.race, summary);
+		appendKeyValue("Nationality", book.nationality, summary);
+
+		if (book.urls)
+		{
+			appendKeyUrls("Links", book.urls.author, summary);
+		}
+	}
+	catch(err) {
+		// Report what we're reading.
+		console.log("Error loading", book);
+	}
+}
+
+function onBookEnd() {
+	// Update the loading status.
+	loadedBooks += 1;
+	updateLoading();
+	
+	// If we've completely loaded, then finish up.
+	if (loadedBooks == totalBooks)
+	{
+		showResults();
 	}
 }
 
@@ -307,6 +347,21 @@ function showResults() {
 			updateCounts();
 		});
 	});
+	
+	// Sort through the books.
+	var container = $("#book-container");
+	var books = $(".book");
+	
+	books.sort(function(a, b) {
+		var at = $(a).find("h4 strong").text();
+		var bt = $(b).find("h4 strong").text();
+		
+		if (at > bt) { return 1; }
+		else if (bt < at) { return -1; }
+		else { return 0; }
+	});
+	
+	books.detach().appendTo(container);
 	
 	// Hide the loading box and display the results.
 	$("#loading").hide();
@@ -378,8 +433,10 @@ function searchBooks() {
 
 $(document).ready(function() {
 	// Retrieve the results and populate them.
-	$.get("spfbo.json", onData).done(showResults);
+	$.get("data/index.json", onIndexData);
 
 	// Hoop up the live search.
 	$("#search").keyup(searchBooks);
 });
+
+//.done(onIndexLoaded);

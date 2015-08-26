@@ -1,0 +1,19 @@
+{
+	"reviewer": "Bookworm Blues",
+	"author": "Scott Marlowe",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "The Five Elements",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/05/05/the-great-self-published-fantasy-blog-off-mini-reviews-round-2/"
+			}
+		]
+	}
+}

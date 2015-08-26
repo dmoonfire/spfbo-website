@@ -1,0 +1,24 @@
+{
+	"reviewer": "Bookworm Blues",
+	"author": "Eve Peters",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Honorable",
+	"title": "Children of the Fallen",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/08/05/spfbo-mini-reviews-round-3/"
+			},
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/08/10/spfbo-and-the-winner-is/"
+			}
+		]
+	}
+}

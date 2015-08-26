@@ -1,0 +1,19 @@
+{
+	"reviewer": "Bookworm Blues",
+	"author": "Kip Manley",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "City of Roses: Autumn into Winter",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/08/05/spfbo-mini-reviews-round-3/"
+			}
+		]
+	}
+}

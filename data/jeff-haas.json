@@ -1,0 +1,19 @@
+{
+	"reviewer": "Bookworm Blues",
+	"author": "Jeff Haas",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Searching for Nada",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/08/05/spfbo-mini-reviews-round-3/"
+			}
+		]
+	}
+}

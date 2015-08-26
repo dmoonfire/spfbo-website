@@ -1,0 +1,19 @@
+{
+	"reviewer": "Bookworm Blues",
+	"author": "Bryan Henderson",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Tales of Ordegron",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/08/06/spfbo-mini-review-round-4/"
+			}
+		]
+	}
+}

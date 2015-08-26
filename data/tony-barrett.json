@@ -1,0 +1,39 @@
+{
+    "reviewer": "Bookworm Blues",
+	"author": "Tony Barrett",
+	"gender": "Male",
+	"genderJustification": "First name, Twitter image.",
+	"nationality": "Unknown",
+	"processed": true,
+	"race": "Caucasian",
+	"raceJustification": "Guessed from Twitter avatar.",
+	"status": "Mentioned",
+	"summary": "<p>In a dying world, the man known only as Stranger, returns to his ranch to find his wife has been taken by slavers. He'll stop at nothing to get her back, but with an insane one-eyed General on his trail, will he succeed?</p>",
+	"title": "Stranger's Descent",
+	"urls": {
+		"author": [
+			{
+				"id": "barrett1987",
+				"type": "twitter"
+			},
+			{
+				"id": "7951746.Tony_Barrett",
+				"type": "goodreads-author"
+			}
+		],
+		"book": [
+			{
+				"id": "23966032-stranger-s-descent",
+				"type": "goodreads"
+			}
+		],
+		"cover": "img/tony-barrett-strangers-descent.jpg",
+		"reviews": [
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/05/05/the-great-self-published-fantasy-blog-off-mini-reviews-round-2/"
+			}
+		]
+	}
+}

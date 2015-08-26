@@ -1,0 +1,24 @@
+{
+	"reviewer": "Bookworm Blues",
+	"author": "Pauline M Ross",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Honorable",
+	"title": "The Plains of Kallanash",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/08/06/spfbo-mini-review-round-4/"
+			},
+			{
+				"title": "Bookworm Blues",
+				"type": "review",
+				"url": "http://www.bookwormblues.net/2015/08/10/spfbo-and-the-winner-is/"
+			}
+		]
+	}
+}
