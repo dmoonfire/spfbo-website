@@ -1,13 +1,50 @@
 {
+    "about": "<p>Greg James is a critically-acclaimed and best-selling self-published author. He was born in Rochford, Essex in darkest East Anglia. He studied Literature and Media at university and spent a year in the Far East teaching English as a foreign language. He now resides in London where he takes long walks on the asphalt beach, writes into the small hours and bathes in the river of night's dreaming.</p>",
     "author": "Greg James",
-    "gender": "Unknown",
-    "nationality": "Unknown",
+    "gender": "Male",
+    "genderJustification": "Image from Goodreads",
+    "nationality": "British",
+    "nationalityJustification": "About",
     "processed": false,
-    "race": "Unknown",
+    "race": "Caucasian",
+    "raceJustification": "Best guess from image.",
     "reviewer": "Fantasy Book Critic",
     "status": "Finalist",
+    "summary": "<p>A Grimdark Fantasy Adventure set in a world of Darkness and Chaos!</p><p>Khale the Wanderer: dark warrior of legend, a reaver with a demon\u2019s soul.</p><p>King Alosse: ruler of Colm, willing to risk everything to save his city and its people.</p><p>Princess Milanda: an innocent, kept pure since birth, unknowing of her fate.</p><p>Neprokhodymh: the cursed city of sorcerers where Khale must make a choice that will scar him for life, or fall into darkness forever.</p>",
     "title": "Under a Colder Sun",
     "urls": {
+        "author": [
+            {
+                "title": "David Benem",
+                "type": "blog",
+                "url": "http://davidbenem.com/"
+            },
+            {
+                "id": "dbenem",
+                "type": "twitter"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Greg-James/e/B00C8WMV8M/ref=dp_byline_cont_ebooks_1"
+            },
+            {
+                "id": "3047029.Greg_James",
+                "type": "goodreads-author"
+            }
+        ],
+        "avatar": "img/greg-james.jpg",
+        "book": [
+            {
+                "id": "B00MY2QSEE",
+                "type": "amazon"
+            },
+            {
+                "id": "23488271-under-a-colder-sun",
+                "type": "goodreads"
+            }
+        ],
+        "cover": "img/under-a-colder-sun.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Critic",

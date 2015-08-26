@@ -1,13 +1,41 @@
 {
-    "author": "William G Saraband",
-    "gender": "Unknown",
-    "nationality": "Unknown",
+    "about": "<p>William G. Saraband was born in the south of Portugal on the auspicious year of 1991, and since then he has resided there.</p><p>His favorite movie was Disney's Aladdin, which sparked a fascination for all things Middle-Eastern that resulted in a degree in History and a master's in Medieval Islamic History. Tolkien came in later in his life, but it became one of his obsessions. Saraband's writing embodies these two great influences to create a world with a One Thousand and One Nights vibe, populated by magical beings and characters who face great adversity.</p><p>'Shattered Sands' is Saraband's debut novel, the first of an expected trilogy.</p>",
+    "author": "W. G. Saraband",
+    "gender": "Male",
+    "genderJustification": "Image from avatar on Amazon.",
+    "nationality": "Portuguese",
+    "nationalityJustification": "About the author on Amazon",
     "processed": false,
-    "race": "Unknown",
+    "race": "Caucasian",
+    "raceJustification": "Google search from Portuguese, best guess.",
     "reviewer": "Beauty in Ruins",
     "status": "Finalist",
+    "summary": "<p>For years, Tamazi felt she was nothing like the other slave-girls. It was not until her master disappeared, the Great Vizier of the desert kingdom of Rilmaaqah, that a power older than the sands themselves took hold of her; a power that could finally free her, or enslave her forever.</p><p>Rilmaaqah is in chaos. The fires of rebellion spread, and the winds of change threaten the Mageocracy, as the common people rise with the courage to claim their share. But the sands hide many things, and it falls to an unlikely group of people to put a stop to death, before she sings her lullaby to the living.</p>",
     "title": "Shattered Sands",
     "urls": {
+        "author": [
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/W.-G.-Saraband/e/B013O52FD2"
+            },
+            {
+                "id": "14206951.W_G_Saraband",
+                "type": "goodreads-author"
+            }
+        ],
+        "avatar": "https://d.gr-assets.com/authors/1439244897p8/14206951.jpg",
+        "book": [
+            {
+                "id": "B013M2CQ5O",
+                "type": "amazon"
+            },
+            {
+                "id": "26062918-shattered-sands",
+                "type": "goodreads"
+            }
+        ],
+        "cover": "https://d.gr-assets.com/books/1439121593l/26062918.jpg",
         "reviews": [
             {
                 "title": "Beauty in Ruin",

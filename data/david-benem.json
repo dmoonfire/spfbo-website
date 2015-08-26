@@ -1,19 +1,49 @@
 {
+    "about": "<p>David Benem is an author of fantasy fiction. His debut novel, What Remains of Heroes, is available now, and he is presently hard at work on its sequel, The Wrath of Heroes. He lives in Missouri, though his mind is often elsewhere.</p>",
     "author": "David Benem",
-    "gender": "Unknown",
+    "gender": "Male",
+    "genderJustification": "Image from Twitter",
     "nationality": "Unknown",
     "processed": false,
-    "race": "Unknown",
+    "race": "Caucasian",
+    "raceJustification": "Best guess from image.",
     "reviewer": "Fantasy Book Review",
     "status": "Finalist",
+    "summary": "<p>Lannick deVeers used to be somebody. A hero, even. Then, he ran afoul of the kingdom\u2019s most powerful general and the cost he paid was nearly too much to bear. In the years that followed, his grief turned him into a shadow of his former self, and he spent his days drowning his regrets in tankards of ale.</p><p>But now an unexpected encounter casts Lannick upon an unlikely path to revenge. If he can just find the strength to overcome the many mistakes of his past, he can seize the chance to become a hero once more.</p><p>And with an ancient enemy lurking at the kingdom\u2019s doorstep, he\u2019d better\u2026</p>",
     "title": "What Remains of Heroes",
     "urls": {
+        "author": [
+            {
+                "title": "David Benem",
+                "type": "blog",
+                "url": "http://davidbenem.com/"
+            },
+            {
+                "id": "dbenem",
+                "type": "twitter"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/David-Benem/e/B00X2LYD3Y/ref=dp_byline_cont_ebooks_1"
+            },
+            {
+                "id": "13843318.David_Benem",
+                "type": "goodreads-author"
+            }
+        ],
+        "avatar": "img/david-benem.jpg",
         "book": [
+            {
+                "id": "B00WBTLL60",
+                "type": "amazon"
+            },
             {
                 "id": "25389017-what-remains-of-heroes",
                 "type": "goodreads"
             }
         ],
+        "cover": "http://d.gr-assets.com/books/1440000430l/25389017.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Review",
