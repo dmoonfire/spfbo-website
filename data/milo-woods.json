@@ -1,10 +1,10 @@
 {
-	"reviewer": "The Fictional Hangout",
-	"author": "Milo Woods",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Considering",
-	"title": "Rupture"
+    "author": "Milo Woods",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "The Fictional Hangout",
+    "status": "Considering",
+    "title": "Rupture"
 }

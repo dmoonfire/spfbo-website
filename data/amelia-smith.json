@@ -1,29 +1,29 @@
 {
-	"reviewer": "Bibliotropic",
-	"author": "Amelia Smith",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Scrapplings",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
-			},
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
-			},
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/06/10/spfbo-review-scrapplings-by-amelia-smith/"
-			}
-		]
-	}
+    "author": "Amelia Smith",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Bibliotropic",
+    "status": "Mentioned",
+    "title": "Scrapplings",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+            },
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
+            },
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/06/10/spfbo-review-scrapplings-by-amelia-smith/"
+            }
+        ]
+    }
 }

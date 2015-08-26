@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy-Faction",
-	"author": "Christopher MacDonald",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "The Dreaded"
+    "author": "Christopher MacDonald",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy-Faction",
+    "status": "Passed",
+    "title": "The Dreaded"
 }

@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy-Faction",
-	"author": "Mark Gardner",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Champion Standing"
+    "author": "Mark Gardner",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy-Faction",
+    "status": "Passed",
+    "title": "Champion Standing"
 }

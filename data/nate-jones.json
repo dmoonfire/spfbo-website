@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy Book Review",
-	"author": "Nate Jones",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Undying Heights"
+    "author": "Nate Jones",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Review",
+    "status": "Passed",
+    "title": "Undying Heights"
 }

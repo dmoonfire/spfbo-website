@@ -1,10 +1,10 @@
 {
-	"reviewer": "Lynn's Books",
-	"author": "Patrick J Loller",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Considering",
-	"title": "Forged by Battle"
+    "author": "Patrick J Loller",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Lynn's Books",
+    "status": "Considering",
+    "title": "Forged by Battle"
 }

@@ -1,19 +1,19 @@
 {
-	"reviewer": "Beauty in Ruins",
-	"author": "JD Brink",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Tarnish",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Beauty in Ruin",
-				"type": "review",
-				"url": "http://beauty-in-ruins.blogspot.ca/2015/06/great-self-published-fantasy-blog-off.html"
-			}
-		]
-	}
+    "author": "JD Brink",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Beauty in Ruins",
+    "status": "Mentioned",
+    "title": "Tarnish",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Beauty in Ruin",
+                "type": "review",
+                "url": "http://beauty-in-ruins.blogspot.ca/2015/06/great-self-published-fantasy-blog-off.html"
+            }
+        ]
+    }
 }

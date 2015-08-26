@@ -1,10 +1,10 @@
 {
-	"reviewer": "The Fictional Hangout",
-	"author": "David Moton",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Considering",
-	"title": "Chama"
+    "author": "David Moton",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "The Fictional Hangout",
+    "status": "Considering",
+    "title": "Chama"
 }

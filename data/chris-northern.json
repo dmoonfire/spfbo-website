@@ -1,24 +1,24 @@
 {
-	"reviewer": "Bibliotropic",
-	"author": "Chris Northern",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Honorable",
-	"title": "The Last King's Amulet",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
-			},
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
-			}
-		]
-	}
+    "author": "Chris Northern",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Bibliotropic",
+    "status": "Honorable",
+    "title": "The Last King's Amulet",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+            },
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
+            }
+        ]
+    }
 }

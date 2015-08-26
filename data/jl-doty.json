@@ -1,19 +1,19 @@
 {
-	"reviewer": "Beauty in Ruins",
-	"author": "JL Doty",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Child of the Sword",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Beauty in Ruin",
-				"type": "review",
-				"url": "http://beauty-in-ruins.blogspot.ca/2015/06/great-self-published-fantasy-blog-off.html"
-			}
-		]
-	}
+    "author": "JL Doty",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Beauty in Ruins",
+    "status": "Mentioned",
+    "title": "Child of the Sword",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Beauty in Ruin",
+                "type": "review",
+                "url": "http://beauty-in-ruins.blogspot.ca/2015/06/great-self-published-fantasy-blog-off.html"
+            }
+        ]
+    }
 }

@@ -1,19 +1,19 @@
 {
-	"reviewer": "Lynn's Books",
-	"author": "Janice McKonly",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Welcome to Mystery Interior",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Lynn's Books",
-				"type": "review",
-				"url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
-			}
-		]
-	}
+    "author": "Janice McKonly",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Lynn's Books",
+    "status": "Passed",
+    "title": "Welcome to Mystery Interior",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Lynn's Books",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
+            }
+        ]
+    }
 }

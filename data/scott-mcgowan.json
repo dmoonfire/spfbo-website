@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Scott McGowan",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Bjorn and Bread"
+    "author": "Scott McGowan",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Passed",
+    "title": "Bjorn and Bread"
 }

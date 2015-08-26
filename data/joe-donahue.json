@@ -1,19 +1,19 @@
 {
-	"reviewer": "Elitist Book Reviews",
-	"author": "Joe Donahue",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "The Final Requiem",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Elitist Book Reviews",
-				"type": "review",
-				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
-			}
-		]
-	}
+    "author": "Joe Donahue",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Elitist Book Reviews",
+    "status": "Mentioned",
+    "title": "The Final Requiem",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Elitist Book Reviews",
+                "type": "review",
+                "url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+            }
+        ]
+    }
 }

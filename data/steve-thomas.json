@@ -1,19 +1,19 @@
 {
-	"reviewer": "Lynn's Books",
-	"author": "Steve Thomas",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Klondaeg the Monster Hunter",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Lynn's Book",
-				"type": "review",
-				"url": "https://lynnsbooks.wordpress.com/2015/04/03/spfbo-update/"
-			}
-		]
-	}
+    "author": "Steve Thomas",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Lynn's Books",
+    "status": "Mentioned",
+    "title": "Klondaeg the Monster Hunter",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Lynn's Book",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/04/03/spfbo-update/"
+            }
+        ]
+    }
 }

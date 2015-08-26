@@ -1,19 +1,19 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Charlotte Cyprus",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Kiss of the Fae",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Fantasy Book Critic",
-				"type": "review",
-				"url": "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
-			}
-		]
-	}
+    "author": "Charlotte Cyprus",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Mentioned",
+    "title": "Kiss of the Fae",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Fantasy Book Critic",
+                "type": "review",
+                "url": "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+            }
+        ]
+    }
 }

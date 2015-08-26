@@ -1,19 +1,19 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Alex Ziebart",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Honorable",
-	"title": "Blood and Masks",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Fantasy Book Critic",
-				"type": "review",
-				"url": "http://fantasybookcritic.blogspot.co.uk/2015/05/the-great-self-published-fantasy-blog.html?m=0"
-			}
-		]
-	}
+    "author": "Alex Ziebart",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Honorable",
+    "title": "Blood and Masks",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Fantasy Book Critic",
+                "type": "review",
+                "url": "http://fantasybookcritic.blogspot.co.uk/2015/05/the-great-self-published-fantasy-blog.html?m=0"
+            }
+        ]
+    }
 }

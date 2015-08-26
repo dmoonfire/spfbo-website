@@ -1,34 +1,34 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Scott Warren",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Honorable",
-	"title": "Sorcerous Crimes Division: Devil Bone",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Fantasy Book Critic",
-				"type": "review",
-				"url": "http://fantasybookcritic.blogspot.co.uk/2015/03/the-great-self-published-fantasy-blog.html?m=0"
-			},
-			{
-				"title": "Fantasy Book Critic",
-				"type": "review",
-				"url": "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
-			},
-			{
-				"title": "Fantasy Book Critic",
-				"type": "review",
-				"url": "http://fantasybookcritic.blogspot.co.uk/2015/05/the-great-self-published-fantasy-blog.html?m=0"
-			},
-			{
-				"title": "Fantasy Book Critic",
-				"type": "review",
-				"url": "http://fantasybookcritic.blogspot.co.uk/2015/08/self-published-fantasy-blog-off-round-1.html?m=0"
-			}
-		]
-	}
+    "author": "Scott Warren",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Honorable",
+    "title": "Sorcerous Crimes Division: Devil Bone",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Fantasy Book Critic",
+                "type": "review",
+                "url": "http://fantasybookcritic.blogspot.co.uk/2015/03/the-great-self-published-fantasy-blog.html?m=0"
+            },
+            {
+                "title": "Fantasy Book Critic",
+                "type": "review",
+                "url": "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+            },
+            {
+                "title": "Fantasy Book Critic",
+                "type": "review",
+                "url": "http://fantasybookcritic.blogspot.co.uk/2015/05/the-great-self-published-fantasy-blog.html?m=0"
+            },
+            {
+                "title": "Fantasy Book Critic",
+                "type": "review",
+                "url": "http://fantasybookcritic.blogspot.co.uk/2015/08/self-published-fantasy-blog-off-round-1.html?m=0"
+            }
+        ]
+    }
 }

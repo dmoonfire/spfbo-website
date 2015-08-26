@@ -1,10 +1,10 @@
 {
-	"reviewer": "Bibliotropic",
-	"author": "Erin Snyder",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "A Court of Five"
+    "author": "Erin Snyder",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Bibliotropic",
+    "status": "Passed",
+    "title": "A Court of Five"
 }

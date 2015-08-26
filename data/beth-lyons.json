@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Beth Lyons",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "The Soul Thief"
+    "author": "Beth Lyons",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Passed",
+    "title": "The Soul Thief"
 }

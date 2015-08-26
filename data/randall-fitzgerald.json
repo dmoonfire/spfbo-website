@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Randall Fitzgerald",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "No One's Chosen"
+    "author": "Randall Fitzgerald",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Passed",
+    "title": "No One's Chosen"
 }

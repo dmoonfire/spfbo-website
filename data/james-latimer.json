@@ -1,19 +1,19 @@
 {
-	"reviewer": "Beauty in Ruins",
-	"author": "James Latimer",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "The Winter Warrior",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Beauty in Ruin",
-				"type": "review",
-				"url": "http://beauty-in-ruins.blogspot.co.uk/2015/07/great-self-published-fantasy-blog-off.html"
-			}
-		]
-	}
+    "author": "James Latimer",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Beauty in Ruins",
+    "status": "Mentioned",
+    "title": "The Winter Warrior",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Beauty in Ruin",
+                "type": "review",
+                "url": "http://beauty-in-ruins.blogspot.co.uk/2015/07/great-self-published-fantasy-blog-off.html"
+            }
+        ]
+    }
 }

@@ -1,19 +1,19 @@
 {
-	"reviewer": "Lynn's Books",
-	"author": "Andrew Rowe",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Forging Divinity",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Lynn's Books",
-				"type": "review",
-				"url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
-			}
-		]
-	}
+    "author": "Andrew Rowe",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Lynn's Books",
+    "status": "Mentioned",
+    "title": "Forging Divinity",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Lynn's Books",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
+            }
+        ]
+    }
 }

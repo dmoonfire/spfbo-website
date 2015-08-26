@@ -1,19 +1,19 @@
 {
-	"reviewer": "Elitist Book Reviews",
-	"author": "Tony Healey",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "The Bloody North",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Elitist Book Reviews",
-				"type": "review",
-				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
-			}
-		]
-	}
+    "author": "Tony Healey",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Elitist Book Reviews",
+    "status": "Mentioned",
+    "title": "The Bloody North",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Elitist Book Reviews",
+                "type": "review",
+                "url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+            }
+        ]
+    }
 }

@@ -1,19 +1,19 @@
 {
-	"reviewer": "The Fictional Hangout",
-	"author": "JM McDermott",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Straggletaggle",
-	"urls": {
-		"reviews": [
-			{
-				"title": "The Fictional Hangout",
-				"type": "review",
-				"url": "http://thefictionalhangout.blogspot.co.uk/2015/06/the-great-self-published-fantasy-blog.html"
-			}
-		]
-	}
+    "author": "JM McDermott",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "The Fictional Hangout",
+    "status": "Mentioned",
+    "title": "Straggletaggle",
+    "urls": {
+        "reviews": [
+            {
+                "title": "The Fictional Hangout",
+                "type": "review",
+                "url": "http://thefictionalhangout.blogspot.co.uk/2015/06/the-great-self-published-fantasy-blog.html"
+            }
+        ]
+    }
 }

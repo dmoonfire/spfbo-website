@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy Book Review",
-	"author": "SB Jones",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Skymages and the Gateway of Time"
+    "author": "SB Jones",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Review",
+    "status": "Passed",
+    "title": "Skymages and the Gateway of Time"
 }

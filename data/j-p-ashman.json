@@ -1,65 +1,65 @@
 {
-	"reviewer": "Bookworm Blues",
-	"about": "<p>Born 1981 in Blackpool, England, my parents instilled into me a love of not only nature and wildlife, but of fantasy, history and mystery.</p><p>My imagination, sparked at a young age and projected onto paper through pencil and other tools, was left behind with regards to future careers when I fell in love with motorcycles. From this, I studied motor vehicle maintenance at college, before moving onto electrical and mechanical engineering.</p><p>Never really taking to engineering, I moved through clerical rolls before settling into optics as a technician.</p><p>A decade later and still in optics, I continue to pursue that career, whilst managing (thanks to my wife) to throw myself into my writing.</p><p>Whilst my work may not go hand in hand with my passion for writing fantasy, my past and present experiences in medieval re-enactment, history and gaming certainly do. I finally have the release for the imagination that would never settle, and hope you can enjoy it along with me.</p>",
-	"author": "J.P. Ashman",
-	"gender": "Male",
-	"genderJustification": "Profile image.",
-	"nationality": "British",
-	"nationalityJustification": "'About Me' description.",
-	"processed": true,
-	"race": "Caucasian",
-	"raceJustification": "Twitter image.",
-	"status": "Honorable",
-	"summary": "<p>Arcane magic can be a ruinous power, despite admirable intentions.</p><p>A mysterious scroll finds its way into Lord Severun\u2019s hands, enabling him to release a dangerous experiment upon Wesson. With Sergeant Falchion unable to forgive himself for aiding the wizard, and desperate factions taking advantage of the devastating aftermath, Falchion embarks on an arduous quest alongside friends and strangers alike. However, even if their attempt to seek aid is successful and the city is saved, they risk revealing a secret that threatens much more than Wesson alone.</p><p>From a fantasy world not too dissimilar to our own dark and bloody histories, the beginning of an epic tale is told. Incredible magic is unleashed, allies become enemies; unlikely friendships are forged, and a foul plot is discovered that will shatter the long lasting peace of Altoln and her allies, plunging them into a gritty, brutal conflict that falls far from the fluffy fairytales of old.</p>",
-	"title": "Black Cross",
-	"urls": {
-		"author": [
-			{
-				"title": "Amazon Author",
-				"type": "amazon-author",
-				"url": "http://www.amazon.com/J-P-Ashman/e/B00RJCKFAM"
-			},
-			{
-				"id": "jpashmanblackpowderseries",
-				"type": "facebook"
-			},
-			{
-				"title": "Deviant Art",
-				"type": "deviantart",
-				"url": "http://jpashman.deviantart.com/"
-			},
-			{
-				"id": "JP_Ashman",
-				"type": "twitter"
-			},
-			{
-				"type": "goodreads-author",
-				"url": "12302356.J_P_Ashman"
-			}
-		],
-		"avatar": "img/jp-ashman.jpg",
-		"book": [
-			{
-				"id": "B00RH7F3OM",
-				"type": "amazon"
-			},
-			{
-				"id": "24405858-black-cross",
-				"type": "goodreads"
-			}
-		],
-		"cover": "img/jp-ashman-black-cross.jpg",
-		"reviews": [
-			{
-				"title": "Bookworm Blues",
-				"type": "review",
-				"url": "http://www.bookwormblues.net/2015/08/07/spfbo-mini-reviews-round-5/"
-			},
-			{
-				"title": "Bookworm Blues",
-				"type": "review",
-				"url": "http://www.bookwormblues.net/2015/08/10/spfbo-and-the-winner-is/"
-			}
-		]
-	}
+    "about": "<p>Born 1981 in Blackpool, England, my parents instilled into me a love of not only nature and wildlife, but of fantasy, history and mystery.</p><p>My imagination, sparked at a young age and projected onto paper through pencil and other tools, was left behind with regards to future careers when I fell in love with motorcycles. From this, I studied motor vehicle maintenance at college, before moving onto electrical and mechanical engineering.</p><p>Never really taking to engineering, I moved through clerical rolls before settling into optics as a technician.</p><p>A decade later and still in optics, I continue to pursue that career, whilst managing (thanks to my wife) to throw myself into my writing.</p><p>Whilst my work may not go hand in hand with my passion for writing fantasy, my past and present experiences in medieval re-enactment, history and gaming certainly do. I finally have the release for the imagination that would never settle, and hope you can enjoy it along with me.</p>",
+    "author": "J.P. Ashman",
+    "gender": "Male",
+    "genderJustification": "Profile image.",
+    "nationality": "British",
+    "nationalityJustification": "'About Me' description.",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustification": "Twitter image.",
+    "reviewer": "Bookworm Blues",
+    "status": "Honorable",
+    "summary": "<p>Arcane magic can be a ruinous power, despite admirable intentions.</p><p>A mysterious scroll finds its way into Lord Severun\u2019s hands, enabling him to release a dangerous experiment upon Wesson. With Sergeant Falchion unable to forgive himself for aiding the wizard, and desperate factions taking advantage of the devastating aftermath, Falchion embarks on an arduous quest alongside friends and strangers alike. However, even if their attempt to seek aid is successful and the city is saved, they risk revealing a secret that threatens much more than Wesson alone.</p><p>From a fantasy world not too dissimilar to our own dark and bloody histories, the beginning of an epic tale is told. Incredible magic is unleashed, allies become enemies; unlikely friendships are forged, and a foul plot is discovered that will shatter the long lasting peace of Altoln and her allies, plunging them into a gritty, brutal conflict that falls far from the fluffy fairytales of old.</p>",
+    "title": "Black Cross",
+    "urls": {
+        "author": [
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/J-P-Ashman/e/B00RJCKFAM"
+            },
+            {
+                "id": "jpashmanblackpowderseries",
+                "type": "facebook"
+            },
+            {
+                "title": "Deviant Art",
+                "type": "deviantart",
+                "url": "http://jpashman.deviantart.com/"
+            },
+            {
+                "id": "JP_Ashman",
+                "type": "twitter"
+            },
+            {
+                "type": "goodreads-author",
+                "url": "12302356.J_P_Ashman"
+            }
+        ],
+        "avatar": "img/jp-ashman.jpg",
+        "book": [
+            {
+                "id": "B00RH7F3OM",
+                "type": "amazon"
+            },
+            {
+                "id": "24405858-black-cross",
+                "type": "goodreads"
+            }
+        ],
+        "cover": "img/jp-ashman-black-cross.jpg",
+        "reviews": [
+            {
+                "title": "Bookworm Blues",
+                "type": "review",
+                "url": "http://www.bookwormblues.net/2015/08/07/spfbo-mini-reviews-round-5/"
+            },
+            {
+                "title": "Bookworm Blues",
+                "type": "review",
+                "url": "http://www.bookwormblues.net/2015/08/10/spfbo-and-the-winner-is/"
+            }
+        ]
+    }
 }

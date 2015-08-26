@@ -1,19 +1,19 @@
 {
-	"reviewer": "Bookworm Blues",
-	"author": "Patricia Burroughs",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "This Crumbling Pageant",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Bookworm Blues",
-				"type": "review",
-				"url": "http://www.bookwormblues.net/2015/03/13/the-great-self-published-fantasy-blog-off-update/"
-			}
-		]
-	}
+    "author": "Patricia Burroughs",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Bookworm Blues",
+    "status": "Mentioned",
+    "title": "This Crumbling Pageant",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Bookworm Blues",
+                "type": "review",
+                "url": "http://www.bookwormblues.net/2015/03/13/the-great-self-published-fantasy-blog-off-update/"
+            }
+        ]
+    }
 }

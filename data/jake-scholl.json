@@ -1,19 +1,19 @@
 {
-	"reviewer": "Lynn's Books",
-	"author": "Jake Scholl",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Blade of the Broken",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Lynn's Books",
-				"type": "review",
-				"url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
-			}
-		]
-	}
+    "author": "Jake Scholl",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Lynn's Books",
+    "status": "Mentioned",
+    "title": "Blade of the Broken",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Lynn's Books",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
+            }
+        ]
+    }
 }

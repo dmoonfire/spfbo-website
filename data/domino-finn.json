@@ -1,19 +1,19 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Domino Finn",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Honorable",
-	"title": "Shade City",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Fantasy Book Critic",
-				"type": "review",
-				"url": "http://fantasybookcritic.blogspot.co.uk/2015/05/the-great-self-published-fantasy-blog.html?m=0"
-			}
-		]
-	}
+    "author": "Domino Finn",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Honorable",
+    "title": "Shade City",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Fantasy Book Critic",
+                "type": "review",
+                "url": "http://fantasybookcritic.blogspot.co.uk/2015/05/the-great-self-published-fantasy-blog.html?m=0"
+            }
+        ]
+    }
 }

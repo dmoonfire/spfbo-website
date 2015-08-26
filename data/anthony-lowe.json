@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Anthony Lowe",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "City of Blades"
+    "author": "Anthony Lowe",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Passed",
+    "title": "City of Blades"
 }

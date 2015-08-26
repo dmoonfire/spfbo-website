@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy Book Review",
-	"author": "Henry Lion Oldie",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "ShMagic"
+    "author": "Henry Lion Oldie",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Review",
+    "status": "Passed",
+    "title": "ShMagic"
 }

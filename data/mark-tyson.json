@@ -1,19 +1,19 @@
 {
-	"reviewer": "Bibliotropic",
-	"author": "Mark Tyson",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Honorable",
-	"title": "Defenders of the Sacred Land",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
-			}
-		]
-	}
+    "author": "Mark Tyson",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Bibliotropic",
+    "status": "Honorable",
+    "title": "Defenders of the Sacred Land",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
+            }
+        ]
+    }
 }

@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy-Faction",
-	"author": "Matthew Colville",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Honorable",
-	"title": "Priest"
+    "author": "Matthew Colville",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy-Faction",
+    "status": "Honorable",
+    "title": "Priest"
 }

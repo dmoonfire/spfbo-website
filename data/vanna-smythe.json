@@ -1,19 +1,19 @@
 {
-	"reviewer": "Bibliotropic",
-	"author": "Vanna Smythe",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Protector",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Bibliotropic",
-				"type": "review",
-				"url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
-			}
-		]
-	}
+    "author": "Vanna Smythe",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Bibliotropic",
+    "status": "Mentioned",
+    "title": "Protector",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Bibliotropic",
+                "type": "review",
+                "url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+            }
+        ]
+    }
 }

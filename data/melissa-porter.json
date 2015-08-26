@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy Book Critic",
-	"author": "Melissa Porter",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Purple"
+    "author": "Melissa Porter",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy Book Critic",
+    "status": "Passed",
+    "title": "Purple"
 }

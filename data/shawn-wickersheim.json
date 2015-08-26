@@ -1,62 +1,62 @@
 {
-	"reviewer": "Fantasy Book Review",
-	"about": "<p>I always feel a little odd composing a biography about myself and writing it in the third person. I mean, should I include something like this:</p><p>\u201cShawn Wickersheim was born in Illinois on a Monday and when he was still little a lady told his mother, \u2018It\u2019s good he was born on a Monday, that way if he ever becomes President and they decide to honor his birth date, we\u2019ll get an extra three-day weekend each year\u2026'\u201d</p><p>Talk about pressure!</p>",
-	"author": "Shawn Wickersheim",
-	"gender": "Male",
-	"genderJustification": "Twitter image, First name.",
-	"nationality": "United States",
-	"nationalityJustification": "About me.",
-	"processed": true,
-	"race": "Caucasian",
-	"raceJustification": "Profile image.",
-	"status": "Honorable",
-	"summary": "<p>Thirty years ago, when Mallor was a child, he was the sole survivor of genocide. Five years ago, while pursuing his revenge he was ambushed and killed. His goddess offered him a chance to return on the condition he became her assassin. Mallor agreed.</p><p>Now, he is back, in the dank city where it all began hunting down a list of old foes, but thirty-six hours before his revenge would be complete, he learns a couple of things; he has a daughter, she's been kidnapped by a sadistic magic abuser and the price for her release would not only ruin all of his plans but also kill his goddess.</p><p>Mallor is nobody's hero, but can he sacrifice his daughter to save his goddess, or will he forsake his faith and his need for revenge to rescue her instead? In this gritty fantasy novel where nothing is quite what it seems you won't know what Mallor will do until the bitter end.</p>",
-	"title": "The Penitent Assassin",
-	"urls": {
-		"author": [
-			{
-				"title": "The Ink-Competent Writer",
-				"type": "blog",
-				"url": "https://inkcompetentwriter.wordpress.com/"
-			},
-			{
-				"title": "Amazon Author",
-				"type": "amazon-author",
-				"url": "http://www.amazon.com/Shawn-Wickersheim/e/B005JTT8IM"
-			},
-			{
-				"id": "stwick",
-				"type": "twitter"
-			},
-			{
-				"title": "Goodreads Author",
-				"type": "blog",
-				"url": "https://www.goodreads.com/author/show/5164925.Shawn_Wickersheim"
-			}
-		],
-		"avatar": "img/shawn-wickersheim.jpg",
-		"book": [
-			{
-				"id": "B005JKR95U",
-				"type": "amazon"
-			},
-			{
-				"id": "84281",
-				"type": "smashwords"
-			}
-		],
-		"cover": "http://inkcompetentwriter.files.wordpress.com/2011/08/the-penitent-assassin-cover.jpg",
-		"reviews": [
-			{
-				"title": "Fantasy Book Review",
-				"type": "review",
-				"url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
-			},
-			{
-				"title": "Fantasy Book Review",
-				"type": "review",
-				"url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
-			}
-		]
-	}
+    "about": "<p>I always feel a little odd composing a biography about myself and writing it in the third person. I mean, should I include something like this:</p><p>\u201cShawn Wickersheim was born in Illinois on a Monday and when he was still little a lady told his mother, \u2018It\u2019s good he was born on a Monday, that way if he ever becomes President and they decide to honor his birth date, we\u2019ll get an extra three-day weekend each year\u2026'\u201d</p><p>Talk about pressure!</p>",
+    "author": "Shawn Wickersheim",
+    "gender": "Male",
+    "genderJustification": "Twitter image, First name.",
+    "nationality": "United States",
+    "nationalityJustification": "About me.",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustification": "Profile image.",
+    "reviewer": "Fantasy Book Review",
+    "status": "Honorable",
+    "summary": "<p>Thirty years ago, when Mallor was a child, he was the sole survivor of genocide. Five years ago, while pursuing his revenge he was ambushed and killed. His goddess offered him a chance to return on the condition he became her assassin. Mallor agreed.</p><p>Now, he is back, in the dank city where it all began hunting down a list of old foes, but thirty-six hours before his revenge would be complete, he learns a couple of things; he has a daughter, she's been kidnapped by a sadistic magic abuser and the price for her release would not only ruin all of his plans but also kill his goddess.</p><p>Mallor is nobody's hero, but can he sacrifice his daughter to save his goddess, or will he forsake his faith and his need for revenge to rescue her instead? In this gritty fantasy novel where nothing is quite what it seems you won't know what Mallor will do until the bitter end.</p>",
+    "title": "The Penitent Assassin",
+    "urls": {
+        "author": [
+            {
+                "title": "The Ink-Competent Writer",
+                "type": "blog",
+                "url": "https://inkcompetentwriter.wordpress.com/"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Shawn-Wickersheim/e/B005JTT8IM"
+            },
+            {
+                "id": "stwick",
+                "type": "twitter"
+            },
+            {
+                "title": "Goodreads Author",
+                "type": "blog",
+                "url": "https://www.goodreads.com/author/show/5164925.Shawn_Wickersheim"
+            }
+        ],
+        "avatar": "img/shawn-wickersheim.jpg",
+        "book": [
+            {
+                "id": "B005JKR95U",
+                "type": "amazon"
+            },
+            {
+                "id": "84281",
+                "type": "smashwords"
+            }
+        ],
+        "cover": "http://inkcompetentwriter.files.wordpress.com/2011/08/the-penitent-assassin-cover.jpg",
+        "reviews": [
+            {
+                "title": "Fantasy Book Review",
+                "type": "review",
+                "url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
+            },
+            {
+                "title": "Fantasy Book Review",
+                "type": "review",
+                "url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+            }
+        ]
+    }
 }

@@ -1,10 +1,10 @@
 {
-	"reviewer": "Lynn's Books",
-	"author": "Maya Michaels",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Considering",
-	"title": "Iduna"
+    "author": "Maya Michaels",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Lynn's Books",
+    "status": "Considering",
+    "title": "Iduna"
 }

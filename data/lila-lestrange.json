@@ -1,19 +1,19 @@
 {
-	"reviewer": "Beauty in Ruins",
-	"author": "Lila Lestrange",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Honorable",
-	"title": "Black Silk",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Beauty in Ruins",
-				"type": "review",
-				"url": "http://beauty-in-ruins.blogspot.ca/2015/04/great-self-published-fantasy-blog-off.html"
-			}
-		]
-	}
+    "author": "Lila Lestrange",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Beauty in Ruins",
+    "status": "Honorable",
+    "title": "Black Silk",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Beauty in Ruins",
+                "type": "review",
+                "url": "http://beauty-in-ruins.blogspot.ca/2015/04/great-self-published-fantasy-blog-off.html"
+            }
+        ]
+    }
 }

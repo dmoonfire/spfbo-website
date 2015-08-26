@@ -1,70 +1,70 @@
 {
+    "about": "<p>A young dark fantasy author from rainy old England, Ben spends his days writing and self-publishing books. He's the author of the western fantasies of The Scarlet Star Trilogy, the epic and brutal Emaneska Series, as well as several non-fiction advice books.</p><p>When he's not writing fantasy or causing mischief for the local populace, he dedicates his time to providing publishing advice and consultations to fellow authors at his site - Shelf Help. Ben is a zealous advocate of self-publishing, and is keen to help any and all publish their books. Ben also recently co-founded Libiro - an eBook store exclusive to indie authors and small presses.</p>",
+    "author": "Ben Galley",
+    "gender": "Male",
+    "genderJustification": "Avatar image",
+    "nationality": "British",
+    "nationalityJustification": "Blurb from home page",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustification": "Avatar image",
     "reviewer": "Bookworm Blues",
-	"about": "<p>A young dark fantasy author from rainy old England, Ben spends his days writing and self-publishing books. He's the author of the western fantasies of The Scarlet Star Trilogy, the epic and brutal Emaneska Series, as well as several non-fiction advice books.</p><p>When he's not writing fantasy or causing mischief for the local populace, he dedicates his time to providing publishing advice and consultations to fellow authors at his site - Shelf Help. Ben is a zealous advocate of self-publishing, and is keen to help any and all publish their books. Ben also recently co-founded Libiro - an eBook store exclusive to indie authors and small presses.</p>",
-	"author": "Ben Galley",
-	"gender": "Male",
-	"genderJustification": "Avatar image",
-	"nationality": "British",
-	"nationalityJustification": "Blurb from home page",
-	"processed": true,
-	"race": "Caucasian",
-	"raceJustification": "Avatar image",
-	"status": "Finalist",
-	"summary": "<p>\u201cMagick ain\u2019t pretty, it ain\u2019t stars and sparkles. Magick is dirty. It\u2019s rough. Raw. It\u2019s blood and guts and vomit. You hear me?\u201d</p><p>When Prime Lord Hark is found in a pool of his own blood on the steps of his halls, Tonmerion Hark finds his world not only turned upside down, but inside out. His father's last will and testament forces him west across the Iron Ocean, to the very brink of the Endless Land and all civilisation. They call it Wyoming.</p><p>This is a story of murder and family.</p><p>In the dusty frontier town of Fell Falls, there is no silverware, no servants, no plush velvet nor towering spires. Only dust, danger, and the railway. Tonmerion has only one friend to help him escape the torturous heat and unravel his father\u2019s murder. A faerie named Rhin. A twelve-inch tall outcast of his own kind.</p><p>This is a story of blood and magick.</p><p>But there are darker things at work in Fell Falls, and not just the railwraiths or the savages. Secrets lurk in Tonmerion's bloodline. Secrets that will redefine this young Hark.</p><p>This is a story of the edge of the world.</p>",
-	"title": "Bloodrush",
-	"urls": {
-		"author": [
-			{
-				"title": "Ben Galley",
-				"type": "blog",
-				"url": "http://www.bengalley.com/"
-			},
-			{
-				"title": "Amazon",
-				"type": "amazon-author",
-				"url": "http://www.amazon.com/Ben-Galley/e/B0067LPVAU/"
-			},
-			{
-				"id": "4522335.Ben_Galley",
-				"type": "goodreads-author"
-			}
-		],
-		"avatar": "http://static.wixstatic.com/media/d2c543_5ac630df0f314fcc8292bcb95f842814.jpg_srz_p_385_485_75_22_0.50_1.20_0.00_jpg_srz",
-		"book": [
-			{
-				"title": "Bloodrush",
-				"type": "landing",
-				"url": "http://www.bengalley.com/#!bloodrush/c1sk9"
-			},
-			{
-				"id": "B00QL15SRC",
-				"type": "amazon"
-			},
-			{
-				"id": "22876906-bloodrush",
-				"type": "goodreads"
-			},
-			{
-				"id": "bloodrush-1",
-				"type": "kobo"
-			},
-			{
-				"id": "21835232-bloodrush-scarlet-star-trilogy-1",
-				"type": "wattpad"
-			}
-		],
-		"cover": "http://static.wixstatic.com/media/d2c543_5fb1f0b7bb084bc19959b3f66f587867.jpeg_srz_p_278_414_75_22_0.50_1.20_0.00_jpeg_srz",
-		"reviews": [
-			{
-				"title": "Bookworm Blues",
-				"type": "review",
-				"url": "http://www.bookwormblues.net/2015/05/05/the-great-self-published-fantasy-blog-off-mini-reviews-round-2/"
-			},
-			{
-				"title": "Bookworm Blues",
-				"type": "review",
-				"url": "http://www.bookwormblues.net/2015/08/10/spfbo-and-the-winner-is/"
-			}
-		]
-	}
+    "status": "Finalist",
+    "summary": "<p>\u201cMagick ain\u2019t pretty, it ain\u2019t stars and sparkles. Magick is dirty. It\u2019s rough. Raw. It\u2019s blood and guts and vomit. You hear me?\u201d</p><p>When Prime Lord Hark is found in a pool of his own blood on the steps of his halls, Tonmerion Hark finds his world not only turned upside down, but inside out. His father's last will and testament forces him west across the Iron Ocean, to the very brink of the Endless Land and all civilisation. They call it Wyoming.</p><p>This is a story of murder and family.</p><p>In the dusty frontier town of Fell Falls, there is no silverware, no servants, no plush velvet nor towering spires. Only dust, danger, and the railway. Tonmerion has only one friend to help him escape the torturous heat and unravel his father\u2019s murder. A faerie named Rhin. A twelve-inch tall outcast of his own kind.</p><p>This is a story of blood and magick.</p><p>But there are darker things at work in Fell Falls, and not just the railwraiths or the savages. Secrets lurk in Tonmerion's bloodline. Secrets that will redefine this young Hark.</p><p>This is a story of the edge of the world.</p>",
+    "title": "Bloodrush",
+    "urls": {
+        "author": [
+            {
+                "title": "Ben Galley",
+                "type": "blog",
+                "url": "http://www.bengalley.com/"
+            },
+            {
+                "title": "Amazon",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Ben-Galley/e/B0067LPVAU/"
+            },
+            {
+                "id": "4522335.Ben_Galley",
+                "type": "goodreads-author"
+            }
+        ],
+        "avatar": "http://static.wixstatic.com/media/d2c543_5ac630df0f314fcc8292bcb95f842814.jpg_srz_p_385_485_75_22_0.50_1.20_0.00_jpg_srz",
+        "book": [
+            {
+                "title": "Bloodrush",
+                "type": "landing",
+                "url": "http://www.bengalley.com/#!bloodrush/c1sk9"
+            },
+            {
+                "id": "B00QL15SRC",
+                "type": "amazon"
+            },
+            {
+                "id": "22876906-bloodrush",
+                "type": "goodreads"
+            },
+            {
+                "id": "bloodrush-1",
+                "type": "kobo"
+            },
+            {
+                "id": "21835232-bloodrush-scarlet-star-trilogy-1",
+                "type": "wattpad"
+            }
+        ],
+        "cover": "http://static.wixstatic.com/media/d2c543_5fb1f0b7bb084bc19959b3f66f587867.jpeg_srz_p_278_414_75_22_0.50_1.20_0.00_jpeg_srz",
+        "reviews": [
+            {
+                "title": "Bookworm Blues",
+                "type": "review",
+                "url": "http://www.bookwormblues.net/2015/05/05/the-great-self-published-fantasy-blog-off-mini-reviews-round-2/"
+            },
+            {
+                "title": "Bookworm Blues",
+                "type": "review",
+                "url": "http://www.bookwormblues.net/2015/08/10/spfbo-and-the-winner-is/"
+            }
+        ]
+    }
 }

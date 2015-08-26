@@ -1,10 +1,10 @@
 {
-	"reviewer": "Bibliotropic",
-	"author": "Olga Godim",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Squirrel of Magic"
+    "author": "Olga Godim",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Bibliotropic",
+    "status": "Passed",
+    "title": "Squirrel of Magic"
 }

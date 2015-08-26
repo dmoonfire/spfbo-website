@@ -1,10 +1,10 @@
 {
-	"reviewer": "The Fictional Hangout",
-	"author": "William Dickstein",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Considering",
-	"title": "A Tale of Gems"
+    "author": "William Dickstein",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "The Fictional Hangout",
+    "status": "Considering",
+    "title": "A Tale of Gems"
 }

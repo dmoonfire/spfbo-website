@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy-Faction",
-	"author": "M. Edward McNally",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "The Sable City"
+    "author": "M. Edward McNally",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy-Faction",
+    "status": "Passed",
+    "title": "The Sable City"
 }

@@ -1,24 +1,24 @@
 {
-	"reviewer": "Lynn's Books",
-	"author": "Amanda McCrina",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "His Own Good Sword",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Lynn's Book",
-				"type": "review",
-				"url": "https://lynnsbooks.wordpress.com/2015/04/03/spfbo-update/"
-			},
-			{
-				"title": "Lynn's Book",
-				"type": "review",
-				"url": "https://lynnsbooks.wordpress.com/2015/03/10/his-own-good-sword-by-amanda-mccrina/"
-			}
-		]
-	}
+    "author": "Amanda McCrina",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Lynn's Books",
+    "status": "Mentioned",
+    "title": "His Own Good Sword",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Lynn's Book",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/04/03/spfbo-update/"
+            },
+            {
+                "title": "Lynn's Book",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/03/10/his-own-good-sword-by-amanda-mccrina/"
+            }
+        ]
+    }
 }

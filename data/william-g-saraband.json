@@ -1,29 +1,29 @@
 {
-	"reviewer": "Beauty in Ruins",
-	"author": "William G Saraband",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Finalist",
-	"title": "Shattered Sands",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Beauty in Ruin",
-				"type": "review",
-				"url": "http://beauty-in-ruins.blogspot.ca/p/great-self-published-fantasy-blog-off.html"
-			},
-			{
-				"title": "Beauty in Ruin",
-				"type": "review",
-				"url": "http://beauty-in-ruins.blogspot.ca/2015/06/great-self-published-fantasy-blog-off.html"
-			},
-			{
-				"title": "Beauty in Ruin",
-				"type": "review",
-				"url": "http://beauty-in-ruins.blogspot.ca/2015/08/great-self-published-fantasy-blog-off_7.html"
-			}
-		]
-	}
+    "author": "William G Saraband",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Beauty in Ruins",
+    "status": "Finalist",
+    "title": "Shattered Sands",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Beauty in Ruin",
+                "type": "review",
+                "url": "http://beauty-in-ruins.blogspot.ca/p/great-self-published-fantasy-blog-off.html"
+            },
+            {
+                "title": "Beauty in Ruin",
+                "type": "review",
+                "url": "http://beauty-in-ruins.blogspot.ca/2015/06/great-self-published-fantasy-blog-off.html"
+            },
+            {
+                "title": "Beauty in Ruin",
+                "type": "review",
+                "url": "http://beauty-in-ruins.blogspot.ca/2015/08/great-self-published-fantasy-blog-off_7.html"
+            }
+        ]
+    }
 }

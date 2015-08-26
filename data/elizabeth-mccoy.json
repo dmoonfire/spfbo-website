@@ -1,10 +1,10 @@
 {
-	"reviewer": "Fantasy-Faction",
-	"author": "Elizabeth McCoy",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Queen of Roses"
+    "author": "Elizabeth McCoy",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Fantasy-Faction",
+    "status": "Passed",
+    "title": "Queen of Roses"
 }

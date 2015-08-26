@@ -1,19 +1,19 @@
 {
-	"reviewer": "Elitist Book Reviews",
-	"author": "Michael Karner",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Mentioned",
-	"title": "Red Axe, Black Sun",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Elitist Book Reviews",
-				"type": "review",
-				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
-			}
-		]
-	}
+    "author": "Michael Karner",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Elitist Book Reviews",
+    "status": "Mentioned",
+    "title": "Red Axe, Black Sun",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Elitist Book Reviews",
+                "type": "review",
+                "url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+            }
+        ]
+    }
 }

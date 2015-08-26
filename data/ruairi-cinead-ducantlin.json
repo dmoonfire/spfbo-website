@@ -1,19 +1,19 @@
 {
-	"reviewer": "Lynn's Books",
-	"author": "Ruairi Cinead Ducantlin",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
-	"race": "Unknown",
-	"status": "Passed",
-	"title": "Verum \u2013 Exercitum ex Nihilo",
-	"urls": {
-		"reviews": [
-			{
-				"title": "Lynn's Books",
-				"type": "review",
-				"url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
-			}
-		]
-	}
+    "author": "Ruairi Cinead Ducantlin",
+    "gender": "Unknown",
+    "nationality": "Unknown",
+    "processed": false,
+    "race": "Unknown",
+    "reviewer": "Lynn's Books",
+    "status": "Passed",
+    "title": "Verum \u2013 Exercitum ex Nihilo",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Lynn's Books",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
+            }
+        ]
+    }
 }
