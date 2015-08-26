@@ -276,6 +276,7 @@ function onBookData(book) {
 		}
 
 		// Add in the metadata
+		appendKeyValue("Reviewer", book.reviewer, summary);
 		appendKeyValue("Words", book.words, summary);
 		appendKeyValue("POV", book.pov, summary);
 		appendKeyValue("Tense", book.tense, summary);
