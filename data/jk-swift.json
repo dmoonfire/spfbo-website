@@ -1,0 +1,24 @@
+{
+	"reviewer": "Bibliotropic",
+	"author": "JK  Swift",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Honorable",
+	"title": "Altdorf",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bibliotropic",
+				"type": "review",
+				"url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
+			},
+			{
+				"title": "Bibliotropic",
+				"type": "review",
+				"url": "http://bibliotropic.net/2015/05/27/spfbo-review-altdorf-the-forest-knights-by-j-k-swift/"
+			}
+		]
+	}
+}

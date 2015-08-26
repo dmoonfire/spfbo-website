@@ -1,0 +1,19 @@
+{
+	"reviewer": "Elitist Book Reviews",
+	"author": "Christian Freed",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Hammers in the Wind",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Elitist Book Reviews",
+				"type": "review",
+				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+			}
+		]
+	}
+}

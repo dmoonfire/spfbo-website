@@ -1,0 +1,24 @@
+{
+	"reviewer": "Beauty in Ruins",
+	"author": "EJ Stevens",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Burning Bright",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+			},
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.co.uk/2015/05/great-self-published-fantasy-blog-off.html"
+			}
+		]
+	}
+}

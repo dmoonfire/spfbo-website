@@ -1,0 +1,52 @@
+{
+	"reviewer": "Fantasy-Faction",
+	"about": "<p>James Cormier went to law school and spent years as a practicing attorney before realizing that what he really wanted to do with his life was sit around and write stories about imaginary places. Which is why you're reading this now. He lives in Massachusetts with his wife, his son, and the requisite two cats that every writer of fantasy and science fiction is presented with upon the publication of their first novel.</p>",
+	"author": "James Cormier",
+	"gender": "Male",
+	"genderJustification": "Twitter profile image",
+	"nationality": "United States",
+	"nationalityJustification": "Content of writing, employment in about page",
+	"processed": true,
+	"race": "Caucasian",
+	"raceJustification": "Twitter profile image",
+	"status": "Honorable",
+	"summary": "<p>Centuries after the Fall, the United States has been wiped away. The crumbling remains of the great American empire are home now only to savage, lawless tribes and packs of ravening Damned\u2014the twisted children of the apocalypse. Most of those few who survived humanity\u2019s destruction spend their short lives in a violent struggle for survival. But some light still flickers in the darkness: the Blessed of Bountiful live in seclusion, relying on walls both physical and spiritual to protect them from the Desolation that their world has become. Among them are the Saints, those few men and women born with superhuman abilities that the Blessed see as gifts from God.</p><p>The violent apostate tribes of the Northeast Kingdom have always been a danger, but up until recently its small size and the vigilance of its people have made Bountiful an unappealing target. As attacks on the community grow harsher and more frequent, however, even the steadfast Blessed are forced to start preparing for the worst.</p><p>With her home\u2019s very existence threatened, seventeen year old Ever Oaks, a Saint with the power to heal, is forced to make a difficult choice, one that may come to define her people\u2019s future\u2026</p>",
+	"title": "Exile",
+	"urls": {
+		"author": [
+			{
+				"title": "James Cormier",
+				"type": "blog",
+				"url": "http://jamesdcormier.com/"
+			},
+			{
+				"id": "8449296.James_Cormier",
+				"type": "goodreads-author"
+			}
+		],
+		"avatar": "https://jamesdcormier.files.wordpress.com/2014/06/photo-on-5-2-13-at-3-49-pm.jpg?w=300&h=200",
+		"book": [
+			{
+				"title": "Exile: The Book of Ever (Volume 1)",
+				"type": "landing",
+				"url": "http://jamesdcormier.com/exile-by-james-cormier/"
+			},
+			{
+				"id": "099059632X",
+				"type": "amazon"
+			},
+			{
+				"id": "22961594-exile",
+				"type": "goodreads"
+			}
+		],
+		"cover": "https://jamesdcormier.files.wordpress.com/2014/07/exile-amzn-epub1.jpg?w=187&h=300",
+		"reviews": [
+			{
+				"title": "Fantasy Faction",
+				"type": "review",
+				"url": "http://fantasy-faction.com/2015/exile-the-first-book-of-ever-by-james-cormier"
+			}
+		]
+	}
+}

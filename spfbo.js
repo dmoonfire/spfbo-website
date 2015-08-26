@@ -143,7 +143,6 @@ function onIndexData(data) {
 	if (typeof(data) === "string")
 	{
 		data = JSON.parse(data);
-		console.log("Switching index from string to JSON object");
 	}
 
 	// Update the loading screen.
@@ -165,7 +164,6 @@ function onBookData(book) {
 		if (typeof(book) === "string")
 		{
 			book = JSON.parse(book);
-			console.log("Switching from string to JSON object");
 		}
 
 		// Get the element we'll be adding to.

@@ -1,0 +1,19 @@
+{
+	"reviewer": "Elitist Book Reviews",
+	"author": "Heidi Collotzi",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "The Secret of Avonoa",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Elitist Book Reviews",
+				"type": "review",
+				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+			}
+		]
+	}
+}

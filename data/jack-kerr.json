@@ -1,0 +1,24 @@
+{
+	"reviewer": "Lynn's Books",
+	"author": "Jack Kerr",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Tommy Black and the Staff of Light",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Lynn's Book",
+				"type": "review",
+				"url": "https://lynnsbooks.wordpress.com/2015/04/03/spfbo-update/"
+			},
+			{
+				"title": "Lynn's Books",
+				"type": "review",
+				"url": "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+			}
+		]
+	}
+}

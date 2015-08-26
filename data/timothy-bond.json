@@ -1,0 +1,19 @@
+{
+	"reviewer": "Elitist Book Reviews",
+	"author": "Timothy Bond",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "The Watcher's Keep",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Elitist Book Reviews",
+				"type": "review",
+				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+			}
+		]
+	}
+}

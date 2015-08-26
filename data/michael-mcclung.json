@@ -1,0 +1,24 @@
+{
+	"reviewer": "Elitist Book Reviews",
+	"author": "Michael McClung",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Honorable",
+	"title": "The thief who pulled on trouble's braids",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Elitist Book Reviews",
+				"type": "review",
+				"url": "http://elitistbookreviews.com/2015/03/27/the-thief-who-pulled-on-troubles-braids/"
+			},
+			{
+				"title": "Elitist Book Reviews",
+				"type": "review",
+				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+			}
+		]
+	}
+}

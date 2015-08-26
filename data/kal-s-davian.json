@@ -1,0 +1,24 @@
+{
+	"reviewer": "Lynn's Books",
+	"author": "Kal S Davian",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Naming the Bane",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Lynn's Book",
+				"type": "review",
+				"url": "https://lynnsbooks.wordpress.com/2015/04/03/spfbo-update/"
+			},
+			{
+				"title": "Lynn's Books",
+				"type": "review",
+				"url": "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+			}
+		]
+	}
+}

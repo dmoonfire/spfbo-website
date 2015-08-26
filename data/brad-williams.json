@@ -1,0 +1,24 @@
+{
+	"reviewer": "Beauty in Ruins",
+	"author": "Brad Williams",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Chadwick Yates and the Cannibal Shrine",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+			},
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.co.uk/2015/07/great-self-published-fantasy-blog-off.html"
+			}
+		]
+	}
+}

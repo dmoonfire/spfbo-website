@@ -1,0 +1,34 @@
+{
+	"reviewer": "Bibliotropic",
+	"author": "Barbara Webb",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Finalist",
+	"title": "City of Burning Shadows",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bibliotropic",
+				"type": "review",
+				"url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+			},
+			{
+				"title": "Bibliotropic",
+				"type": "review",
+				"url": "http://bibliotropic.net/2015/04/27/self-published-fantasy-blog-off-strong-contenders/"
+			},
+			{
+				"title": "Bibliotropic",
+				"type": "review",
+				"url": "http://bibliotropic.net/2015/04/29/spfbo-review-city-of-burning-shadows-by-barbara-j-webb/"
+			},
+			{
+				"title": "Bibliotropic",
+				"type": "review",
+				"url": "http://bibliotropic.net/2015/07/17/spfbo-round-1-winner/"
+			}
+		]
+	}
+}

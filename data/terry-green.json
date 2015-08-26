@@ -1,0 +1,19 @@
+{
+	"reviewer": "Elitist Book Reviews",
+	"author": "Terry Green",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Shaman, Healer, Heretic",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Elitist Book Reviews",
+				"type": "review",
+				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+			}
+		]
+	}
+}

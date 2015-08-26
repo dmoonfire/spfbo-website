@@ -1,0 +1,81 @@
+{
+	"reviewer": "Elitist Book Reviews",
+	"about": "<p>D. Moonfire is the remarkable result of the intersection of a computer nerd, a scientist, and polymath. Instead of focusing on a single genre, he writes stories and novels in many different settings ranging from fantasy to science fiction. He also throws in the occasional romance or forensics murder mystery to mix things up.</p><p>In addition to having a borderline unhealthy obsession with the written word, he is also a developer who loves to code as much as he loves writing.</p><p>He lives near Cedar Rapids, Iowa with his wife, numerous pet computers, and a pair of highly mobile things of the male variety.</p>",
+	"author": "D. Moonfire",
+	"gender": "Male",
+	"genderJustification": "Provided.",
+	"nationality": "United States",
+	"nationalityJustification": "Provided",
+	"pov": "3rd Limited",
+	"processed": true,
+	"race": "Caucasian",
+	"raceJustification": "Provided",
+	"status": "Honorable",
+	"summary": "<p>At seventeen, Rutej\u00ecmo wanted nothing more than to be the clan's greatest warrior. He dreamed of sprinting across the desert faster than a horse and using sunlight and flame as a weapons against the night. He wanted to be the hero that everyone spoke of over the fires.</p><p>When he and four other teenagers were abandoned in the middle of the desert, it wasn't Rutej\u00ecmo who became the warrior, but his rival Chim\u00edpu. She was already the fastest and strongest. With her new powers, she became everything Rutej\u00ecmo dreamed for himself.</p><p>Plagued by jealousy and desperate to prove himself, Rutej\u00ecmo abandoned her to begin the long trek back home. One selfish choice led to another, and soon Rutej\u00ecmo's fantasies were stripped away to reveal the man he had become. To redeem himself, he must sacrifice his pride for his clan, survive an warrior looking for blood, and offer his throat to the woman who stole his dreams.</p><p>Sand and Blood is the first of three novels exploring Rutej\u00ecmo's life. It is a harrowing tale of self-discovery and his search to find his place among friends, clan, and the brutal world of the Mifuno Desert. It is set in an gritty world where the only way to learn magic is to risk death and survive.</p>",
+	"tense": "Past",
+	"title": "Sand and Blood",
+	"urls": {
+		"author": [
+			{
+				"title": "Blog",
+				"type": "blog",
+				"url": "https://d.moonfire.us/"
+			},
+			{
+				"id": "dmoonfire",
+				"type": "twitter"
+			},
+			{
+				"id": "dmoonfirefans",
+				"type": "facebook"
+			},
+			{
+				"id": "110772252513189006556",
+				"type": "google+"
+			},
+			{
+				"id": "dmoonfire",
+				"type": "ello"
+			},
+			{
+				"id": "dmoonfire",
+				"type": "reddit"
+			}
+		],
+		"avatar": "https://s.gravatar.com/avatar/297a9bdb0fa420979e43b08a50f5f0a7?s=256&r=g",
+		"book": [
+			{
+				"title": "Landing",
+				"type": "landing",
+				"url": "https://sand-and-blood.fedran.com/"
+			},
+			{
+				"id": "B00KFQ0YCS",
+				"type": "amazon"
+			},
+			{
+				"id": "439650",
+				"type": "smashwords"
+			},
+			{
+				"id": "22581837-sand-and-blood",
+				"type": "goodreads"
+			}
+		],
+		"cover": "http://sand-and-blood.fedran.com/img/cover-160.jpg",
+		"reviews": [
+			{
+				"rating": 8,
+				"title": "Elitist Book Reviews",
+				"type": "review",
+				"url": "http://elitistbookreviews.com/2015/04/14/sand-and-blood/"
+			},
+			{
+				"title": "Elitist Book Reviews",
+				"type": "review",
+				"url": "http://elitistbookreviews.com/2015/06/26/self-published-blog-off-update/"
+			}
+		]
+	},
+	"words": 69830
+}

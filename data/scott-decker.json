@@ -1,0 +1,19 @@
+{
+	"reviewer": "Lynn's Books",
+	"author": "Scott Decker",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Gemstone Wyverns",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Lynn's Books",
+				"type": "review",
+				"url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
+			}
+		]
+	}
+}

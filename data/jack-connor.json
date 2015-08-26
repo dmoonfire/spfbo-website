@@ -1,0 +1,19 @@
+{
+	"reviewer": "Fantasy Book Review",
+	"author": "Jack Connor",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Honorable",
+	"title": "The Atomic Sea",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Fantasy Book Review",
+				"type": "review",
+				"url": "http://www.fantasybookreview.co.uk/blog/2015/04/12/our-spfbo-short-list/"
+			}
+		]
+	}
+}

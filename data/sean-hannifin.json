@@ -1,0 +1,25 @@
+{
+	"reviewer": "Bibliotropic",
+	"author": "Sean Hannifin",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Honorable",
+	"title": "Son of a Dark Wizard",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Bibliotropic",
+				"type": "review",
+				"url": "http://bibliotropic.net/2015/03/12/the-great-self-published-fantasy-blog-off-first-impressions/"
+			},
+			{
+				"rating": 6.5,
+				"title": "Bibliotropic",
+				"type": "review",
+				"url": "http://bibliotropic.net/2015/03/27/spfbo-review-son-of-a-dark-wizard-by-sean-patrick-hannifin/"
+			}
+		]
+	}
+}

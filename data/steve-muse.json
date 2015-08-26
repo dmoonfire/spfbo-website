@@ -1,0 +1,24 @@
+{
+	"reviewer": "Beauty in Ruins",
+	"author": "Steve Muse",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Heir of Nostalgia",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+			},
+			{
+				"title": "Beauty in Ruins",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.ca/2015/04/great-self-published-fantasy-blog-off.html"
+			}
+		]
+	}
+}

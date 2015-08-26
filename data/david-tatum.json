@@ -1,0 +1,24 @@
+{
+	"reviewer": "Fantasy Book Critic",
+	"author": "David Tatum",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "The Kitsune Stratagem",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Fantasy Book Critic",
+				"type": "review",
+				"url": "http://fantasybookcritic.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
+			},
+			{
+				"title": "Fantasy Book Critic",
+				"type": "review",
+				"url": "http://fantasybookcritic.blogspot.co.uk/2015/05/the-great-self-published-fantasy-blog.html?m=0"
+			}
+		]
+	}
+}

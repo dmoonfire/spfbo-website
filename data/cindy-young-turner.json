@@ -1,0 +1,24 @@
+{
+	"reviewer": "Lynn's Books",
+	"author": "Cindy Young-Turner",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Mentioned",
+	"title": "Thief of Hope",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Lynn's Books",
+				"type": "review",
+				"url": "https://lynnsbooks.wordpress.com/2015/03/20/blog-off-spfbo-update/"
+			},
+			{
+				"title": "Lynn's Books",
+				"type": "review",
+				"url": "https://lynnsbooks.wordpress.com/2015/05/02/spfbo-update-2/"
+			}
+		]
+	}
+}

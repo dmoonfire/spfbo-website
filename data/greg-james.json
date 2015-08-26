@@ -1,0 +1,24 @@
+{
+	"reviewer": "Fantasy Book Critic",
+	"author": "Greg James",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Finalist",
+	"title": "Under a Colder Sun",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Fantasy Book Critic",
+				"type": "review",
+				"url": "http://fantasybookcritic.blogspot.co.uk/2015/05/the-great-self-published-fantasy-blog.html?m=0"
+			},
+			{
+				"title": "Fantasy Book Critic",
+				"type": "review",
+				"url": "http://fantasybookcritic.blogspot.co.uk/2015/08/self-published-fantasy-blog-off-round-1.html?m=0"
+			}
+		]
+	}
+}

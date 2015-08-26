@@ -1,0 +1,34 @@
+{
+	"reviewer": "Beauty in Ruins",
+	"author": "JD Hallowell",
+	"gender": "Unknown",
+	"nationality": "Unknown",
+	"processed": false,
+	"race": "Unknown",
+	"status": "Honorable",
+	"title": "Dragon Fate",
+	"urls": {
+		"reviews": [
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.co.uk/2015/03/mark-lawrences-self-published-challenge.html"
+			},
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.ca/p/great-self-published-fantasy-blog-off.html"
+			},
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.co.uk/2015/08/great-self-published-fantasy-blog-off.html"
+			},
+			{
+				"title": "Beauty in Ruin",
+				"type": "review",
+				"url": "http://beauty-in-ruins.blogspot.ca/2015/08/great-self-published-fantasy-blog-off_7.html"
+			}
+		]
+	}
+}
