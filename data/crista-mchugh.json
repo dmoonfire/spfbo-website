@@ -1,13 +1,53 @@
 {
 	"reviewer": "The Speculative Book Review",
 	"author": "Crista McHugh",
-	"gender": "Unknown",
-	"nationality": "Unknown",
-	"processed": false,
+	"gender": "Female",
+	"genderJustification": "Profile picture on Amazon",
+	"nationality": "United States",
+	"nationalityJustification": "About from Amazon page",
+	"processed": true,
 	"race": "Unknown",
 	"status": "Finalist",
 	"title": "A Soul for Trouble",
+	"about": "<p>Crista McHugh is a NEW YORK TIMES and USA TODAY BESTSELLING author of fantasy and romance with heroines who are smart, sexy, and anything but ordinary.</p><p>Growing up in small town Alabama, Crista relied on story-telling as a natural way for her to pass the time and keep her two younger sisters entertained.</p><p>She currently lives in the Audi-filled suburbs of Seattle with her husband and two children, maintaining her alter ego of mild-mannered physician by day while she continues to pursue writing on nights and weekends.</p><p>Just for laughs, here are some of the jobs she's had in the past to pay the bills: barista, bartender, sommelier, stagehand, actress, morgue attendant, and autopsy assistant.</p><p>And she's also a recovering LARPer. (She blames it on her crazy college days)</p><p>To be the first to know about her latest releases or to be entered into exclusive contests, please sign up for her newsletter using the contact form on her webpage, <a href='http://www.cristamchugh.com'>www.cristamchugh.com</a>.</p>",
+	"summary": "<p><em>When you’re a witch named Trouble, chaos follows.</em></p><p>Arden Lesstymine (known to everyone as Trouble) likes attention as much as the next girl, but this is getting ridiculous. When an insane stranger is murdered at the inn where she works, Trouble becomes the next Soulbearer for the disembodied god of chaos, Loku. Yes, it comes with the ability to channel the god’s limitless power, but at the cost of her sanity — literally. Now she has a sexy but cynical knight claiming to be her protector, a prince trying to seduce her to his cause (and his bed), and a snarky chaos god who offers a play-by-play commentary on it all, whether she wants to hear it or not. To make matters worse, a necromancer wants to capture the soul of Loku for his own dark purposes, and the only way he can get it is by killing her first.</p>",
 	"urls": {
+		"cover": "http://www.cristamchugh.com/wordpress/wp-content/uploads/2010/10/Trouble-ebook-200x300.jpg",
+		"avatar": "http://www.cristamchugh.com/wordpress/wp-content/uploads/2010/10/headshotsmall-579x640.jpg",
+		"book": [
+			{
+				"type": "amazon",
+				"asin": "B007QYEPYK"
+			},
+			{
+				"type": "goodreads",
+				"id": "13400139-a-soul-for-trouble"
+			}
+		],
+		"author": [
+			{
+				"type": "blog",
+				"title": "Christa McHugh",
+				"url": "http://www.cristamchugh.com/wordpress/"
+			},
+			{
+				"title": "Amazon",
+				"type": "amazon-author",
+				"url": "http://www.amazon.com/Crista-McHugh/e/B004C6F86Y/ref=dp_byline_cont_ebooks_1"
+			},
+			{
+				"type": "twitter",
+				"id": "crista_mchugh"
+			},
+			{
+				"type": "facebook",
+				"id": "CristaMcHugh"
+			},
+			{
+				"type": "goodreads-author",
+				"id": "3035791.Crista_McHugh"
+			}
+		],
 		"reviews": [
 			{
 				"title": "Speculative Book Review",
