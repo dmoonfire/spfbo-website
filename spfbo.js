@@ -232,7 +232,8 @@ function onBookData(book) {
 			+ nationality_slug + " "
 			+ twitter_class + " "
 			+ facebook_class + " "
-			+ " book'></div>");
+			+ " book'"
+			+ " data-status='" + book.status + "'></div>");
 		var panelHeading = $(
 			"<div class='panel-heading collapsed' id='" + slug + "-title' data-toggle='collapse' href='#" + slug + "' aria-expanded='true' aria-controls='" + slug + "'>"
 			+ "<div class='pull-right'>"
@@ -413,11 +414,15 @@ function searchBooks() {
 		// Get a combined title and text, then search that every token
 		// is inside the token.
 		var name = $(this).find("h4").text().toLowerCase();
+		var status = $(this).data("status").toLowerCase();
+		var haystack = name + " " + status;
 		var valid = true;
+
+		console.log("searching", haystack);
 		
 		for (term of terms)
 		{
-			var found = name.search(term) >= 0;
+			var found = haystack.search(term) >= 0;
 			
 			if (!found)
 			{
@@ -427,8 +432,6 @@ function searchBooks() {
 		}
 		
 		// Based on the valid flag, we hide or show it.
-		console.log("  found", name);
-		
 		$(this).toggleClass("search-hide", !valid);
 		
 		if (valid) total++;
