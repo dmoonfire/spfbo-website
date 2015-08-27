@@ -1,13 +1,54 @@
 {
-    "author": "Sean Hannifin",
-    "gender": "Unknown",
-    "nationality": "Unknown",
+    "about": "<p>Sean Patrick Hannifin has been writing for most of his life. His earliest stories were penned at the age of five, when he would draw stick-figure pictures and dictate the accompanying words to his parents. These stories usually began with the words, 'Once upon a time there was a happy little boy with an umbrella.' With a lack of artistic skill, these umbrellas often resembled giant lollipops. Fortunately Sean's interest in umbrellas was soon replaced with a fascination for dragons and dark wizards. Fantasy films from the 80's, such as The NeverEnding Story, The Dark Crystal, and the somewhat obscure Mio in the Land of Faraway, helped found a life-long love for dark and mysterious worlds full of wizards and castles, vast landscapes filled with stories and secrets.</p><p>When he's not writing, Sean composes orchestral music inspired by film scores, classical music, and thoughts of dragons and wizards. He also enjoys programming, watching movies, playing video games, browsing bookstores for long lonely hours, exploring ancestors on the family tree, and baking (then devouring) too many cookies at Christmas.</p><p>Sean studied Computer Science at George Mason University, then went on to study computer animation at the online school Animation Mentor. But neither of these pursuits led to anything he wanted to do for a living; he always finds his interests turning back to storytelling and world-creating.</p>",
+    "author": "Sean Patrick Hannifin",
+    "gender": "Male",
+    "genderJustification": "Image from Goodreads",
+    "nationality": "United States",
+    "nationalityJustification": "Inferred from about text.",
     "processed": false,
-    "race": "Unknown",
+    "race": "Caucasian",
+    "raceJustification": "Image from Goodreads",
     "reviewer": "Bibliotropic",
     "status": "Honorable",
+    "summary": "<p>Thirteen year old Prince Sorren survived the surprise attack on his castle, but the young wizard\u2019s life is left in ruins. His father\u2019s been assassinated, he was forced to flee his castle, and he lost his left arm. But he\u2019s not about to lose the kingdom his father promised would someday be his. He doesn\u2019t care if his father\u2019s assassin is a boy believed to be the Chosen One, or if the prophecy that foretold his father\u2019s death also calls for his own death at the same boy\u2019s hands. He sets out in search of the boy, ready to battle him face to face.</p><p>But the Chosen One keeps a powerful weapon, and Sorren soon learns that even a dark wizard\u2019s powers will not be enough to take his kingdom back.</p>",
     "title": "Son of a Dark Wizard",
     "urls": {
+        "author": [
+            {
+                "title": "Wizard Walk",
+                "type": "blog",
+                "url": "http://www.wizardwalk.com/"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Sean-Patrick-Hannifin/e/B00MSBNL78/ref=dp_byline_cont_ebooks_1"
+            },
+            {
+                "id": "8244485.Sean_Patrick_Hannifin",
+                "type": "goodreads-author"
+            },
+            {
+                "id": "seanthebest",
+                "type": "twitter"
+            }
+        ],
+        "avatar": "http://d.gr-assets.com/authors/1422844224p8/8244485.jpg",
+        "book": [
+            {
+                "id": "B00RPSPW6C",
+                "type": "amazon"
+            },
+            {
+                "id": "24281555-son-of-a-dark-wizard",
+                "type": "goodreads"
+            },
+            {
+                "id": "506775",
+                "type": "smashwords"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1437958896l/24281555.jpg",
         "reviews": [
             {
                 "title": "Bibliotropic",
