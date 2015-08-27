@@ -1,13 +1,50 @@
 {
+    "about": "<p>Robert Courtland grew up on the great plains and migrated to the foot of the Rocky Mountains for collage. He took his time getting around to writing seriously. He started out in his teens devouring the novels of Terry Brooks, Stephen R. Donaldson, and J.R.R. Tolkien then naturally put pen to paper to try his own hand at it. Those early attemps faltered and college and career moved writing to the background.</p><p>While life took him away from writing for a while, his interests continued to expand. He learned several languages and studied about other cultures around the world and through time. He took up calligraphy, map making, and archery. These ecclectic areas of study were useless at work, but when he finally returned to writing, it provided a unique perspective. He returned to his first love, epic fantasy, and set about creating worlds and stories colored by the broad scope of his studies.</p><p>Robert lives in Colorado with his wife and son. He holds a Bachelors degree in Liberal Arts, but believes you should never stop learning. He continually strives to expand his horizons and is always looking for ways to make his stories unique and different. When not immersed in writing, he likes to read the works of Carol Berg and Carrie Vaughn or watch classic movies.</p>",
     "author": "Robert Courtland",
-    "gender": "Unknown",
-    "nationality": "Unknown",
+    "gender": "Male",
+    "genderJustification": "Use of 'he' in about.",
+    "nationality": "United States",
+    "nationalityJustification": "Inferred from from about.",
     "processed": false,
-    "race": "Unknown",
+    "race": "Caucasian",
+    "raceJustification": "Inferred from the avatar image.",
     "reviewer": "The Fictional Hangout",
     "status": "Honorable",
+    "summary": "<p>Dara, one of the Simmasi Royal Rangers, is tasked with escorting Prince Shaelon across the Simmasi Kingdom. It proves more challenging than either one could guess when they are beset by assassins trying to make sure the Prince doesn\u2019t reach his grandfather\u2019s army. As her King knew she would, Dara goes further than her original orders, offering to both protect and fight beside the Shaelon as he leads the army his grandfather assembled to reclaim their ancestral throne. The army is up to the task if Dara can just keep Shaelon alive long enough.</p>",
     "title": "Jack of Troubles",
     "urls": {
+        "author": [
+            {
+                "title": "Robert Courtland",
+                "type": "author",
+                "url": "https://sites.google.com/site/robertcourtland/"
+            },
+            {
+                "id": "RobertCourtland",
+                "type": "twitter"
+            },
+            {
+                "id": "6620556.Robert_Courtland",
+                "type": "goodreads-author"
+            },
+            {
+                "id": "http://www.amazon.com/Robert-Courtland/e/B00AHHRQ4E/ref=dp_byline_cont_ebooks_1",
+                "title": "Amazon Author",
+                "type": "amazon-author"
+            }
+        ],
+        "avatar": "http://d.gr-assets.com/authors/1354829605p8/6620556.jpg",
+        "book": [
+            {
+                "id": "B00O4TOLOY",
+                "type": "amazon"
+            },
+            {
+                "id": "24482698-jack-of-troubles",
+                "type": "goodreads"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1422395249l/24482698.jpg",
         "reviews": [
             {
                 "title": "The Fictional Hangout",
