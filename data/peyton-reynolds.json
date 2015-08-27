@@ -1,13 +1,57 @@
 {
+    "about": "<p>Peyton Reynolds is the epic fantasy author of the Trivallyn Saga and The Legends of Dhanen'Mar series. She resides in Phoenix, Arizona.</p>",
     "author": "Peyton Reynolds",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
+    "gender": "Female",
+    "genderJustification": "Use of female on Goodreads author page.",
+    "nationality": "United States",
+    "nationalityJustification": "Inferred from where she lives in about page.",
+    "processed": true,
     "race": "Unknown",
     "reviewer": "Bibliotropic",
     "status": "Honorable",
+    "summary": "<p>Welcome to Dhanen'Mar-- a land of beauty, magic, chivalry, and above all, superstition. Following the signs of the scores of auguries and omens honored for centuries, the people of Dhanen'Mar are those who search for the paths of Destiny. As this summer season commences, Destiny's hand begins to beckon.</p><p>With a half-mad king upon the throne and a threat long-ago lost to legend upon the verge of reemerging, twelve souls are drawn together to begin unraveling one of Dhanen'Mar's darkest secrets--a secret with the power to devastate the entire realm.</p>",
     "title": "The Auguries of Dawn",
     "urls": {
+        "author": [
+            {
+                "title": "Website",
+                "type": "website",
+                "url": "http://pkreynolds.wix.com/fantasy-author"
+            },
+            {
+                "id": "trivallynsaga",
+                "type": "facebook"
+            },
+            {
+                "title": "Blog",
+                "type": "blog",
+                "url": "http://peyton-reynolds-author.tumblr.com/"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": ""
+            },
+            {
+                "id": "5623481.Peyton_Reynolds",
+                "type": "goodreads-author"
+            }
+        ],
+        "book": [
+            {
+                "id": "B009JWLHFW",
+                "type": "amazon"
+            },
+            {
+                "id": "21381242-auguries-of-dawn",
+                "type": "goodreads"
+            },
+            {
+                "id": "240979",
+                "type": "smashwords"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1394333620l/21381242.jpg",
         "reviews": [
             {
                 "title": "Bibliotropic",
