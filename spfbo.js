@@ -293,6 +293,19 @@ function onBookData(book) {
 			appendKeyUrls("Links", book.urls.book, summary);
 		}
 
+		// Add the Google search.
+		var q = '"';
+		var qTitle = book.title.replace("'", "");
+		var searchString = q + qTitle + '" "' + book.author + q;
+		var qString = encodeURIComponent(searchString);
+
+		appendKeyValue(
+			"Google",
+			"<a target='_new' href='https://google.com/search?q="
+				+ qString
+				+ "'>Google</a>",
+			summary);
+
 		// Add in the author information.
 		summaryRow = $("<div class='row'></div>");
 		cover = $("<div class='col-md-2'></div>");
