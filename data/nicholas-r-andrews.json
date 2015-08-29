@@ -1,13 +1,50 @@
 {
-    "author": "Nicholas R Andrews",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
-    "race": "Unknown",
+    "author": "Nicholas R. Andrews",
+    "gender": "Male",
+	"genderJustification": "Inferred from Goodreads author picture",
+    "nationality": "United States",
+	"nationalityJustification": "Goodreads about text",
+    "processed": true,
+    "race": "Caucasian",
+	"raceJustification": "Inferred from Goodreads picture",
     "reviewer": "The Speculative Book Review",
     "status": "Honorable",
     "title": "Secrets of the Stonechaser",
+	"summary": "<p>At one time, Nerris Palada had been one of the Thrillseekers, adventurers legendary throughout the continent of Tormalia. After years spent winning the hearts of the people and being immortalized in song and story, they went their separate ways. Now a mercenary, Nerris has become deeply involved in the civil war gripping the country of Yagolhan, mired in a very dark place within his own soul.</p><p>But when evil forces emerge, Nerris is driven out of his army and left to fend for himself. When a chance encounter reunites Nerris with his friends in their home village, the Thrillseekers embark on one last grand adventure. Joined by the mysterious, fledgling sorceress Len-Ahl, the fellowship soon finds itself on a mission much bigger than their own desires. What they seek could free the world from a dark threat that has gripped it since antiquity.</p><p>When the dust has settled between gods and godlings, kings and commoners, and magic and mystery, Nerris may sink back into darkness or rekindle the joy, happiness and love of life he once knew.</p>",
+	"about": "<p>Nicholas Andrews grew up in Dayton, Ohio. After graduating from Bellbrook High School in 2000, he went on to attend both Ohio University and Wright State University. He worked as a freelance video editor for various independent pro wrestling companies for three years, before returning to his first love of writing. He has been writing stories since he was ten years old. He is also the nephew of Ted Andrews (1952-2009), award winning new age author.</p>",
     "urls": {
+		"cover": "https://d.gr-assets.com/books/1384514101l/18806780.jpg",
+		"avatar": "https://d.gr-assets.com/authors/1357785502p8/4375788.jpg",
+		"book": [
+			{
+				"type": "goodreads",
+				"id": "18806780-secrets-of-the-stonechaser"
+			},
+			{
+				"type": "amazon",
+				"id": "B00GZHSDC4"
+			}
+		],
+		"author": [
+			{
+				"type": "website",
+				"title": "Nicholas Andrews",
+				"url": "http://www.authornicholasandrews.com/"
+			},
+			{
+				"type": "goodreads-author",
+				"id": "4375788.Nicholas_Andrews"
+			},
+			{
+				"type": "twitter",
+				"id": "nykkochet"
+			},
+			{
+				"type": "amazon-author",
+				"title": "Amazon Author",
+				"url": "http://www.amazon.com/Nicholas-Andrews/e/B005M017PU"
+			}
+		],
         "reviews": [
             {
                 "title": "Speculative Book Review",

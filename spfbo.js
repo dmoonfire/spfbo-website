@@ -82,10 +82,10 @@ function appendKeyUrls(label, urls, parent) {
 				break;
 				
 			case "amazon":
-				var a = "<a href='https://www.amazon.com/dp/" + url.id + "'>Amazon US</a>";
-				a += " <a href='https://www.amazon.co.uk/dp/" + url.id + "'>UK</a>";
+				var a = "<a href='https://www.amazon.com/dp/" + url.id + "&tag=dmoo-20'>Amazon US</a>";
+				a += " <a href='https://www.amazon.co.uk/dp/" + url.id + "&tag=dmoo-20'>UK</a>";
 				a += "<br/>"
-				urlText.append("<a href='https://www.amazon.com/dp/" + url.id + "'>https://www.amazon.com/dp/" + url.id + "</a><br/>");
+				urlText.append("<a href='https://www.amazon.com/dp/" + url.id + "&tag=dmoo-20'>https://www.amazon.com/dp/" + url.id + "</a><br/>");
 				values.append(a);
 				continue;
 				
