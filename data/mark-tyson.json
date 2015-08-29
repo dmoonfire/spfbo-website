@@ -1,13 +1,44 @@
 {
-    "author": "Mark Tyson",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
+    "author": "Mark E. Tyson",
+    "gender": "Male",
+	"genderJustification": "Goodreads about page",
+    "nationality": "United States",
+	"nationalityJustification": "Goodreads about page",
+	"about": "<p>Mark Tyson earned his B.A. in English from NYIT in 2007 followed by his M.A. in English from National University in 2009. He has been writing stories for as long as he can remember, which is a very long time! He writes in multiple genres but holds a special fascination with Science Fiction and Fantasy. He has two Daughters and one grandson. Mark Tyson currently lives in Texas.</p>",
+    "processed": true,
     "race": "Unknown",
     "reviewer": "Bibliotropic",
     "status": "Honorable",
     "title": "Defenders of the Sacred Land",
+	"summary": "<p>Dorenn Adair is a simple innkeeper’s son from the mountain village of Brookhaven. When Lady Shey, a potent wielder of magic, introduces herself into his daily life, Dorenn is thrust into a world he was taught to hate. Magic is stirring again in the Sacred Land, and with the help of his friends and some particularly powerful wielders, Dorenn must find a way to defeat the enemies closing in on him and save the Sacred Land from destructive forces.</p>",
     "urls": {
+		"book": [
+			{
+				"type": "goodreads",
+				"id": "21423433-defenders-of-the-sacred-land"
+			},
+			{
+				"type": "amazon",
+				"id": "B00IX33JRM"
+			}
+		],
+		"cover": "http://d.gr-assets.com/books/1394592174l/21423433.jpg",
+		"author": [
+			{
+				"type": "blog",
+				"title": "Mark E. Tyson",
+				"url": "http://marktyson.weebly.com/"
+			},
+			{
+				"type": "amazon-author",
+				"title": "Amazon Author",
+				"url": "http://www.amazon.com/Mark-Tyson/e/B00IXAUNXS/ref=ntt_athr_dp_pel_1"
+			},
+			{
+				"type": "goodreads-author",
+				"id": "8041053.Mark_Tyson"
+			}
+		],
         "reviews": [
             {
                 "title": "Bibliotropic",

@@ -82,10 +82,10 @@ function appendKeyUrls(label, urls, parent) {
 				break;
 				
 			case "amazon":
-				var a = "<a href='https://www.amazon.com/dp/" + url.id + "&tag=dmoo-20'>Amazon US</a>";
-				a += " <a href='https://www.amazon.co.uk/dp/" + url.id + "&tag=dmoo-20'>UK</a>";
+				var a = "<a target='_new' href='https://www.amazon.com/dp/" + url.id + "?tag=dmoo-20'>Amazon US</a>";
+				a += " <a target='_new' href='https://www.amazon.co.uk/dp/" + url.id + "?tag=dmoo-20'>UK</a>";
 				a += "<br/>"
-				urlText.append("<a href='https://www.amazon.com/dp/" + url.id + "&tag=dmoo-20'>https://www.amazon.com/dp/" + url.id + "</a><br/>");
+				urlText.append("<a target='_new' href='https://www.amazon.com/dp/" + url.id + "?tag=dmoo-20'>https://www.amazon.com/dp/" + url.id + "</a><br/>");
 				values.append(a);
 				continue;
 				
@@ -131,8 +131,8 @@ function appendKeyUrls(label, urls, parent) {
 		}
 		
 		// Add in the entry.
-		urlText.append("<a href='" + u + "'>" + u + "</a><br/>");
-		values.append("<a href='" + u + "'>" + t + "</a><br/>");
+		urlText.append("<a target='_new' href='" + u + "'>" + u + "</a><br/>");
+		values.append("<a target='_new' href='" + u + "'>" + t + "</a><br/>");
 	}
 }
 
