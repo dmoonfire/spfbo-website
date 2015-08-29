@@ -5,7 +5,7 @@
     "genderJustification": "Image from Goodreads",
     "nationality": "United States",
     "nationalityJustification": "Inferred from about text.",
-    "processed": false,
+    "processed": true,
     "race": "Caucasian",
     "raceJustification": "Image from Goodreads",
     "reviewer": "Bibliotropic",

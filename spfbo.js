@@ -94,6 +94,11 @@ function appendKeyUrls(label, urls, parent) {
 				t = "Smashwords";
 				break;
 				
+			case "tumblr":
+				u = "https//" + url.id + ".tumblr.com/";
+				t = "Tumblr";
+				break;
+
 			case "goodreads":
 				u = "https://www.goodreads.com/book/show/" + url.id;
 				t = "Goodreads";
