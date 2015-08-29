@@ -1,13 +1,50 @@
 {
-    "author": "J. D. Hallowell",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
-    "race": "Unknown",
+    "author": "J.D. Hallowell",
+    "gender": "Male",
+	"genderJustification": "Pronoun on Goodreads page",
+    "nationality": "United States",
+	"nationalityJustification": "Inferred from about on Goodreads",
+    "processed": true,
+    "race": "Caucasian",
+	"raceJustification": "Inferred from avatar image",
     "reviewer": "Beauty in Ruins",
     "status": "Honorable",
     "title": "Dragon Fate",
+	"summary": "<p>Dragon Fate, the debut novel by J.D. Hallowell, is a heroic fantasy adventure in the classic tradition of the genre. Delno Okonan is a young former soldier eager to put the swords and strife of war behind him, when a chance encounter leaves him inextricably entwined in a tangled web of dragons, magic, and intrigue, as he struggles to find his place among dragons and men, and stave off a plot by renegade dragon riders that threatens all he now holds dear.</p>",
+	"about": "<p>I'm a 50-ish father and husband who is fortunate enough to have lived an interesting and active life. I've had one two-book fantasy series, War of the Blades, published, and I have several other fantasy and SF projects in the works. I like to keep many irons in the fire at once, so my work experiences include such diverse occupations as automotive mechanic, cowboy, photographer, psychiatric tech, paralegal assistant, bouncer, and medical billing clerk. I studied martial arts for over 30 years. I've been a soldier and an emergency medical technician, and I served as the chief of a volunteer ambulance squad. I was a diamond courier for a while, and later owned a working kennel where I trained dogs for law enforcement as well as personal protection, and most recently, I've trained one service dog, for myself. I don't get around much now (I've been shot, stabbed, blown up, bludgeoned, poisoned, and even had harsh language directed toward me, if you can believe it, and it takes its toll), but I write whenever I can. I have pretty wide-ranging interests and hobbies, including, but not limited to, history, archery, paleontology, cooking, RPGs (the games, not the weapons) and making jewelry. I live on the Space Coast of Florida with my wife, my son, and my Great Dane service dog, until I can convince the rest of my family and friends to move to Arizona.</p>",
     "urls": {
+		"avatar": "http://d.gr-assets.com/authors/1394342950p8/5407284.jpg",
+		"book": [
+			{
+				"type": "goodreads",
+				"id": "15829015-dragon-fate"
+			},
+			{
+				"type": "amazon",
+				"id": "B006OT9IKO"
+			}
+		],
+		"cover": "http://d.gr-assets.com/books/1344994671l/15829015.jpg",
+		"author": [
+			{
+				"type": "blog",
+				"title": "J.D. Hallowell",
+				"url": "http://jdhallowell.blogspot.com/"
+			},
+			{
+				"type": "goodreads-author",
+				"id": "5407284.J_D_Hallowell"
+			},
+			{
+				"type": "facebook",
+				"id": "J.D.Hallowell"
+			},
+			{
+				"type": "amazon-author",
+				"title": "Amazon Author",
+				"url": "http://www.amazon.com/J.D.-Hallowell/e/B0082Q9348/ref=dp_byline_cont_ebooks_1"
+			}
+		],
         "reviews": [
             {
                 "title": "Beauty in Ruin",
