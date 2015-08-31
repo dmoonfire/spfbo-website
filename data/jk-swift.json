@@ -1,13 +1,51 @@
 {
-    "author": "JK  Swift",
-    "gender": "Unknown",
-    "nationality": "Unknown",
+    "author": "J.K. Swift",
+    "gender": "Male",
+	"genderJustification": "Goodreads author page",
+    "nationality": "Canadian",
+	"nationalityJustification": "Goodreads author page",
     "processed": false,
-    "race": "Unknown",
+    "race": "Caucasian",
+	"raceJustification": "Inferred from Goodread page.",
     "reviewer": "Bibliotropic",
     "status": "Honorable",
     "title": "Altdorf",
+	"summary": "<p>A wild land too mountainous to be tamed by plows...</p><p>A Duke of the Holy Roman Empire, his cunning overshadowed only by his ambition...</p><p>A young Priestess of the Old Religion, together with a charismatic outlaw, sparking a rebellion from deep within the forests...</p><p>And an ex-Hospitaller caught between them all.</p><p>'Re-imagining the William Tell legend--without William Tell.'</p><p>At the end of the thirteenth century, five hundred orphans and second sons are rounded up from villages in the Alpine countryside and sold to the Hospitaller Knights of St John. Trained to serve as Soldiers of Christ, they fight in eastern lands they know nothing about, for a cause they do not understand.</p><p>Thomas Schwyzer, released from his vows by the Grandmaster of the Hospitallers, returns to the land of his birth a stranger. Once a leader of men, and captain of the Order's most famous war galley, he now settles into the simple life of a ferryman. He believes this new role to be God's reward for years of faithful service fighting the Infidel in Outremer.</p><p>Seraina, considered a witch by most, a healer by some, is a young woman with a purpose. A Priestess of the Old Religion, and the last Druid disciple of the Helvetii Celts, she has been gifted by the Great Weave to see what others cannot. Her people need her guidance and protection now more than ever. For Duke Leopold of Habsburg, in his efforts to control the St. Gotthard Pass, builds a great Austrian fortress in Altdorf. Once finished, the Habsburg occupation will be complete, but the atrocities visited upon her people will have just begun.</p><p>Set in medieval Switzerland, ALTDORF, a novel of The Forest Knights, is the first book in a two-book series.</p>",
+	"about": "<p>J. K. Swift lives in Vancouver, Canada. He is the author of "The Forest Knights" series of novels which take place in medieval Switzerland. He has worked as an elementary school teacher, jailhouse guard, Japanese translator, log peeler, accountant, martial arts instructor, massage therapist, technical editor, and has called a few Bingo games. He gets his story ideas while traveling in Europe and wandering aimlessly along the streets and beaches of the Pacific Northwest.</p>",
     "urls": {
+		"cover": "https://d.gr-assets.com/books/1327983852l/13414217.jpg",
+		"avatar": "https://d.gr-assets.com/authors/1312333304p8/4967812.jpg",
+		"book": [
+			{
+				"type": "goodreads",
+				"id": "13414217-altdorf"
+			},
+			{
+				"type": "amazon",
+				"id": "B005TU1GKE"
+			},
+			{
+				"type": "website",
+				"title": "The Forest Knights",
+				"url": "http://theforestknights.com/"
+			}
+		],
+		"author": [
+			{
+				"type": "amazon-author",
+				"title": "Amazon Author",
+				"url": "http://www.amazon.com/J.-K.-Swift/e/B0056R8B26/ref=dp_byline_cont_ebooks_1"
+			},
+			{
+				"type": "website",
+				"title": "Website",
+				"url": "http://jkswift.com"
+			},
+			{
+				"type": "twitter",
+				"id": "jk_swift"
+			}
+		],
         "reviews": [
             {
                 "title": "Bibliotropic",

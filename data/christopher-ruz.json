@@ -1,13 +1,50 @@
 {
     "author": "Christopher Ruz",
-    "gender": "Unknown",
-    "nationality": "Unknown",
+    "gender": "Male",
+	"genderJustification": "About on Amazon",
+    "nationality": "Austrialian",
+	"nationalityJustification": "About page on Amazon",
     "processed": false,
-    "race": "Unknown",
+    "race": "Caucasian",
+	"raceJustification": "Inferred from avatar image.",
     "reviewer": "Fantasy Book Critic",
     "status": "Honorable",
     "title": "Century of Sand",
+	"summary": "<p>Richard and Ana are on the run.</p><p>As a young soldier, Richard led a rebellion that installed the King's sociopathic Magician as the new regent. Now, after forty years of watching his comrades vanish into the dungeons of Stonebridge Castle, Richard has fled the kingdom with his mute daughter in tow, escaping into the desert wastes where magic still boils in the clouds and demons walk the dunes inside the bodies of men.</p><p>The Magician isn't far behind, and he's brought a pet: the Culling, an undead stitched-together tracking dog with a taste for blood. But Richard has his own weapon, stolen from the Magician himself: the calcified heart of a demon, which he hopes to trade back to its original owner in exchange for sanctuary. What he doesn't know is that his daughter, Ana, is far more valuable than the stone. She was the last piece in the Magician's grand weapon, and he'll tear the desert in half to get her back...</p><p>Century of Sand is a 120,000 word novel, and the first book in an epic fantasy trilogy that follows Richard and Ana as they chase down legends and battle to stay one step ahead of the Magician. Murderous warlords, a priest with a dark past, and creatures torn from Richard's nightmares lie between him and salvation.</p>",
+	"about": "<p>Christopher Ruz was born in Hong Kong, raised in Vienna, and is now settled in Melbourne, Australia. Although he graduated in 2010 with a Bachelor of Industrial Design, his first love has always been writing. He's been published by Weaponizer, Labyrinth Inhabitant's Magazine and Birdville Magazine, and has won both the first Ergofiction Search Term Challenge and the first Birdville Impromptu Award.</p><p>Ruz now writes full time, splitting his attentions between his Century of Sand fantasy epic, his horror serial Rust, and his spy thrillers, which are published under the pseudonym D.D. Marks. His next release will be the second season of his ongoing horror serial, Rust.</p>",
     "urls": {
+		"cover": "https://d.gr-assets.com/books/1334797211l/13557444.jpg",
+		"avatar": "https://d.gr-assets.com/authors/1334802487p8/5151502.jpg",
+		"book": [
+			{
+				"type": "goodreads",
+				"id": "13557444-century-of-sand"
+			},
+			{
+				"type": "amazon",
+				"id": "B007NG8H7W"
+			}
+		],
+		"author": [
+			{
+				"type": "website",
+				"title": "Website",
+				"url": "http://www.ruzkin.com/"
+			},
+			{
+				"type": "goodreads-author",
+				"id": "5151502.Christopher_Ruz"
+			},
+			{
+				"type": "amazon-author",
+				"title": "Amazon Author",
+				"url": "http://www.amazon.com/Christopher-Ruz/e/B005IHVH20/ref=dp_byline_cont_ebooks_1"
+			},
+			{
+				"type": "twitter",
+				"id": "ruzkin"
+			}
+		],
         "reviews": [
             {
                 "title": "Fantasy Book Critic",

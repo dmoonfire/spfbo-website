@@ -1,0 +1,35 @@
+	"summary": "<p></p>",
+	"about": "<p></p>",
+    "urls": {
+		"cover": "",
+		"avatar": "",
+		"book": [
+			{
+				"type": "goodreads",
+				"id": ""
+			},
+			{
+				"type": "amazon",
+				"id": ""
+			}
+		],
+		"author": [
+			{
+				"type": "website",
+				"title": "",
+				"url": ""
+			},
+			{
+				"type": "goodreads-author",
+				"id": ""
+			},
+			{
+				"type": "amazon-author",
+				"title": "Amazon Author",
+				"url": ""
+			},
+			{
+				"type": "twitter",
+				"id": ""
+			}
+		],
