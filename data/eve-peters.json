@@ -1,13 +1,32 @@
 {
     "author": "Eve Peters",
-    "gender": "Unknown",
+    "gender": "Female",
     "nationality": "Unknown",
     "processed": false,
     "race": "Unknown",
     "reviewer": "Bookworm Blues",
     "status": "Honorable",
     "title": "Children of the Fallen",
+	"genderJustification": "Inferred from name.",
+	"summary": "<p>Daniel Smith has believed for the entirety of his life that he is clinically insane. During that time, he has managed his condition with a cocktail of anti-psychotics; however when he is separated from them on the weekend of his 25th birthday, his reality is ripped apart in an unexpected way. A strange visitor reveals a secret that Daniel cannot deny and it thrusts him into a journey that will test the limits of his sanity and resolve. Mental health becomes the last of Daniel’s worries as, for the first time in his life, he must face dangers outside of himself.</p>",
     "urls": {
+		"cover": "http://d.gr-assets.com/books/1425238556l/25049365.jpg",
+		"book": [
+			{
+				"type": "goodreads",
+				"id": "25049365-children-of-the-fallen"
+			},
+			{
+				"type": "amazon",
+				"id": "1508461368"
+			}
+		],
+		"author": [
+			{
+				"type": "goodreads-author",
+				"id": "13558462.Eve_Peters"
+			}
+		],
         "reviews": [
             {
                 "title": "Bookworm Blues",

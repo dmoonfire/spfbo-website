@@ -1,3 +1,6 @@
+	"genderJustification": "",
+	"nationalityJustification": "",
+	"raceJustificaiton": "",
 	"summary": "<p></p>",
 	"about": "<p></p>",
     "urls": {

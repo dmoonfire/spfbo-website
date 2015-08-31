@@ -1,13 +1,49 @@
 {
     "author": "Blair MacGregor",
-    "gender": "Unknown",
+    "gender": "Female",
     "nationality": "Unknown",
     "processed": false,
-    "race": "Unknown",
+    "race": "Caucasian",
     "reviewer": "Beauty in Ruins",
     "status": "Honorable",
     "title": "Sand of Bone",
+	"genderJustification": "Pronoun in Amazon about page.",
+	"raceJustificaiton": "Inferred from image.",
+	"summary": "<p>Syrina – descendent of the gods, one of the Velshaan who rule the deserts and deltas, cast out by her bloodkin for daring to reject their intrigues. </p><p>They thought exile to Salt Hold – surrounded by parched earth and outcast Blades who despise her – would end her defiance. But Salt is safer than the grand alcazar of home when she uncovers the secrets of commanding sand, fire, water, wind – the power mixed with ambition that nearly destroyed her bloodkin in generations past. </p><p>Pyrius was the desert's most respected Blade Commander until the bloodkin sentenced him into Salt. But he finds a way to keep his Blade vows while still exacting revenge: serve the exiled Velshaan Syrina. When her bloodkin's threats become actions, Pyrius sets a plan in motion that will either prevent the looming civil war simmering in the desert's heat or see them all fed to the sands for sedition. </p><p>Because Syrina's ability to touch the desert's deepest elements is still fickle and raw – too weak to defeat her bloodkin, strong enough her bloodkin want her stopped before she learns more. The gods demand a soul in trade, and the fate of the living rests upon the redemption of the dead. </p>",
+	"about": "<p>Blair writes fantasy -- adventurous, epic, and dark. Her debut novel Sword and Chant was included in the first Indie Fantasy Bundle through StoryBundle, and her more recent novel Sand of Bone was included in the 2015 Fantasy Bundle.</p><p>Her short fiction has appeared in Cicada and Writers of the Future. She is a graduate of Viable Paradise and a member of SFWA.</p><p>She also teaches and speaks on a variety of topics -- martial arts, education, wellness, failure and resilience -- for audiences ranging from a couple dozen to a few thousand. Most evenings, you can find her teaching karate at her local dojo. In between all that, Blair hikes and camps, grows organic produce, and indulges in the occasional ziplining excursion. She loves traveling to places both wild and domesticated. She currently lives in rural Indiana with her one son and two goofy dogs.</p>",
     "urls": {
+		"cover": "http://d.gr-assets.com/books/1408469276l/22999494.jpg",
+		"avatar": "http://d.gr-assets.com/authors/1429325139p8/2918456.jpg",
+		"book": [
+			{
+				"type": "goodreads",
+				"id": "22999494-sand-of-bone"
+			},
+			{
+				"type": "amazon",
+				"id": "B00MRCCG9M"
+			}
+		],
+		"author": [
+			{
+				"type": "website",
+				"title": "Blair MacGregor",
+				"url": "http://blairmacgregorbooks.com/"
+			},
+			{
+				"type": "goodreads-author",
+				"id": "2918456.Blair_MacGregor"
+			},
+			{
+				"type": "amazon-author",
+				"title": "Amazon Author",
+				"url": "http://www.amazon.com/Blair-MacGregor/e/B00AHD98DK/ref=dp_byline_cont_ebooks_1"
+			},
+			{
+				"type": "twitter",
+				"id": "blairmacg"
+			}
+		],
         "reviews": [
             {
                 "title": "Beauty in Ruin",
