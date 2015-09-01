@@ -1,10 +1,48 @@
 {
     "author": "Tavish Kaeden",
-    "gender": "Unknown",
+    "gender": "Male",
+    "genderJustification": "Goodreads author page.",
     "nationality": "Unknown",
-    "processed": false,
+    "processed": true,
     "race": "Unknown",
     "reviewer": "Lynn's Books",
-    "status": "Considering",
-    "title": "The Weight of a Crown"
+    "status": "Finalist",
+    "summary": "<p>THE WEIGHT OF A CROWN</p><p>Thousands dream of it; still more die for it. Yet, how many can truly bear it?</p><p>After centuries of bitter conflict the realm of Esmoria is at last united under the banner of a single king. On the surface the realm appears to be enjoying its first taste of peace, but lingering resentment and the untimely death of the new ruler threaten to return Esmoria to political chaos.</p><p>Meanwhile, in the farthest reaches of the frozen north, a dethroned monarch's plot for revenge awakens a long-forgotten evil. As darkness and treachery descend upon the realm, a young escapee from a forced labor camp, a disenfranchised soldier, and an epileptic engraver's apprentice find themselves at the heart of the troubles.</p>",
+    "title": "The Weight of a Crown",
+    "urls": {
+        "author": [
+            {
+                "title": "Tavish Kaeden",
+                "type": "website",
+                "url": "http://www.tavishkaeden.com/"
+            },
+            {
+                "id": "5136472.Tavish_Kaeden",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Tavish-Kaeden/e/B005HAX5M8/ref=dp_byline_cont_ebooks_1"
+            }
+        ],
+        "book": [
+            {
+                "id": "26154334-the-weight-of-a-crown",
+                "type": "goodreads"
+            },
+            {
+                "id": "B005H40BXU",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1440375898l/26154334.jpg",
+        "reviews": [
+            {
+                "title": "Lynn's Book",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/08/20/spfbo-finalist-the-weight-of-a-crown-by-tavish-kaeden/"
+            }
+        ]
+    }
 }

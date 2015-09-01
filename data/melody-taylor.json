@@ -5,6 +5,15 @@
     "processed": false,
     "race": "Unknown",
     "reviewer": "Lynn's Books",
-    "status": "Considering",
-    "title": "In the Dark"
+    "status": "Mentioned",
+    "title": "In the Dark",
+    "urls": {
+        "reviews": [
+            {
+                "title": "Lynn's Books",
+                "type": "review",
+                "url": "https://lynnsbooks.wordpress.com/2015/08/19/spfbo-finalist/"
+            }
+        ]
+    }
 }
