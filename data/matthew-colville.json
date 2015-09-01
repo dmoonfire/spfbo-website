@@ -6,7 +6,7 @@
     "processed": true,
     "race": "Unknown",
     "reviewer": "Fantasy-Faction",
-    "status": "Honorable",
+    "status": "Finalist",
     "summary": "<p>After years spent in the inn he bought and never opened, Heden is drawn out, and sent into a dark forest to investigate the death of a knight.</p><p>Nothing is what it seems. Why was Heden chosen for this mission? Who killed the knight and why? Why won't anyone talk to him? As the Green Order awaits Heden's final judgement, he finds his morality, perspective, and sense of self are each challenged and then destroyed.</p><p>Perhaps nothing, even right and wrong, can survive in the haunted wood.</p>",
     "title": "Priest",
     "urls": {
@@ -44,6 +44,13 @@
                 "type": "amazon"
             }
         ],
-        "cover": "http://d.gr-assets.com/books/1300572163l/10806559.jpg"
+        "cover": "http://d.gr-assets.com/books/1300572163l/10806559.jpg",
+		"review": [
+			{
+				"type": "review",
+				"title": "Fantasy Faction",
+				"url": "http://fantasy-faction.com/2015/priest-by-matthew-colville-fantasy-factions-spfbo-winner"
+			}
+		]
     }
 }
