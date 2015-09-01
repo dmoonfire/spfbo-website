@@ -1,50 +1,50 @@
 {
+    "about": "<p>Domino Finn is an entertainment industry veteran, a contributor to award-winning video games, and a Contemporary Fantasy author. Whether writing gritty police procedurals with werewolves or chronicling the exploits of an irreverent partier who sees ghosts, his stories are notable for treating weighty issues with a supernatural veneer. If Domino could shout one message to the world, it would be that it's okay to take fantasy seriously.</p>",
     "author": "Domino Finn",
     "gender": "Male",
+    "genderJustification": "About page from Goodreads.",
     "nationality": "United States",
+    "nationalityJustification": "About page from Goodreads.",
     "processed": false,
     "race": "Caucasian",
+    "raceJustificaiton": "Inferred from Goodreads avatar.",
     "reviewer": "Fantasy Book Critic",
     "status": "Honorable",
+    "summary": "<p>For Dante Butcher, Los Angeles ghost hunting isn't a business, it's a pastime. Going to clubs, knocking back a few drinks, even taking the occasional punch are all in a night's work. But cool confidence doesn't prepare Dante for what begins in a piss-soaked bathroom. The Dead Side opens up a whole new world to him, and for the first time, it's the ghosts that are hunting Dante</p>",
     "title": "Shade City",
-	"genderJustification": "About page from Goodreads.",
-	"nationalityJustification": "About page from Goodreads.",
-	"raceJustificaiton": "Inferred from Goodreads avatar.",
-	"summary": "<p>For Dante Butcher, Los Angeles ghost hunting isn't a business, it's a pastime. Going to clubs, knocking back a few drinks, even taking the occasional punch are all in a night's work. But cool confidence doesn't prepare Dante for what begins in a piss-soaked bathroom. The Dead Side opens up a whole new world to him, and for the first time, it's the ghosts that are hunting Dante</p>",
-	"about": "<p>Domino Finn is an entertainment industry veteran, a contributor to award-winning video games, and a Contemporary Fantasy author. Whether writing gritty police procedurals with werewolves or chronicling the exploits of an irreverent partier who sees ghosts, his stories are notable for treating weighty issues with a supernatural veneer. If Domino could shout one message to the world, it would be that it's okay to take fantasy seriously.</p>",
     "urls": {
-		"cover": "http://d.gr-assets.com/books/1407787598l/22725188.jpg",
-		"avatar": "http://d.gr-assets.com/authors/1394487436p8/8035821.jpg",
-		"book": [
-			{
-				"type": "goodreads",
-				"id": "22725188-shade-city"
-			},
-			{
-				"type": "amazon",
-				"id": "0692242953"
-			}
-		],
-		"author": [
-			{
-				"type": "website",
-				"title": "Domino Finn",
-				"url": "http://dominofinn.com/"
-			},
-			{
-				"type": "goodreads-author",
-				"id": "8035821.Domino_Finn"
-			},
-			{
-				"type": "amazon-author",
-				"title": "Amazon Author",
-				"url": "http://www.amazon.com/Domino-Finn/e/B00IWM4WZM/ref=dp_byline_cont_book_1"
-			},
-			{
-				"type": "twitter",
-				"id": "DominoFinn"
-			}
-		],
+        "author": [
+            {
+                "title": "Domino Finn",
+                "type": "website",
+                "url": "http://dominofinn.com/"
+            },
+            {
+                "id": "8035821.Domino_Finn",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Domino-Finn/e/B00IWM4WZM/ref=dp_byline_cont_book_1"
+            },
+            {
+                "id": "DominoFinn",
+                "type": "twitter"
+            }
+        ],
+        "avatar": "http://d.gr-assets.com/authors/1394487436p8/8035821.jpg",
+        "book": [
+            {
+                "id": "22725188-shade-city",
+                "type": "goodreads"
+            },
+            {
+                "id": "0692242953",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1407787598l/22725188.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Critic",

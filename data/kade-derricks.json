@@ -1,5 +1,4 @@
 {
-	"summary": "<p>Paladin, Traitor, Outcast, Mercenary…Dain Gladstone has been all of these. From childhood he’s been groomed for battle and trained in the Light. When war came he was branded a traitor and exiled for a treasonous act of mercy. To make his way in the world Dain has sold his skills to the highest bidder. But now he’s grown tired of war, tired of fighting for causes not his own, and he’s got a plan.</p><p>Galena…rumors fly of a great fortune there, one buried beneath the snow-covered mountains, one vast enough to purchase an entire kingdom. Dain isn’t the only one seeking Galena’s riches. Men and elves and orcs all have plans of their own.</p><p>Fortune has a way of twisting fate and turning the finest of plans on their heads.</p>",
     "author": "Kade Derricks",
     "gender": "Unknown",
     "nationality": "Unknown",
@@ -7,35 +6,36 @@
     "race": "Unknown",
     "reviewer": "Fantasy Book Review",
     "status": "Honorable",
+    "summary": "<p>Paladin, Traitor, Outcast, Mercenary\u2026Dain Gladstone has been all of these. From childhood he\u2019s been groomed for battle and trained in the Light. When war came he was branded a traitor and exiled for a treasonous act of mercy. To make his way in the world Dain has sold his skills to the highest bidder. But now he\u2019s grown tired of war, tired of fighting for causes not his own, and he\u2019s got a plan.</p><p>Galena\u2026rumors fly of a great fortune there, one buried beneath the snow-covered mountains, one vast enough to purchase an entire kingdom. Dain isn\u2019t the only one seeking Galena\u2019s riches. Men and elves and orcs all have plans of their own.</p><p>Fortune has a way of twisting fate and turning the finest of plans on their heads.</p>",
     "title": "Paladin's Redemption",
     "urls": {
-		"cover": "http://d.gr-assets.com/books/1428517854l/24980532.jpg",
-		"book": [
-			{
-				"type": "goodreads",
-				"id": "24980532-paladin-s-redemption"
-			},
-			{
-				"type": "amazon",
-				"id": "B00TTDWWZ0"
-			}
-		],
-		"author": [
-			{
-				"type": "blog",
-				"title": "Kade Derricks Fantasy Author",
-				"url": "http://www.kadederricks.com/"
-			},
-			{
-				"type": "goodreads-author",
-				"id": "13527257.Kade_Derricks"
-			},
-			{
-				"type": "amazon-author",
-				"title": "Amazon Author",
-				"id": "http://www.amazon.com/Kade-Derricks/e/B00TUSRATM/ref=dp_byline_cont_ebooks_1"
-			}
-		],
+        "author": [
+            {
+                "title": "Kade Derricks Fantasy Author",
+                "type": "blog",
+                "url": "http://www.kadederricks.com/"
+            },
+            {
+                "id": "13527257.Kade_Derricks",
+                "type": "goodreads-author"
+            },
+            {
+                "id": "http://www.amazon.com/Kade-Derricks/e/B00TUSRATM/ref=dp_byline_cont_ebooks_1",
+                "title": "Amazon Author",
+                "type": "amazon-author"
+            }
+        ],
+        "book": [
+            {
+                "id": "24980532-paladin-s-redemption",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00TTDWWZ0",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1428517854l/24980532.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Review",

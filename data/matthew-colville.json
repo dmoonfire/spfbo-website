@@ -1,49 +1,49 @@
 {
     "author": "Matthew Colville",
     "gender": "Male",
-	"genderJustification": "Listed on Goodreads author page",
+    "genderJustification": "Listed on Goodreads author page",
     "nationality": "Unknown",
     "processed": true,
     "race": "Unknown",
     "reviewer": "Fantasy-Faction",
     "status": "Honorable",
+    "summary": "<p>After years spent in the inn he bought and never opened, Heden is drawn out, and sent into a dark forest to investigate the death of a knight.</p><p>Nothing is what it seems. Why was Heden chosen for this mission? Who killed the knight and why? Why won't anyone talk to him? As the Green Order awaits Heden's final judgement, he finds his morality, perspective, and sense of self are each challenged and then destroyed.</p><p>Perhaps nothing, even right and wrong, can survive in the haunted wood.</p>",
     "title": "Priest",
-	"summary": "<p>After years spent in the inn he bought and never opened, Heden is drawn out, and sent into a dark forest to investigate the death of a knight.</p><p>Nothing is what it seems. Why was Heden chosen for this mission? Who killed the knight and why? Why won't anyone talk to him? As the Green Order awaits Heden's final judgement, he finds his morality, perspective, and sense of self are each challenged and then destroyed.</p><p>Perhaps nothing, even right and wrong, can survive in the haunted wood.</p>",
-	"urls": {
-		"cover": "http://d.gr-assets.com/books/1300572163l/10806559.jpg",
-		"book": [
-			{
-				"type": "goodreads",
-				"id": "10806559-priest"
-			},
-			{
-				"type": "amazon",
-				"id": "B003OIBG44"
-			}
-		],
-		"author": [
-			{
-				"type": "blog",
-				"title": "Squaremans",
-				"url": "http://squaremans.com/"
-			},
-			{
-				"type": "amazon-author",
-				"title": "Amazon Author",
-				"url": "http://www.amazon.com/Matthew-Colville/e/B004TS39K2/"
-			},
-			{
-				"type": "twitter",
-				"id": "mattcolville"
-			},
-			{
-				"type": "goodreads-author",
-				"id": "2790379.Matthew_Colville"
-			},
-			{
-				"type": "facebook",
-				"id": "pages/Matthew-Colville-Author/117741198253545"
-			}
-		]
-	}
+    "urls": {
+        "author": [
+            {
+                "title": "Squaremans",
+                "type": "blog",
+                "url": "http://squaremans.com/"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Matthew-Colville/e/B004TS39K2/"
+            },
+            {
+                "id": "mattcolville",
+                "type": "twitter"
+            },
+            {
+                "id": "2790379.Matthew_Colville",
+                "type": "goodreads-author"
+            },
+            {
+                "id": "pages/Matthew-Colville-Author/117741198253545",
+                "type": "facebook"
+            }
+        ],
+        "book": [
+            {
+                "id": "10806559-priest",
+                "type": "goodreads"
+            },
+            {
+                "id": "B003OIBG44",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1300572163l/10806559.jpg"
+    }
 }

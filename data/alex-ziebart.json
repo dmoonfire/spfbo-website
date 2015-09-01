@@ -1,4 +1,5 @@
 {
+    "about": "<p></p>",
     "author": "Alex Ziebart",
     "gender": "Unknown",
     "nationality": "Unknown",
@@ -6,37 +7,36 @@
     "race": "Unknown",
     "reviewer": "Fantasy Book Critic",
     "status": "Honorable",
+    "summary": "<p>Calidus Varin, a member of an ancient order of elven demon hunters, has lived in the shadow of his master, Tullius the Black, for the better part of a century. Varin coasts on their combined fame, earning a reputation for recklessness, a taste for wine and women, and an irresistible inclination for boasting about his precious few exploits.</p><p>When a routine hunt on the city's outskirts demands the execution of an innocent child, Varin is forced to reconsider his master\u2019s teachings (and sanity). By delaying the execution and investigating a subsequent rash of inexplicable demon infestations, Varin stumbles upon an apocalyptic conspiracy that leads straight to his temple's doorstep. Everyone he knows becomes suspect. His life\u2014and the lives of his friends\u2014are thrust into mortal peril.</p><p>Faced with the sudden arrival of a cunning Imperial magus, Varin enlists the aid of his closest friends: a wizard, a forest spirit, a skilled huntress, and a goddess. He also might have made an alliance with the creatures he\u2019s sworn to dispatch. As the city threatens to sink into the abyss, Varin must fight to protect the city he loves\u2014or die trying.</p>",
     "title": "Blood and Masks",
-	"summary": "<p>Calidus Varin, a member of an ancient order of elven demon hunters, has lived in the shadow of his master, Tullius the Black, for the better part of a century. Varin coasts on their combined fame, earning a reputation for recklessness, a taste for wine and women, and an irresistible inclination for boasting about his precious few exploits.</p><p>When a routine hunt on the city's outskirts demands the execution of an innocent child, Varin is forced to reconsider his master’s teachings (and sanity). By delaying the execution and investigating a subsequent rash of inexplicable demon infestations, Varin stumbles upon an apocalyptic conspiracy that leads straight to his temple's doorstep. Everyone he knows becomes suspect. His life—and the lives of his friends—are thrust into mortal peril.</p><p>Faced with the sudden arrival of a cunning Imperial magus, Varin enlists the aid of his closest friends: a wizard, a forest spirit, a skilled huntress, and a goddess. He also might have made an alliance with the creatures he’s sworn to dispatch. As the city threatens to sink into the abyss, Varin must fight to protect the city he loves—or die trying.</p>",
-	"about": "<p></p>",
     "urls": {
-		"cover": "https://d.gr-assets.com/books/1422660538l/24766442.jpg",
-		"avatar": "",
-		"book": [
-			{
-				"type": "goodreads",
-				"id": "24766442-blood-and-masks"
-			},
-			{
-				"type": "amazon",
-				"id": "B00SYZRZFG"
-			}
-		],
-		"author": [
-			{
-				"type": "goodreads-author",
-				"id": "13416212.Alex_Ziebart"
-			},
-			{
-				"type": "amazon-author",
-				"title": "Amazon Author",
-				"url": "http://www.amazon.com/Alex-Ziebart/e/B00T18OVJS/ref=dp_byline_cont_ebooks_1"
-			},
-			{
-				"type": "twitter",
-				"id": "AlexZiebart"
-			}
-		],
+        "author": [
+            {
+                "id": "13416212.Alex_Ziebart",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Alex-Ziebart/e/B00T18OVJS/ref=dp_byline_cont_ebooks_1"
+            },
+            {
+                "id": "AlexZiebart",
+                "type": "twitter"
+            }
+        ],
+        "avatar": "",
+        "book": [
+            {
+                "id": "24766442-blood-and-masks",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00SYZRZFG",
+                "type": "amazon"
+            }
+        ],
+        "cover": "https://d.gr-assets.com/books/1422660538l/24766442.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Critic",

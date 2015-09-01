@@ -1,51 +1,51 @@
 {
+    "about": "<p>Masha du Toit is an artist and writer. She reads far too much, draws pictures that tell stories and writes stories about every-day magic. She lives with her musician husband Brendon and dogs Anna and Pippin in a sunny house in Woodstock, Cape Town, South Africa.</p>",
     "author": "Masha du Toit",
     "gender": "Female",
+    "genderJustification": "About page on Amazon.",
     "nationality": "South African",
+    "nationalityJustification": "About page on Amazon.",
     "processed": false,
     "race": "Caucasian",
+    "raceJustificaiton": "Inferred from avatar image.",
     "reviewer": "The Speculative Book Review",
     "status": "Honorable",
+    "summary": "<p>Gia's brother Nico is different from other boys. And being different can be dangerous in Gia's world. Cape Town is no longer the haven for magical refugees that it once was. The Purists want to get rid of all magic and the newspapers are full of dreadful stories about the Belle Gente, the magical terrorists.</p><p>None of this concerns Gia, until the Special Branch\u2014 police who investigate the illegal use of magic\u2014 come knocking at her door, looking for Nico. When Gia turns to her parents for help, she finds only more secrets. Then she realises that she was the one who put her brother in danger. </p>",
     "title": "Crooks and Straights",
-	"genderJustification": "About page on Amazon.",
-	"nationalityJustification": "About page on Amazon.",
-	"raceJustificaiton": "Inferred from avatar image.",
-	"summary": "<p>Gia's brother Nico is different from other boys. And being different can be dangerous in Gia's world. Cape Town is no longer the haven for magical refugees that it once was. The Purists want to get rid of all magic and the newspapers are full of dreadful stories about the Belle Gente, the magical terrorists.</p><p>None of this concerns Gia, until the Special Branch— police who investigate the illegal use of magic— come knocking at her door, looking for Nico. When Gia turns to her parents for help, she finds only more secrets. Then she realises that she was the one who put her brother in danger. </p>",
-	"about": "<p>Masha du Toit is an artist and writer. She reads far too much, draws pictures that tell stories and writes stories about every-day magic. She lives with her musician husband Brendon and dogs Anna and Pippin in a sunny house in Woodstock, Cape Town, South Africa.</p>",
     "urls": {
-		"cover": "http://d.gr-assets.com/books/1397922757l/21948056.jpg",
-		"avatar": "http://d.gr-assets.com/authors/1354112174p8/5043801.jpg",
-		"book": [
-			{
-				"type": "goodreads",
-				"id": "21948056-crooks-and-straights"
-			},
-			{
-				"type": "amazon",
-				"id": "B00JNLJ8LY"
-			}
-		],
-		"author": [
-			{
-				"type": "website",
-				"title": "Masha",
-				"url": "http://mashadutoit.com/"
-			},
-			{
-				"type": "website",
-				"title": "Masha",
-				"url": "http://masha.co.za"
-			},
-			{
-				"type": "goodreads-author",
-				"id": "5043801.Masha_du_Toit"
-			},
-			{
-				"type": "amazon-author",
-				"title": "Amazon Author",
-				"url": "http://www.amazon.com/Masha-du-Toit/e/B005CQ8IJ2/ref=dp_byline_cont_ebooks_1"
-			}
-		],
+        "author": [
+            {
+                "title": "Masha",
+                "type": "website",
+                "url": "http://mashadutoit.com/"
+            },
+            {
+                "title": "Masha",
+                "type": "website",
+                "url": "http://masha.co.za"
+            },
+            {
+                "id": "5043801.Masha_du_Toit",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Masha-du-Toit/e/B005CQ8IJ2/ref=dp_byline_cont_ebooks_1"
+            }
+        ],
+        "avatar": "http://d.gr-assets.com/authors/1354112174p8/5043801.jpg",
+        "book": [
+            {
+                "id": "21948056-crooks-and-straights",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00JNLJ8LY",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1397922757l/21948056.jpg",
         "reviews": [
             {
                 "title": "Speculative Book Review",

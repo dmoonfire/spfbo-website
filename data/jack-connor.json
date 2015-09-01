@@ -1,44 +1,44 @@
 {
     "author": "Jack Connor",
     "gender": "Male",
-	"genderJustification": "Inferred from Facebook image",
+    "genderJustification": "Inferred from Facebook image",
     "nationality": "Unknown",
     "processed": true,
     "race": "Caucasian",
-	"raceJustification": "Inferred from Facebook image",
+    "raceJustification": "Inferred from Facebook image",
     "reviewer": "Fantasy Book Review",
     "status": "Honorable",
+    "summary": "<p>A thousand years ago, the sea began to change, and the change spread.</p><blockquote><p>Now the boiling, toxic, lightning-wreathed Atomic Sea has encompassed every ocean on the planet, and the creatures that live in it have become mutated and unnatural. The sea's taint can infect any human who comes in contact with it or with unprocessed seafood, killing them . . . or altering them. No one knows why the sea has become this way or what it portends, only that it's irrevocably changed the world.</p><p>Meanwhile, world war has erupted, and the small country of Ghenisa, like many others, is tottering on the brink of collapse under the onslaught of the Empire of Octung. Middle-aged widower Dr. Francis Avery is aboard a military whaling ship far out on the Atomic Sea when a series of murders onboard propels him down a rabbit-hole of danger and terror unlike any other.</p><p>Soon he becomes aware of a spy on the ship, but that's just the beginning. With the help of the grizzled whaler Janx and a mysterious woman named Layanna, he will embark on an epic quest to save Ghenisa from Octung and unravel the secrets of the Atomic Sea.</p></blockquote><p>This is the opening volume of a unique sci fi adventure / epic fantasy series set in a world unlike any you've ever seen before. Welcome to the world of the Atomic Sea.</p>",
     "title": "The Atomic Sea",
-	"summary": "<p>A thousand years ago, the sea began to change, and the change spread.</p><blockquote><p>Now the boiling, toxic, lightning-wreathed Atomic Sea has encompassed every ocean on the planet, and the creatures that live in it have become mutated and unnatural. The sea's taint can infect any human who comes in contact with it or with unprocessed seafood, killing them . . . or altering them. No one knows why the sea has become this way or what it portends, only that it's irrevocably changed the world.</p><p>Meanwhile, world war has erupted, and the small country of Ghenisa, like many others, is tottering on the brink of collapse under the onslaught of the Empire of Octung. Middle-aged widower Dr. Francis Avery is aboard a military whaling ship far out on the Atomic Sea when a series of murders onboard propels him down a rabbit-hole of danger and terror unlike any other.</p><p>Soon he becomes aware of a spy on the ship, but that's just the beginning. With the help of the grizzled whaler Janx and a mysterious woman named Layanna, he will embark on an epic quest to save Ghenisa from Octung and unravel the secrets of the Atomic Sea.</p></blockquote><p>This is the opening volume of a unique sci fi adventure / epic fantasy series set in a world unlike any you've ever seen before. Welcome to the world of the Atomic Sea.</p>",
     "urls": {
-		"cover": "https://jackconner.files.wordpress.com/2014/12/theatomicsea_1563x2500-copy.jpg",
-		"book": [
-			{
-				"type": "amazon",
-				"id": "B00QH3SE0C"
-			}
-		],
-		"author": [
-			{
-				"type": "blog",
-				"title": "jackconner",
-				"url": "https://jackconner.wordpress.com/"
-			},
-			{
-				"type": "twitter",
-				"id": "jackconnerbooks"
-			},
-			{
-				"type": "facebook",
-				"id": "jack.conner.98"
-			},
-			{
-				"type": "amazon-author",
-				"title": "Amazon Author",
-				"url": "http://www.amazon.com/Jack-Conner/e/B00BNZ17F8"
-			}
-		],
-		"avatar": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/p320x320/11707477_664708966998441_7635467316091667618_n.jpg?oh=23fc0881aace09aa26b9078fd1f32964&oe=5670D3CC&__gda__=1450639025_a93f49714b0b65918ab05a9eb8ca26fc",
+        "author": [
+            {
+                "title": "jackconner",
+                "type": "blog",
+                "url": "https://jackconner.wordpress.com/"
+            },
+            {
+                "id": "jackconnerbooks",
+                "type": "twitter"
+            },
+            {
+                "id": "jack.conner.98",
+                "type": "facebook"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Jack-Conner/e/B00BNZ17F8"
+            }
+        ],
+        "avatar": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/p320x320/11707477_664708966998441_7635467316091667618_n.jpg?oh=23fc0881aace09aa26b9078fd1f32964&oe=5670D3CC&__gda__=1450639025_a93f49714b0b65918ab05a9eb8ca26fc",
+        "book": [
+            {
+                "id": "B00QH3SE0C",
+                "type": "amazon"
+            }
+        ],
+        "cover": "https://jackconner.files.wordpress.com/2014/12/theatomicsea_1563x2500-copy.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Review",

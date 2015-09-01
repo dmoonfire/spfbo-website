@@ -1,48 +1,48 @@
 {
+    "about": "<p>I live in forest-filled southern Indiana. I publish my medieval Fantasy under Daniel Ionson and my philosophy (etc.) under Daniel Jones .</p>",
     "author": "Daniel Ionson",
     "gender": "Male",
-	"genderJustification": "About page from Goodreads.",
+    "genderJustification": "About page from Goodreads.",
     "nationality": "United States",
-	"nationalityJustification": "About page from Goodreads.",
+    "nationalityJustification": "About page from Goodreads.",
     "processed": false,
     "race": "Unknown",
     "reviewer": "The Fictional Hangout",
     "status": "Honorable",
+    "summary": "<p>~Dark Age Fantasy shrouded in mystery and horror~</p><p>Fear erupts in the nation of Gaescea when Seer Mecas returns heralding a cryptic doom, and Kaemen and his fellow warrior-elites, the Wolfhounds, make ready for war.</p><p>But Kaemen discovers that the kingdom\u2019s preparations were for naught when he awakes in a realm far more harrowing than the battlefield, for they have crossed over into the Land of the Dead.</p><p>Now Kaemen must fight for the salvation of Gaescea, knowing all the while that he is being hunted by damnation.</p>",
     "title": "After Life",
-	"summary": "<p>~Dark Age Fantasy shrouded in mystery and horror~</p><p>Fear erupts in the nation of Gaescea when Seer Mecas returns heralding a cryptic doom, and Kaemen and his fellow warrior-elites, the Wolfhounds, make ready for war.</p><p>But Kaemen discovers that the kingdom’s preparations were for naught when he awakes in a realm far more harrowing than the battlefield, for they have crossed over into the Land of the Dead.</p><p>Now Kaemen must fight for the salvation of Gaescea, knowing all the while that he is being hunted by damnation.</p>",
-	"about": "<p>I live in forest-filled southern Indiana. I publish my medieval Fantasy under Daniel Ionson and my philosophy (etc.) under Daniel Jones .</p>",
     "urls": {
-		"cover": "https://d.gr-assets.com/books/1402349685l/22449471.jpg",
-		"author": [
-			{
-				"type": "goodreads-author",
-				"id": "7204487.Daniel_Ionson"
-			},
-			{
-				"type": "facebook",
-				"id": "daniel.ionson"
-			},
-			{
-				"type": "blog",
-				"title": "Musings on the Craft of Writing",
-				"url": "https://danielionson.wordpress.com/"
-			},
-			{
-				"type": "amazon-author",
-				"title": "Amazon Author",
-				"url": "http://www.amazon.com/Daniel-Ionson/e/B00MCVAEHY/ref=dp_byline_cont_ebooks_1"
-			}
-		],
-		"book": [
-			{
-				"type": "goodreads",
-				"id": "22449471-after-life"
-			},
-			{
-				"type": "amazon",
-				"id": "B00EB1R0JI"
-			}
-		],
+        "author": [
+            {
+                "id": "7204487.Daniel_Ionson",
+                "type": "goodreads-author"
+            },
+            {
+                "id": "daniel.ionson",
+                "type": "facebook"
+            },
+            {
+                "title": "Musings on the Craft of Writing",
+                "type": "blog",
+                "url": "https://danielionson.wordpress.com/"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Daniel-Ionson/e/B00MCVAEHY/ref=dp_byline_cont_ebooks_1"
+            }
+        ],
+        "book": [
+            {
+                "id": "22449471-after-life",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00EB1R0JI",
+                "type": "amazon"
+            }
+        ],
+        "cover": "https://d.gr-assets.com/books/1402349685l/22449471.jpg",
         "reviews": [
             {
                 "title": "The Fictional Hangout",

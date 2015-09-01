@@ -1,32 +1,32 @@
 {
+    "about": "<p>My name's Charlie, I'm 29 years old, and I live in Salt Lake City with my wife and three kids.</p><p>I like comic books, chocolate milk, and writing. I like a lot of other things, too, but those are the three I probably couldn't live without.</p><p>Frotwoot's Faerie Tales (Book One: The Unseelie Court) is my first novel, and my mom really likes it so you KNOW it must be good.</p>",
     "author": "Charlie Ward",
     "gender": "Male",
+    "genderJustification": "Inferred from Amazon about page.",
     "nationality": "United States",
+    "nationalityJustification": "Inferred from Amazon about page.",
     "processed": false,
     "race": "Unknown",
     "reviewer": "Fantasy Book Review",
     "status": "Honorable",
+    "summary": "<p>The Seelie and Unseelie Courts are at war.</p><p>On one side: Noble knights, fighting for freedom. On the other: Not-so-noble terrorists, fighting for the right to rule.</p><p>Caught in the middle: A very confused, very lost teenage boy.</p><p>His name is Frotwoot Crossley. And he's about to find out that, somehow, that's not even the weirdest thing about him...</p>",
     "title": "Frotwoot's Faerie Tales",
-	"genderJustification": "Inferred from Amazon about page.",
-	"nationalityJustification": "Inferred from Amazon about page.",
-	"summary": "<p>The Seelie and Unseelie Courts are at war.</p><p>On one side: Noble knights, fighting for freedom. On the other: Not-so-noble terrorists, fighting for the right to rule.</p><p>Caught in the middle: A very confused, very lost teenage boy.</p><p>His name is Frotwoot Crossley. And he's about to find out that, somehow, that's not even the weirdest thing about him...</p>",
-	"about": "<p>My name's Charlie, I'm 29 years old, and I live in Salt Lake City with my wife and three kids.</p><p>I like comic books, chocolate milk, and writing. I like a lot of other things, too, but those are the three I probably couldn't live without.</p><p>Frotwoot's Faerie Tales (Book One: The Unseelie Court) is my first novel, and my mom really likes it so you KNOW it must be good.</p>",
     "urls": {
-		"cover": "img/charlie-ward-frotwoot.jpg",
-		"avatar": "",
-		"book": [
-			{
-				"type": "amazon",
-				"id": "B00ITYTH6W"
-			}
-		],
-		"author": [
-			{
-				"type": "amazon-author",
-				"title": "Amazon Author",
-				"url": "http://www.amazon.com/Charlie-Ward/e/B00ITYZ39M/ref=dp_byline_cont_ebooks_1"
-			}
-		],
+        "author": [
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Charlie-Ward/e/B00ITYZ39M/ref=dp_byline_cont_ebooks_1"
+            }
+        ],
+        "avatar": "",
+        "book": [
+            {
+                "id": "B00ITYTH6W",
+                "type": "amazon"
+            }
+        ],
+        "cover": "img/charlie-ward-frotwoot.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Review",
