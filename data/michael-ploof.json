@@ -1,13 +1,50 @@
 {
+    "about": "<p>Michael was born during a blizzard in the late 70's. He grew up in the Northern NY Boonies. Luckily he had no cable TV, but he did possess the power to turn an ordinary stick into anything imaginable. He spent his first decade of life fighting monsters, aliens, and Sith lords. Having been unsuccessfully taught how to sit down, shut up, get in line, and raise his hand to pee, he quit school the first day of his senior year of high school. Along with his band members and girlfriend, Michael took a greyhound bus to California, something he had always dreamed of doing. After nine months and many crazy experiences and soup kitchens later, he and his girlfriend returned to NY with a baby on the way. Joining the workforce with blue hair and no education that mattered to the &quot;real world trolls&quot; he began to work toward supporting his new family. Three years later the family grew with the addition of a baby girl. Michael spent 14 years at a Casino being the best poker dealer in NY, and later as the best boss in the world. (Hey man, I'm just repeating what they say). He has recently quit his day job to focus on writing full-time. Michael is still married to his high school sweetheart.</p><p>His hobbies include reading, cooking, gardening, researching the spiritual and mental enslavement of his fellow humans, working out, playing guitar, bass, and drums. He is patiently waiting for the world to take the red pill.</p><p>Above all else, Michael enjoys beating the odds.</p>",
     "author": "Michael Ploof",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
-    "race": "Unknown",
+    "gender": "Male",
+    "genderJustification": "From Goodreads author page.",
+    "nationality": "United States",
+    "nationalityJustification": "From Goodreads author page.",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustificaiton": "Inferred from Goodreads image.",
     "reviewer": "Fantasy Book Review",
     "status": "Honorable",
+    "summary": "<p>Every so often, an epic adventure emerges that makes the blood surge, the spine tingle, and the heart smile page after exhilarating page. Such is Whill of Agora, Michael James Ploof\u2019s action-packed fantasy that visits strange new lands as it unveils how one exceptional young man named Whill makes full use of fierce wits, superior skills, and relentless will to help defend the land of Agora from the monstrous Draggard. With plenty of drama and action packed battle scenes, Whill of Agora will enthrall anyone on the quest for great adventure, good times, and an infectiously optimistic outlook on even the darkest and most dangerous of days.</p><p>It is the year 5170 in the land Agora, where humans, dwarves, and elves have existed in peace for centuries. Now, however, the human King Addakon has invaded and waged war on neighboring Isladon. The once peaceful Kingdoms of Agora are on the brink of continental war. The Dark Elf Eadon, Addakon's master, and his army of Dragon-Elf crossbreeds, the Draggard, threaten to conquer all kingdoms. The final hour has arrived.</p><p>Enter young Whill, a nineteen-year-old ranger with battle savvy and untapped abilities. Having spent years roaming Agora and training with his mentor Abram, Whill has become a bright intellectual and a master of combat. What he seeks most, however, is the identity of his birth parents. Instead, he finds a tumultuous terrain and a prophecy placing him in the center of the struggle.</p><p>Along the way, Whill encounters an equally inspired group of companions that are matched in skill and mission. These include Rhunis the Dragon Slayer, the young Tarren, the fearless Dwarf Roakore, the beguiling warrior Elf Avriel, and the powerful Zerafin. As Whill joins forces, he forges bonds far mightier than their escalating travails. With high adventure and fierce friendship, Whill of Agora will capture your imagination and grip your heart during every super-charged escapade that Agora\u2019s bold and grinning brotherhood embraces.</p>",
     "title": "The Whill of Agora",
     "urls": {
+        "author": [
+            {
+                "title": "Michael James Ploof",
+                "type": "website",
+                "url": "http://michaelploof.blogspot.com/"
+            },
+            {
+                "id": "6422806.Michael_James_Ploof",
+                "type": "goodreads-author"
+            },
+            {
+                "id": "whillofagora",
+                "type": "twitter"
+            }
+        ],
+        "avatar": "https://d.gr-assets.com/authors/1393957694p8/6422806.jpg",
+        "book": [
+            {
+                "title": "The Whill of Agora",
+                "type": "website",
+                "url": "http://www.whillofagora.com/"
+            },
+            {
+                "id": "15705304-whill-of-agora",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00505BV7Q",
+                "type": "amazon"
+            }
+        ],
+        "cover": "https://d.gr-assets.com/books/1342849408l/15705304.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Review",

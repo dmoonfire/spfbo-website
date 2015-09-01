@@ -1,13 +1,48 @@
 {
+    "about": "<p>I live in the beautiful Highlands of Scotland with my husband, my grown up daughter and a mad cat. I like chocolate, whisky, my Kindle, massed pipe bands, long leisurely lunches, watching TV with my daughter, chocolate, going places in my campervan, eating pizza in Italy, summer nights that never get dark, wood fires in winter, chocolate, the view from the study window looking out over the Moray Firth and the Black Isle to the mountains beyond. And chocolate. I dislike driving on motorways, cooking, shopping, hospitals.</p>",
     "author": "Pauline M Ross",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
+    "gender": "Female",
+    "genderJustification": "Goodreads about page.",
+    "nationality": "United Kingdom",
+    "nationalityJustification": "Goodreads about page.",
+    "processed": true,
     "race": "Unknown",
     "reviewer": "Bookworm Blues",
     "status": "Honorable",
+    "summary": "<p>Thousands of years after a magical catastrophe reshaped the world and pulled the moons out of alignment, the secret of magic has seemingly been lost. At the centre of the vast, forbidding Plains of Kallanash lies a land ruled by a secretive religion, whose people fight a never-ending war against the barbarians in the wilderness beyond the border. </p><p>Amongst the nobility, double marriages are the norm. Junior wife Mia always dreamed of attracting the attention of the dashing lead husband, but never dared to compete against her lively older sister. Hurst has spent ten frustrating years as junior husband, longing to test his skill with a sword in battle, longing for his beloved Mia to turn to him. </p><p>The mysterious death of Mia\u2019s sister thrusts the marriage into turmoil. As Mia and Hurst struggle to adjust and find out what happened, they uncover sinister truths about the ruling religion. But the gods are unforgiving; even Mia\u2019s innocent questions carry a terrible punishment. Hurst is prepared to risk everything to save her, even if it means taking up his sword against the barbarians, his own people, and the gods themselves.</p>",
     "title": "The Plains of Kallanash",
     "urls": {
+        "author": [
+            {
+                "title": "Pauline's Epic Fantasy World",
+                "type": "website",
+                "url": "http://paulinemross.co.uk/"
+            },
+            {
+                "id": "8342911.Pauline_M_Ross",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Pauline-M.-Ross/e/B00N66GLNK/ref=dp_byline_cont_ebooks_1"
+            },
+            {
+                "id": "PaulineMRoss",
+                "type": "twitter"
+            }
+        ],
+        "book": [
+            {
+                "id": "22606576-the-plains-of-kallanash",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00N5WRXJ6",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1404158118l/22606576.jpg",
         "reviews": [
             {
                 "title": "Bookworm Blues",

@@ -1,9 +1,8 @@
 {
-    "about": "<p></p>",
     "author": "Alex Ziebart",
     "gender": "Unknown",
     "nationality": "Unknown",
-    "processed": false,
+    "processed": true,
     "race": "Unknown",
     "reviewer": "Fantasy Book Critic",
     "status": "Honorable",

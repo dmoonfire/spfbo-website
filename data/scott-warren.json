@@ -1,13 +1,41 @@
 {
+    "about": "<p>Scott Warren is 26, and lives in Central Oregon where he splits his time between writing, aviation, and art. One of his dreams was to someday write a novel and illustrate the cover, and he has accomplished this with the release of his debut novel, The Sorcerous Crimes Division: Devilbone. He writes as a hobby, favoring self-publishing and never having expected such a positive reaction to his work. A small, but growing number of readers offers constant encouragement.</p><p>&quot;I just sat down one day and said, Theres no reason I shouldn't have already written a novel. That's really all it took. That, and being too stubborn to quit. I started writing from 11 PM to midnight every night, and whenever else I had time, and in three months I had a rough draft. It was another year before I was confident in self-publishing my work, and despite the roughness of my novel work the reception has been amazing. I've been reading voraciously all my life, and my hope is that my favorite authors, Erikson, Pratchet, Gaiman, Jordan, Scalzi, and others will have a deep influence on my work while I explore my own style and stories.&quot;</p>",
     "author": "Scott Warren",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
-    "race": "Unknown",
+    "gender": "Male",
+    "genderJustification": "Inferred from name.",
+    "nationality": "United States",
+    "nationalityJustification": "Inferred from Amazon about page.",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustification": "Inferred from Amazon avatar image.",
     "reviewer": "Fantasy Book Critic",
     "status": "Honorable",
+    "summary": "<p>Kaharas is one of the largest free cities on the continent of Varshon, a melting pot of humanoid species traveling, trading, and making a life for themselves. As all large cities, it attracts a substantial amount of crime largely ignored by the city's civil watch. But when the sorcerers of six races come together, sometimes the friction is bound to make things a bit hot. Enter: The Sorcerous Crimes Division. The S.C.D. is an organization of mage-adept constables dedicated to investigating and policing magical crime in the city of Kaharas. They spend their nights chasing rogue wizards, locking away dangerous artifacts, and just making sure citizens don't wake up with their feet melted off.</p><p>In Devilbone, Commander Vulfort struggles with a growing problem of sorcerous contraband within the city that reaches a breaking point when an ancient necromantic reagent called Devilbone Dust, one of 14 forbidden substances, is discovered just outside the city. Meanwhile, Private Tanner has just arrived at the Division and faces the difficulty of adjusting to the dangerous life of a raider and tension within his squad. Together they must find the source of the Devilbone before the dark powers at work use it to destroy the city they are sworn to protect.</p>",
     "title": "Sorcerous Crimes Division: Devil Bone",
     "urls": {
+        "author": [
+            {
+                "id": "321960.Scott_Warren",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Scott-Warren/e/B00N4IWC4C/ref=dp_byline_cont_ebooks_1"
+            }
+        ],
+        "avatar": "img/scott-warren.jpg",
+        "book": [
+            {
+                "id": "24467759-the-sorcerous-crimes-division",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00L9I4A58",
+                "type": "amazon"
+            }
+        ],
+        "cover": "https://d.gr-assets.com/books/1421113055l/24467759.jpg",
         "reviews": [
             {
                 "title": "Fantasy Book Critic",

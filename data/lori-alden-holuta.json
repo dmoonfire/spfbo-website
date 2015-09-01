@@ -1,13 +1,54 @@
 {
+    "about": "<p>Lori Holuta lives between the cornfields of Mid-Michigan, where she grows vegetables and herbs, when she\u2019s not playing games with a cat named Chives. She\u2019s fond of activities from the past, including canning and preserving, crochet and cooking. She\u2019s learning how to make her own wines and cheeses.</p><p>Her lifelong fascination with the Victorian era dovetails nicely with articles she has written for The Primgraph, a magazine focusing on historical eras in virtual worlds, as well as movie and book reviews for Steampunk Magazine. The Flight to Brassbright, now on pre-order at Amazon.com for a late January 2015 release. It's her first full-length, and is set in a quasi-Victorian era of her own contrivance. She also serves as Editor-In-Chief for Penny Gaff Publications, a small independent publishing house which produces serial adventures in the old penny novel style.</p>",
     "author": "Lori Alden Holuta",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
-    "race": "Unknown",
+    "gender": "Female",
+    "genderJustification": "From Goodreads author page.",
+    "nationality": "United States",
+    "nationalityJustification": "From Goodreads author page.",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustificaiton": "Inferred from Goodreads avatar.",
     "reviewer": "Bibliotropic",
     "status": "Honorable",
-    "title": "The flight to Brassbright",
+    "summary": "<p>Constance is a wild, stubborn young girl growing up poor in a small industrial town. But beneath her thread-worn exterior beats the heart of a dreamer and a wordsmith. She feeds her hunger for reading by picking the lock on the local bookstore late at night to enjoy her own private reading room. But at age twelve, she\u2019s orphaned. With no relatives to take her in, the local authorities scheme to take charge of the bewildered girl\u2019s life. Running away to join the circus\u2014like kids do in adventure books\u2014seems like such a brilliant idea\u2026 or is it?</p><p>That was six long years ago. Now, Constance is eighteen, fed up with the constraints of life under the big-top, and despairing for her future. She\u2019s ready to dust off her old dreams, but first she\u2019s going to need another cunning escape plan.</p><p>Can a young, newly-freed woman travel the road to her dreams and a place to call home? Step back in time to 1895 and take a wild, occasionally hilarious ride with Constance and the friends she meets along the way, as she travels the dirt roads and blue skies of a country called Industralia. Her journey winds through towns and cities bursting with creative eccentrics, high-flying airships, dazed automatons, brilliantly cracked inventors and more than a few kindred spirits. With allies like these, what could possibly go wrong?</p>",
+    "title": "The Flight To Brassbright",
     "urls": {
+        "author": [
+            {
+                "title": "The Brassbright Chronicle",
+                "type": "website",
+                "url": "http://www.brassbrightcity.com/"
+            },
+            {
+                "id": "10803343.Lori_Alden_Holuta",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Lori-Alden-Holuta/e/B00SS1X8IY/ref=dp_byline_cont_ebooks_1"
+            },
+            {
+                "id": "Brassbright",
+                "type": "twitter"
+            }
+        ],
+        "avatar": "http://d.gr-assets.com/authors/1418668240p8/10803343.jpg",
+        "book": [
+            {
+                "id": "23868149-the-flight-to-brassbright",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00QO1PW34",
+                "type": "amazon"
+            },
+            {
+                "id": "512402",
+                "type": "smashwords"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1418668567l/23868149.jpg",
         "reviews": [
             {
                 "title": "Bibliotropic",

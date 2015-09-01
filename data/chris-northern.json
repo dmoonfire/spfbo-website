@@ -1,13 +1,46 @@
 {
+    "about": "<p>Chris Northern is European, a traveler by inclination, and an electrical engineer by education.</p><p>He is often to be found eying the horizon; shortly thereafter, he is often found to be gone.</p><p>Chris Northern writes Fantasy and Science Fiction.</p>",
     "author": "Chris Northern",
-    "gender": "Unknown",
-    "nationality": "Unknown",
-    "processed": false,
-    "race": "Unknown",
+    "gender": "Male",
+    "genderJustification": "Goodreads author page.",
+    "nationality": "United Kingdom",
+    "nationalityJustification": "Goodreads author page.",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustificaiton": "Inferred from Goodreads author.",
     "reviewer": "Bibliotropic",
     "status": "Honorable",
+    "summary": "<p>My name is Sumto, and everyone thinks I am a gambling, lazy, good-for-nothing drunk. Frankly, I think they have a point. Right now I may have to join the army and fight in a war I am frankly too corpulent to cope with.</p><p>Still, it looks like being a small, short war. So that's got to be as bad as things get. Am I right?</p><p>Trained in his youth for war and politics, Sumto is interested in neither. As the son of a Patron, he should gather clients, acquire wealth, learn magic, husband a political power base and take his place amongst the Assembly of Patrons, the rulers of the city. Sumto would rather gather friends, acquire books, learn history, husband a hangover and take his place at the gambling tables. That is not going to be an option for much longer.</p><p>Unknown to Sumto, everything is about to change. There is a war in the north and Sumto is about to become a very unwilling participant.</p>",
     "title": "The Last King's Amulet",
     "urls": {
+        "author": [
+            {
+                "title": "Chris Northern",
+                "type": "website",
+                "url": "http://www.forwardviewmirror.blogspot.co.uk/"
+            },
+            {
+                "id": "3503275.Chris_Northern",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Chris-Northern/e/B005M1665U/ref=dp_byline_cont_ebooks_1"
+            }
+        ],
+        "avatar": "http://d.gr-assets.com/authors/1320184697p8/3503275.jpg",
+        "book": [
+            {
+                "id": "17676997-the-last-kings-amulet",
+                "type": "goodreads"
+            },
+            {
+                "id": "B0059Y3D2E",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1364221445l/17676997.jpg",
         "reviews": [
             {
                 "title": "Bibliotropic",

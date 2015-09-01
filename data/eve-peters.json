@@ -3,7 +3,7 @@
     "gender": "Female",
     "genderJustification": "Inferred from name.",
     "nationality": "Unknown",
-    "processed": false,
+    "processed": true,
     "race": "Unknown",
     "reviewer": "Bookworm Blues",
     "status": "Honorable",

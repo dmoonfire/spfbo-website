@@ -1,13 +1,49 @@
 {
+    "about": "<p>Like every child, Matt Karlov was raised on stories of the impossible, from the good parts of Sesame Street, to The Hobbit, to Watership Down and beyond. As Matt grew older, he had the good fortune to retain his taste for the fantastic, which soon developed into a deep love of speculative fiction in its many guises. He has been struggling to make room on his shelves for new books ever since.</p><p>Matt has been a software designer, a web developer, and a business analyst. He lives in Sydney, Australia. The Unbound Man is his first novel.</p>",
     "author": "Matt Karlov",
-    "gender": "Unknown",
+    "gender": "Male",
+    "genderJustification": "Goodreads author page.",
     "nationality": "Unknown",
-    "processed": false,
-    "race": "Unknown",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustificaiton": "Inferred from Goodreads avatar.",
     "reviewer": "Bookworm Blues",
     "status": "Honorable",
+    "summary": "<p>In a land of merchant companies, printing presses, gunpowder and sorcery, Arandras Kanthesi once worked alongside the gifted and powerful, hunting down artefacts of the glorious past and teasing out their secrets. Then an unknown assailant murdered his wife, and his world fell apart.</p><p>Now, at last, he has a lead.</p><p>But pursuing his quarry means joining forces with the Quill, the order of sorcerers and scholars Arandras abandoned after his wife's death. And the Quill's help never comes without a price.</p><p>In his hunt for the killer, Arandras stumbles across a relic of a long-dead empire, one that could lead to a weapon of enormous power. Caught between his former colleagues and his wife's murderer in a race for the lost weapon, Arandras must decide what he values most: revenge, the lives of those he once called friends, or the fate of a world he no longer cares for.</p><p>By turns gritty, reflective, and intense, THE UNBOUND MAN is a powerful debut from a compelling new voice in fantasy.</p>",
     "title": "The Unbound Man",
     "urls": {
+        "author": [
+            {
+                "title": "Matt Karlov",
+                "type": "website",
+                "url": "http://www.mattkarlov.com/"
+            },
+            {
+                "id": "8532060.Matt_Karlov",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/Matt-Karlov/e/B00NBKR0X6/ref=dp_byline_cont_book_1"
+            },
+            {
+                "id": "mattkarlov",
+                "type": "twitter"
+            }
+        ],
+        "avatar": "http://d.gr-assets.com/authors/1410429471p8/8532060.jpg",
+        "book": [
+            {
+                "id": "23173876-the-unbound-man",
+                "type": "goodreads"
+            },
+            {
+                "id": "0992570107",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1410350914l/23173876.jpg",
         "reviews": [
             {
                 "title": "Bookworm Blues",

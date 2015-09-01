@@ -5,7 +5,7 @@
     "genderJustification": "Inferred from Amazon about page.",
     "nationality": "United States",
     "nationalityJustification": "Inferred from Amazon about page.",
-    "processed": false,
+    "processed": true,
     "race": "Unknown",
     "reviewer": "Fantasy Book Review",
     "status": "Honorable",

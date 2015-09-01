@@ -1,13 +1,36 @@
 {
     "author": "Kevin Butterfield",
-    "gender": "Unknown",
+    "gender": "Male",
+    "genderJustification": "Goodreads author page.",
     "nationality": "Unknown",
-    "processed": false,
+    "processed": true,
     "race": "Unknown",
     "reviewer": "Beauty in Ruins",
     "status": "Honorable",
+    "summary": "<p>In a fractured land ruled by warring clans and a mysterious order of priests known as the Elds, a storm is brewing. One which threatens to change the face of the great island nation of Kelidon forever. In the eye of this storm rests a dark omen, Clan Darmah, and the Elds with their silent gods. Powerful magic holds the land in its brutal fist, while remnants of a broken clan fight to renew their standing among the people\u2014the outcome altogether uncertain. Once again, an ancient legend rides the wild winds of the world and its focus lies in the heart of this nation. It is known to a few as the Wild Power, The Hand of Skyfire, or Hammer of the Gree, but it is known by all as a Stormwalker. Nothing but destruction will follow in its wake and any mortal foolish enough to ally with its cause will be trapped by that destruction. Jorgan Darmah is such a mortal. Placing his hope and the future of Clan Darmah in the hands of this unwieldy being, he knowingly sets a course that may curse all of Kelidon to an abominable end.</p>",
     "title": "Stormwalkers",
     "urls": {
+        "author": [
+            {
+                "id": "3382162.Kevin_Butterfield",
+                "type": "goodreads-author"
+            }
+        ],
+        "book": [
+            {
+                "id": "11001625-stormwalkers",
+                "type": "goodreads"
+            },
+            {
+                "id": "B004ULVL08",
+                "type": "amazon"
+            },
+            {
+                "id": "516730",
+                "type": "smashwords"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1388865068l/11001625.jpg",
         "reviews": [
             {
                 "title": "Beauty in Ruin",

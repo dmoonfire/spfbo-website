@@ -1,13 +1,48 @@
 {
     "author": "James Islington",
-    "gender": "Unknown",
+    "gender": "Male",
+    "genderJustification": "From Goodreads about page.",
     "nationality": "Unknown",
-    "processed": false,
-    "race": "Unknown",
+    "processed": true,
+    "race": "Caucasian",
+    "raceJustificaiton": "Inferred from Goodreads image.",
     "reviewer": "Fantasy-Faction",
     "status": "Honorable",
-    "title": "The shadow of what was lost",
+    "summary": "<p><em>It has been twenty years since the end of the war. The dictatorial Augurs - once thought of almost as gods - were overthrown and wiped out during the conflict, their much-feared powers mysteriously failing them. Those who had ruled under them, men and women with a lesser ability known as the Gift, avoided the Augurs' fate only by submitting themselves to the rebellion's Four Tenets. A representation of these laws is now written into the flesh of any who use the Gift, forcing those so marked into absolute obedience.</em></p><p>As a student of the Gifted, Davian suffers the consequences of a war fought \u2013 and lost \u2013 before he was born. Despised by most beyond the school walls, he and those around him are all but prisoners as they attempt to learn control of the Gift. Worse, as Davian struggles with his lessons, he knows that there is further to fall if he cannot pass his final tests.</p><p>But when Davian discovers he has the ability to wield the forbidden power of the Augurs, he sets into motion a chain of events that will change everything. To the north, an ancient enemy long thought defeated begins to stir. And to the west, a young man whose fate is intertwined with Davian\u2019s wakes up in the forest, covered in blood and with no memory of who he is\u2026 </p>",
+    "title": "The Shadow Of What Was Lost",
     "urls": {
+        "author": [
+            {
+                "title": "James Islington",
+                "type": "website",
+                "url": "http://www.jamesislington.com/"
+            },
+            {
+                "id": "8427407.James_Islington",
+                "type": "goodreads-author"
+            },
+            {
+                "title": "Amazon Author",
+                "type": "amazon-author",
+                "url": "http://www.amazon.com/James-Islington/e/B00ME7ACR8/ref=dp_byline_cont_ebooks_1"
+            },
+            {
+                "id": "IslingtonJames",
+                "type": "twitter"
+            }
+        ],
+        "avatar": "http://d.gr-assets.com/authors/1407335769p8/8427407.jpg",
+        "book": [
+            {
+                "id": "22878967-the-shadow-of-what-was-lost",
+                "type": "goodreads"
+            },
+            {
+                "id": "B00ME5G3DM",
+                "type": "amazon"
+            }
+        ],
+        "cover": "http://d.gr-assets.com/books/1407327630l/22878967.jpg",
         "reviews": [
             {
                 "rating": 8,

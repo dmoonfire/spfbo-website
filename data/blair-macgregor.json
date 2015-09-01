@@ -4,7 +4,7 @@
     "gender": "Female",
     "genderJustification": "Pronoun in Amazon about page.",
     "nationality": "Unknown",
-    "processed": false,
+    "processed": true,
     "race": "Caucasian",
     "raceJustificaiton": "Inferred from image.",
     "reviewer": "Beauty in Ruins",
