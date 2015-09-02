@@ -45,12 +45,12 @@
             }
         ],
         "cover": "http://d.gr-assets.com/books/1300572163l/10806559.jpg",
-		"review": [
-			{
-				"type": "review",
-				"title": "Fantasy Faction",
-				"url": "http://fantasy-faction.com/2015/priest-by-matthew-colville-fantasy-factions-spfbo-winner"
-			}
-		]
+        "review": [
+            {
+                "title": "Fantasy Faction",
+                "type": "review",
+                "url": "http://fantasy-faction.com/2015/priest-by-matthew-colville-fantasy-factions-spfbo-winner"
+            }
+        ]
     }
 }
