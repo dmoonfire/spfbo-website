@@ -159,7 +159,7 @@ function onIndexData(data) {
 	{
 		// Retrieve the results and populate them.
 		console.log("Loading", entry);
-		$.get("data/" + entry + ".json", onBookData).done(onBookEnd);
+		$.get("data/" + entry + ".json?r=1", onBookData).done(onBookEnd);
 	}
 }
 
@@ -335,10 +335,32 @@ function onBookData(book) {
 		{
 			appendKeyUrls("Links", book.urls.author, summary);
 		}
+
+		// Add in the corrections and updates line.
+		searchString = qTitle + ' by ' + book.author;
+		qString = encodeURIComponent(searchString);
+
+		updatesRow = $("<div class='row'></div>");
+		updates = $("<div class='col-md-12 updates'></div>");
+		panelBody.append(updatesRow);
+		updatesRow.append(updates);
+
+		console.log("book", book.title, book.processed);
+
+		if (book.processed)
+		{
+			link = $("<a href='mailto:contact@moonfire.us?subject=Updates%20and%20Corrections%20for%20" + qString + "'>Please send corrections and updates to contact@moonfire.us.</a>");
+		}
+		else
+		{
+			link = $("<span>Data has not been gathered for this book. If you have summaries, links, or links to pictures, please send them to <a href='mailto:contact@moonfire.us?subject=Updates%20and%20Corrections%20for%20" + qString + "'>contact@moonfire.us.</a> and it will get updated as soon as reasonable.</span>");
+		}
+
+		updates.append(link);
 	}
 	catch(err) {
 		// Report what we're reading.
-		console.log("Error loading", book);
+		console.log("Error loading", book, err);
 	}
 }
 
@@ -436,7 +458,7 @@ function searchBooks() {
 		var haystack = name + " " + status;
 		var valid = true;
 
-		console.log("searching", haystack);
+		//console.log("searching", haystack);
 		
 		for (term of terms)
 		{
