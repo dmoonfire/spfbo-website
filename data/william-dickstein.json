@@ -5,6 +5,15 @@
     "processed": false,
     "race": "Unknown",
     "reviewer": "The Fictional Hangout",
-    "status": "Considering",
-    "title": "A Tale of Gems"
+    "status": "Mentioned",
+    "title": "A Tale of Gems",
+	"urls": {
+        "reviews": [
+            {
+                "title": "The Fictional Hangout",
+                "type": "review",
+                "url": "http://thefictionalhangout.blogspot.co.uk/2015/09/the-great-self-published-fantasy-blog.html"
+            }
+		]
+	}
 }
