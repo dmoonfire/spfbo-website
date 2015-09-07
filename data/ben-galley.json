@@ -56,6 +56,7 @@
         "cover": "http://static.wixstatic.com/media/d2c543_5fb1f0b7bb084bc19959b3f66f587867.jpeg_srz_p_278_414_75_22_0.50_1.20_0.00_jpeg_srz",
         "reviews": [
             {
+                "rating": 8,
                 "title": "Bookworm Blues",
                 "type": "review",
                 "url": "http://www.bookwormblues.net/2015/05/05/the-great-self-published-fantasy-blog-off-mini-reviews-round-2/"
@@ -64,6 +65,12 @@
                 "title": "Bookworm Blues",
                 "type": "review",
                 "url": "http://www.bookwormblues.net/2015/08/10/spfbo-and-the-winner-is/"
+            },
+            {
+                "rating": 8,
+                "title": "Fantasy Faction",
+                "type": "review",
+                "url": "http://fantasy-faction.com/2015/bloodrush-by-ben-galley"
             }
         ]
     }

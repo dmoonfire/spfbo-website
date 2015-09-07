@@ -44,6 +44,7 @@
                 "url": "http://thefictionalhangout.blogspot.co.uk/2015/04/the-great-self-published-fantasy-blog.html"
             },
             {
+                "rating": 8.5,
                 "title": "The Fictional Hangout",
                 "type": "review",
                 "url": "http://thefictionalhangout.blogspot.co.uk/2015/05/sins-of-sovereignty-by-plague-jack.html"
@@ -57,6 +58,12 @@
                 "title": "The Fictional Hangout",
                 "type": "review",
                 "url": "http://thefictionalhangout.blogspot.co.uk/2015/09/the-great-self-published-fantasy-blog.html"
+            },
+            {
+                "rating": 8,
+                "title": "Beauty in Ruins",
+                "type": "review",
+                "url": "https://www.goodreads.com/review/show/1070044373"
             }
         ]
     }
