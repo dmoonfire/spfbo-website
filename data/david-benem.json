@@ -54,6 +54,11 @@
                 "title": "Fantasy Book Review",
                 "type": "review",
                 "url": "http://www.fantasybookreview.co.uk/blog/2015/07/26/our-spfbo-champion/"
+            },
+            {
+                "title": "Fantasy Faction",
+                "type": "review",
+                "url": "http://fantasy-faction.com/2015/what-remains-of-heroes-by-david-benem"
             }
         ]
     }
